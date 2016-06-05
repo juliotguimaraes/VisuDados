@@ -108,6 +108,7 @@ var parseDate = d3.time.format("%Y").parse;
 var xAxis = d3.svg.axis()
     .scale(x_time)
     .orient("bottom");
+
 var xAxis2 = d3.svg.axis()
     .scale(x2_time)
     .orient("bottom");
@@ -127,7 +128,7 @@ var yAxisRight = d3.svg.axis()
 
 //posicao x e y dos ptos da linha
 var line = d3.svg.line()
-    .x(function(d) { return x_time(d.year) + ((width-200)/len - 5)/2; }) //essa ultima parte é pra ficar no centro da barra
+    .x(function(d) { if( x_time(d.year) >0 &&  x_time(d.year) < 801 ) return x_time(d.year) + ((width-200)/len - 5)/2; else if(x_time(d.year) < 0) return 0; else if(x_time(d.year) > 801) return 800; }) //essa ultima parte é pra ficar no centro da barra
     .y(function(d) { return y1(d.wage); });
 
 var svg = d3.select("#chart").append("svg")
@@ -160,8 +161,6 @@ d3.tsv("data1.tsv", type, function(error, data) {
 
   x_time.domain(d3.extent(data.map(function(d) { return d.year; })));
   x2_time.domain(x_time.domain());
-  console.log(x_time.domain());
-  console.log(x2_time.domain());
 
   y0.domain([0, d3.max(data, function(d) { return d.employees; })]);
   y1.domain([0, d3.max(data, function(d) { return d.wage; })]);
@@ -174,6 +173,8 @@ d3.tsv("data1.tsv", type, function(error, data) {
       .attr("class", "x axis")
       .attr("transform", "translate(0," + height + ")")
       .call(xAxis);
+
+
   // eixo Y da esquerda
   principal.append("g")
       .attr("class", "y axis")
@@ -224,7 +225,7 @@ d3.tsv("data1.tsv", type, function(error, data) {
       .data(data)
     .enter().append("rect")
       .attr("class", "bar")
-      .attr("x", function(d) { return x_time(d.year); })
+      .attr("x", function(d) { return x2_time(d.year); })
       .attr("width", (width-200)/len - 5)
       .attr("y", function(d) { return y02(d.employees); })
       .attr("height", function(d) { return height - y02(d.employees); });
@@ -247,10 +248,9 @@ function brushed() {
 
   x_time.domain(brush.empty() ? x2_time.domain() : brush.extent());
   console.log(brush.extent());
-  principal.selectAll("rect")
-    .attr("class", "bar")
-    .attr("x", function(d) { return x_time(d.year) - ((width)/len)/2; })
-    .attr("width", (width-200)/len )
+  principal.selectAll(".bar")
+    .attr("x", function(d) { if( x_time(d.year) >0 &&  x_time(d.year) < 801 )return x_time(d.year); else return -300; })
+    .attr("width", (width)/len - 5)
     .attr("y", function(d) { return y0(d.employees); })
     .attr("height", function(d) { return height - y0(d.employees); })
   principal.select(".x.axis").call(xAxis);
