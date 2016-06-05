@@ -79,9 +79,7 @@ h3{
 <script src="http://d3js.org/d3.v3.min.js"></script>
 <script>
 
-var margin = {top: 20, right: 100, bottom: 30, left: 100},
-    width = 960 - margin.left - margin.right,
-    height = 500 - margin.top - margin.bottom;
+
 var margin = {top: 10, right: 50, bottom: 100, left: 50},
     margin2 = {top: 430, right: 10, bottom: 20, left: 40},
     width = 960 - margin.left - margin.right,
@@ -94,6 +92,9 @@ var x = d3.scale.ordinal()
 var x2 = d3.scale.ordinal()
     .rangeRoundBands([0, width], .1);
 
+var x_time = d3.time.scale().range([0, width]),
+    x2_time= d3.time.scale().range([0, width]);
+
 var y0 = d3.scale.linear()
     .range([height, 0]);
     var y02 = d3.scale.linear()
@@ -105,7 +106,10 @@ var y1 = d3.scale.linear()
 var parseDate = d3.time.format("%Y").parse;
 
 var xAxis = d3.svg.axis()
-    .scale(x)
+    .scale(x_time)
+    .orient("bottom");
+var xAxis2 = d3.svg.axis()
+    .scale(x2_time)
     .orient("bottom");
 
 var yAxisLeft = d3.svg.axis()
@@ -118,9 +122,12 @@ var yAxisRight = d3.svg.axis()
     .orient("right")
     .ticks(7);
 
+
+
+
 //posicao x e y dos ptos da linha
 var line = d3.svg.line()
-    .x(function(d) { return x(d.year) + (x.rangeBand()-5)/2; }) //essa ultima parte é pra ficar no centro da barra
+    .x(function(d) { return x_time(d.year) + (x.rangeBand()-5)/2; }) //essa ultima parte é pra ficar no centro da barra
     .y(function(d) { return y1(d.wage); });
 
 var svg = d3.select("#chart").append("svg")
@@ -134,7 +141,7 @@ svg.append("defs").append("clipPath")
     .attr("height", height);
 
 var brush = d3.svg.brush()
-    .x(x2)
+    .x(x2_time)
     .on("brush", brushed);
 
 var principal = svg.append("g")
@@ -145,10 +152,17 @@ var seletor = svg.append("g")
     .attr("class", "context")
     .attr("transform", "translate(" + margin2.left + "," + margin2.top + ")");
 
+len = 0;
 d3.tsv("data1.tsv", type, function(error, data) {
+  len = data.length;
   if (error) throw error;
 
-  x.domain(data.map(function(d) { return d.year; }));
+
+  x_time.domain(d3.extent(data.map(function(d) { return d.year; })));
+  x2_time.domain(x_time.domain());
+  console.log(x_time.domain());
+  console.log(x2_time.domain());
+
   y0.domain([0, d3.max(data, function(d) { return d.employees; })]);
   y1.domain([0, d3.max(data, function(d) { return d.wage; })]);
 
@@ -156,11 +170,10 @@ d3.tsv("data1.tsv", type, function(error, data) {
   y02.domain(y0.domain());
 
   //eixo X
-  /*principal.append("g")
+  principal.append("g")
       .attr("class", "x axis")
-      .attr("transform", "translate(0," + height*0.7 + ")")
-      .call(xAxis);*/
-
+      .attr("transform", "translate(0," + height + ")")
+      .call(xAxis);
   // eixo Y da esquerda
   principal.append("g")
       .attr("class", "y axis")
@@ -192,8 +205,8 @@ d3.tsv("data1.tsv", type, function(error, data) {
       .data(data)
     .enter().append("rect")
       .attr("class", "bar")
-      .attr("x", function(d) { return x(d.year) + 5; })
-      .attr("width", x.rangeBand()-10)
+      .attr("x", function(d) { return x_time(d.year); })
+      .attr("width", (width-200)/len)
       .attr("y", function(d) { return y0(d.employees); })
       .attr("height", function(d) { return height - y0(d.employees); });
 
@@ -211,15 +224,15 @@ d3.tsv("data1.tsv", type, function(error, data) {
       .data(data)
     .enter().append("rect")
       .attr("class", "bar")
-      .attr("x", function(d) { return x2(d.year) + 5; })
-      .attr("width", x2.rangeBand()-10)
+      .attr("x", function(d) { return x_time(d.year) + 5; })
+      .attr("width", (width-200)/len - 5)
       .attr("y", function(d) { return y02(d.employees); })
       .attr("height", function(d) { return height - y02(d.employees); });
 
-  /*seletor.append("g")
+  seletor.append("g")
       .attr("class", "x axis")
-      .attr("transform", "translate(0," + height + ")")
-      .call(xAxis);*/
+      .attr("transform", "translate(0," + height2 + ")")
+      .call(xAxis2);
 
   seletor.append("g")
       .attr("class", "x brush")
@@ -230,14 +243,16 @@ d3.tsv("data1.tsv", type, function(error, data) {
 });
 
 function brushed() {
-  x.domain(brush.empty() ? x2.domain() : brush.extent());
+  
+
+  x_time.domain(brush.empty() ? x2_time.domain() : brush.extent());
   console.log(brush.extent());
   principal.selectAll("rect")
     .attr("class", "bar")
-      .attr("x", function(d) { console.log(x(d.year)); 11+x.rangeBand(); })
-      .attr("width", x.rangeBand()-10)
-      .attr("y", function(d) { return y0(d.employees); })
-      .attr("height", function(d) { return height - y0(d.employees); });
+    .attr("x", function(d) { return x_time(d.year) - ((width-200)/len)/2; })
+    .attr("width", (width-200)/len - 5)
+    .attr("y", function(d) { return y0(d.employees); })
+    .attr("height", function(d) { return height - y0(d.employees); })
   principal.select(".x.axis").call(xAxis);
 }
 
