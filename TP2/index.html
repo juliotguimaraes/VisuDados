@@ -1,13 +1,21 @@
 <!DOCTYPE html>
 <meta charset="utf-8">
+<head>
+  <title>TP2 - Visualização de dados 2016/1</title>
+  <link href='https://fonts.googleapis.com/css?family=Raleway:400,500,600,300' rel='stylesheet' type='text/css'>
+</head>
 <style>
 
+body{
+  background: url('redox_01.png') repeat center;
+}
+
 .bar {
-  fill: steelblue;
+  fill: rgb(137, 194, 196);
 }
 
 .bar:hover {
-  fill: brown;
+  fill:   rgb(165, 185, 201);
 }
 
 .axis {
@@ -17,20 +25,55 @@
 .axis path,
 .line {
   fill: none;
-  stroke: steelblue;
+  stroke: rgb(131, 136, 138);
   stroke-width: 2.5px;
+  border-radius: 10px;
 }
 
 .x.axis path {
   display: none;
 }
+#chart{
+  width: 960px;
+  margin: auto;
+  margin-bottom: 50px;
+}
+
+h1, h4, h3{
+  text-align: center;
+  font-family: Raleway;
+  width: 70%;
+  margin: auto;
+}
+
+h1{
+  margin-top: 40px;
+  color: #41807b;
+}
+
+h4{
+  margin-top: 20px;
+  color: #a6a6a6;
+  text-align: right;
+  width: 95%;
+}
+h3{
+   margin-top: 20px;
+   margin-bottom: 40px;
+  color: #808080;
+}
 
 </style>
 <body>
+  <h1>Number of employees and average wage per year</h1>
+  <h3>Data from DataViva about Trade Industry in Belo Horizonte</h3>
+  
+  <div id="chart"></div>
+  <h4>Developed by Carolina S, Gabriela B, Julio G, Thiago for course Visualização de Dados 2016/01</h4>
 <script src="http://d3js.org/d3.v3.min.js"></script>
 <script>
 
-var margin = {top: 20, right: 200, bottom: 30, left: 100},
+var margin = {top: 20, right: 100, bottom: 30, left: 100},
     width = 960 - margin.left - margin.right,
     height = 500 - margin.top - margin.bottom;
 
@@ -57,11 +100,12 @@ var yAxisRight = d3.svg.axis()
     .orient("right")
     .ticks(7);
 
+//posicao x e y dos ptos da linha
 var line = d3.svg.line()
-    .x(function(d) { return x(d.year); })
+    .x(function(d) { return x(d.year) + (x.rangeBand()-5)/2; }) //essa ultima parte é pra ficar no centro da barra
     .y(function(d) { return y1(d.wage); });
 
-var svg = d3.select("body").append("svg")
+var svg = d3.select("#chart").append("svg")
     .attr("width", width + margin.left + margin.right)
     .attr("height", height + margin.top + margin.bottom)
   .append("g")
@@ -74,11 +118,13 @@ d3.tsv("data1.tsv", type, function(error, data) {
   y0.domain([0, d3.max(data, function(d) { return d.employees; })]);
   y1.domain([0, d3.max(data, function(d) { return d.wage; })]);
 
+  //eixo X
   svg.append("g")
       .attr("class", "x axis")
       .attr("transform", "translate(0," + height + ")")
       .call(xAxis);
 
+  // eixo Y da esquerda
   svg.append("g")
       .attr("class", "y axis")
       .call(yAxisLeft)
@@ -89,26 +135,38 @@ d3.tsv("data1.tsv", type, function(error, data) {
       .style("text-anchor", "end")
       .text("Number of Employees");
 
+
+  //eixo Y da direita
   svg.append("g")
       .attr("class", "y axis")
       .attr("transform", "translate(" + width + " ,0)")
-      .call(yAxisRight);
+      .call(yAxisRight)
+    .append("text")
+      .attr("transform", "rotate(-90)")
+      .attr("y", 6)
+      .attr("x", -20)
+      .attr("dy", ".71em")
+      .style("text-anchor", "end")
+      .text("Average Wage");
      
 
+  //barras
   svg.selectAll(".bar")
       .data(data)
     .enter().append("rect")
       .attr("class", "bar")
-      .attr("x", function(d) { return x(d.year); })
+      .attr("x", function(d) { return x(d.year) + 5; })
       .attr("width", x.rangeBand()-10)
       .attr("y", function(d) { return y0(d.employees); })
       .attr("height", function(d) { return height - y0(d.employees); });
 
+  //linha
   svg.append("path")
       .datum(data)
       .attr("class", "line")
-      .style("stroke", "YellowGreen")
-      .attr("d", line);
+      .style("stroke", "#cd7568")
+      .attr("d", line)
+      .style("stroke-width", "5px");
 });
 
 function type(d) {
