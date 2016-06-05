@@ -92,8 +92,8 @@ var x = d3.scale.ordinal()
 var x2 = d3.scale.ordinal()
     .rangeRoundBands([0, width], .1);
 
-var x_time = d3.time.scale().range([0, width]),
-    x2_time= d3.time.scale().range([0, width]);
+var x_time = d3.time.scale().range([10, width-60]),
+    x2_time= d3.time.scale().range([10, width-60]);
 
 var y0 = d3.scale.linear()
     .range([height, 0]);
@@ -127,7 +127,7 @@ var yAxisRight = d3.svg.axis()
 
 //posicao x e y dos ptos da linha
 var line = d3.svg.line()
-    .x(function(d) { return x_time(d.year) + (x.rangeBand()-5)/2; }) //essa ultima parte é pra ficar no centro da barra
+    .x(function(d) { return x_time(d.year) + ((width-200)/len - 5)/2; }) //essa ultima parte é pra ficar no centro da barra
     .y(function(d) { return y1(d.wage); });
 
 var svg = d3.select("#chart").append("svg")
@@ -224,7 +224,7 @@ d3.tsv("data1.tsv", type, function(error, data) {
       .data(data)
     .enter().append("rect")
       .attr("class", "bar")
-      .attr("x", function(d) { return x_time(d.year) + 5; })
+      .attr("x", function(d) { return x_time(d.year); })
       .attr("width", (width-200)/len - 5)
       .attr("y", function(d) { return y02(d.employees); })
       .attr("height", function(d) { return height - y02(d.employees); });
@@ -249,11 +249,13 @@ function brushed() {
   console.log(brush.extent());
   principal.selectAll("rect")
     .attr("class", "bar")
-    .attr("x", function(d) { return x_time(d.year) - ((width-200)/len)/2; })
-    .attr("width", (width-200)/len - 5)
+    .attr("x", function(d) { return x_time(d.year) - ((width)/len)/2; })
+    .attr("width", (width-200)/len )
     .attr("y", function(d) { return y0(d.employees); })
     .attr("height", function(d) { return height - y0(d.employees); })
   principal.select(".x.axis").call(xAxis);
+  principal.selectAll("path")
+      .attr("d", line)
 }
 
 function type(d) {
