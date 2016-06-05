@@ -6,16 +6,28 @@ svg {
   font: 10px sans-serif;
 }
 
+.bar {
+  fill: steelblue;
+}
+
+.bar:hover {
+  fill: brown;
+}
+
 .area {
   fill: steelblue;
   clip-path: url(#clip);
 }
 
 .axis path,
-.axis line {
+.line {
   fill: none;
   stroke: #000;
   shape-rendering: crispEdges;
+}
+
+.x.axis path {
+  display: none;
 }
 
 .brush .extent {
@@ -29,22 +41,38 @@ svg {
 <script src="//d3js.org/d3.v3.min.js"></script>
 <script>
 
-var margin = {top: 10, right: 10, bottom: 100, left: 40},
-    margin2 = {top: 430, right: 10, bottom: 20, left: 40},
+var margin = {top: 20, right: 200, bottom: 30, left: 100},
     width = 960 - margin.left - margin.right,
     height = 500 - margin.top - margin.bottom,
+    margin2 = {top: 430, right: 10, bottom: 20, left: 40},
     height2 = 500 - margin2.top - margin2.bottom;
 
-var parseDate = d3.time.format("%b %Y").parse;
+var x = d3.scale.ordinal()
+    .rangeRoundBands([0, width], .1);
 
-var x = d3.time.scale().range([0, width]),
-    x2 = d3.time.scale().range([0, width]),
-    y = d3.scale.linear().range([height, 0]),
-    y2 = d3.scale.linear().range([height2, 0]);
+var y0 = d3.scale.linear()
+    .range([height, 0]);
 
-var xAxis = d3.svg.axis().scale(x).orient("bottom"),
-    xAxis2 = d3.svg.axis().scale(x2).orient("bottom"),
-    yAxis = d3.svg.axis().scale(y).orient("left");
+var y1 = d3.scale.linear()
+    .range([height, 0]);
+
+var xAxis = d3.svg.axis()
+    .scale(x)
+    .orient("bottom");
+
+var yAxisLeft = d3.svg.axis()
+    .scale(y0)
+    .orient("left")
+    .ticks(7);
+
+var yAxisRight = d3.svg.axis()
+    .scale(y1)
+    .orient("right")
+    .ticks(7);
+
+var line = d3.svg.line()
+    .x(function(d) { return x(d.year); })
+    .y(function(d) { return y1(d.wage); });
 
 var brush = d3.svg.brush()
     .x(x2)
@@ -81,11 +109,47 @@ var context = svg.append("g")
     .attr("transform", "translate(" + margin2.left + "," + margin2.top + ")");
 
 d3.tsv("data1.tsv", type, function(error, data) {
-  x.domain(d3.extent(data.map(function(d) { return d.date; })));
-  y.domain([0, d3.max(data.map(function(d) { return d.price; }))]);
-  x2.domain(x.domain());
-  y2.domain(y.domain());
+  if (error) throw error;
+  x.domain(data.map(function(d) { return d.year; }));
+  y0.domain([0, d3.max(data, function(d) { return d.employees; })]);
+  y1.domain([0, d3.max(data, function(d) { return d.wage; })]);
+  
+  svg.append("g")
+      .attr("class", "x axis")
+      .attr("transform", "translate(0," + height + ")")
+      .call(xAxis);
 
+  svg.append("g")
+      .attr("class", "y axis")
+      .call(yAxisLeft)
+    .append("text")
+      .attr("transform", "rotate(-90)")
+      .attr("y", 6)
+      .attr("dy", ".71em")
+      .style("text-anchor", "end")
+      .text("Number of Employees");
+
+  svg.append("g")
+      .attr("class", "y axis")
+      .attr("transform", "translate(" + width + " ,0)")
+      .call(yAxisRight);
+     
+
+  svg.selectAll(".bar")
+      .data(data)
+    .enter().append("rect")
+      .attr("class", "bar")
+      .attr("x", function(d) { return x(d.year); })
+      .attr("width", x.rangeBand()-10)
+      .attr("y", function(d) { return y0(d.employees); })
+      .attr("height", function(d) { return height - y0(d.employees); });
+
+  svg.append("path")
+      .datum(data)
+      .attr("class", "line")
+      .style("stroke", "YellowGreen")
+      .attr("d", line);
+  
   focus.append("path")
       .datum(data)
       .attr("class", "area")
@@ -125,8 +189,8 @@ function brushed() {
 }
 
 function type(d) {
-  d.date = parseDate(d.date);
-  d.price = +d.price;
+  d.employees = +d.employees;
+  d.wage = +d.wage;
   return d;
 }
 
