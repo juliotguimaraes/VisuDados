@@ -69,6 +69,10 @@ h3{
   color: #808080;
 }
 
+.x.axis text{
+  margin-left: 150px;
+}
+
 </style>
 <body>
   <h1>Number of employees and average wage per year</h1>
@@ -171,13 +175,13 @@ d3.tsv("data1.tsv", type, function(error, data) {
   //eixo X
   principal.append("g")
       .attr("class", "x axis")
-      .attr("transform", "translate(0," + height + ")")
+      .attr("transform", "translate(23," + height + ")")
       .call(xAxis);
 
 
   // eixo Y da esquerda
   principal.append("g")
-      .attr("class", "y axis")
+      .attr("class", "y axis y0")
       .call(yAxisLeft)
     .append("text")
       .attr("transform", "rotate(-90)")
@@ -189,7 +193,7 @@ d3.tsv("data1.tsv", type, function(error, data) {
 
   //eixo Y da direita
   principal.append("g")
-      .attr("class", "y axis")
+      .attr("class", "y axis y1")
       .attr("transform", "translate(" + width + " ,0)")
       .call(yAxisRight)
     .append("text")
@@ -232,7 +236,7 @@ d3.tsv("data1.tsv", type, function(error, data) {
 
   seletor.append("g")
       .attr("class", "x axis")
-      .attr("transform", "translate(0," + height2 + ")")
+      .attr("transform", "translate(23," + height2+ ")")
       .call(xAxis2);
 
   seletor.append("g")
@@ -255,7 +259,13 @@ function brushed() {
     .attr("height", function(d) { return height - y0(d.employees); })
   principal.select(".x.axis").call(xAxis);
   principal.selectAll("path")
-      .attr("d", line)
+      .attr("d", line);
+
+  
+
+  principal.select(".y0").call(yAxisLeft);
+  principal.select(".y1").call(yAxisRight);
+  
 }
 
 function type(d) {
