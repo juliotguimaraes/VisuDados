@@ -1,22 +1,21 @@
 <!DOCTYPE html>
 <meta charset="utf-8">
+<head>
+  <title>TP3 - Visualização de dados 2016/1</title>
+  <link href='https://fonts.googleapis.com/css?family=Raleway:400,500,600,300' rel='stylesheet' type='text/css'>
+</head>
 <style>
 
-svg {
-	font: 10px sans-serif;
-}
-
-.area {
-	fill: steelblue;
-	clip-path: url(#clip);
+body{
+  background: url('redox_01.png') repeat center;
 }
 
 .bar {
-  fill: steelblue;
+  fill: rgb(137, 194, 196);
 }
 
 .bar:hover {
-  fill: brown;
+  fill:   rgb(165, 185, 201);
 }
 
 .axis {
@@ -26,27 +25,65 @@ svg {
 .axis path,
 .line {
   fill: none;
-  stroke: steelblue;
+  stroke: rgb(131, 136, 138);
   stroke-width: 2.5px;
+  border-radius: 10px;
 }
 
 .x.axis path {
   display: none;
 }
+#chart{
+  width: 960px;
+  margin: auto;
+  margin-bottom: 50px;
+}
 
 .brush .extent {
   stroke: #fff;
-  fill-opacity: .125;
+  fill-opacity: .1;
   shape-rendering: crispEdges;
+}
+
+h1, h4, h3{
+  text-align: center;
+  font-family: Raleway;
+  width: 70%;
+  margin: auto;
+}
+
+h1{
+  margin-top: 40px;
+  color: #41807b;
+}
+
+h4{
+  margin-top: 20px;
+  color: #a6a6a6;
+  text-align: right;
+  width: 95%;
+}
+h3{
+   margin-top: 20px;
+   margin-bottom: 40px;
+  color: #808080;
 }
 
 </style>
 <body>
+  <h1>Number of employees and average wage per year</h1>
+  <h3>Data from DataViva about Trade Industry in Belo Horizonte</h3>
+  
+  <div id="chart"></div>
+  <h4>Developed by Carolina S., Gabriela B., Julio G., Thiago O. for course Visualização de Dados 2016/01</h4>
 <script src="http://d3js.org/d3.v3.min.js"></script>
 <script>
 
-var margin = {top: 20, right: 200, bottom: 100, left: 100},
-    margin2 = {top: 440, right: 200, bottom: 20, left: 100},
+var margin = {top: 20, right: 100, bottom: 30, left: 100},
+    width = 960 - margin.left - margin.right,
+    height = 500 - margin.top - margin.bottom;
+var margin = {top: 10, right: 50, bottom: 100, left: 50},
+    margin2 = {top: 430, right: 10, bottom: 20, left: 40},
     width = 960 - margin.left - margin.right,
     height = 500 - margin.top - margin.bottom,
     height2 = 500 - margin2.top - margin2.bottom;
@@ -59,22 +96,16 @@ var x2 = d3.scale.ordinal()
 
 var y0 = d3.scale.linear()
     .range([height, 0]);
+    var y02 = d3.scale.linear()
+    .range([height, 0]);
 
 var y1 = d3.scale.linear()
     .range([height, 0]);
 
-var y02 = d3.scale.linear()
-    .range([height, 0]);
-
-var y12 = d3.scale.linear()
-    .range([height, 0]);
+var parseDate = d3.time.format("%Y").parse;
 
 var xAxis = d3.svg.axis()
     .scale(x)
-    .orient("bottom");
-
-var xAxis2 = d3.svg.axis()
-    .scale(x2)
     .orient("bottom");
 
 var yAxisLeft = d3.svg.axis()
@@ -87,67 +118,51 @@ var yAxisRight = d3.svg.axis()
     .orient("right")
     .ticks(7);
 
+//posicao x e y dos ptos da linha
 var line = d3.svg.line()
-    .x(function(d) { return x(d.year); })
+    .x(function(d) { return x(d.year) + (x.rangeBand()-5)/2; }) //essa ultima parte é pra ficar no centro da barra
     .y(function(d) { return y1(d.wage); });
-    
-var brush = d3.svg.brush()
-    .x(x2)
-    .on("brush", brushed);
 
-var area = d3.svg.area()
-    .interpolate("monotone")
-    .x(function(d) { return x(d.year); })
-    .y0(height)
-    .y1(function(d) { return y0(d.employees); });
-
-var area2 = d3.svg.area()
-    .interpolate("monotone")
-    .x(function(d) { return x2(d.year); })
-    .y0(height2)
-    .y1(function(d) { return y02(d.employees); });
-
-var svg = d3.select("body").append("svg")
+var svg = d3.select("#chart").append("svg")
     .attr("width", width + margin.left + margin.right)
-    .attr("height", height + margin.top + margin.bottom)
-  .append("g")
-    .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
-    
+    .attr("height", height + margin.top + margin.bottom);
+
 svg.append("defs").append("clipPath")
     .attr("id", "clip")
   .append("rect")
     .attr("width", width)
     .attr("height", height);
 
-var focus = svg.append("g")
+var brush = d3.svg.brush()
+    .x(x2)
+    .on("brush", brushed);
+
+var principal = svg.append("g")
     .attr("class", "focus")
     .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
-var context = svg.append("g")
+var seletor = svg.append("g")
     .attr("class", "context")
     .attr("transform", "translate(" + margin2.left + "," + margin2.top + ")");
 
 d3.tsv("data1.tsv", type, function(error, data) {
   if (error) throw error;
 
-  x.domain(d3.extent(data.map(function(d) { return d.year; })));
+  x.domain(data.map(function(d) { return d.year; }));
   y0.domain([0, d3.max(data, function(d) { return d.employees; })]);
   y1.domain([0, d3.max(data, function(d) { return d.wage; })]);
+
   x2.domain(x.domain());
-  y02.domain(y0.domain);
-  y12.domain(y1.domain);
-  
-  focus.append("path")
-      .datum(data)
-      .attr("class", "area")
-      .attr("d", area);
+  y02.domain(y0.domain());
 
-  focus.append("g")
+  //eixo X
+  /*principal.append("g")
       .attr("class", "x axis")
-      .attr("transform", "translate(0," + height + ")")
-      .call(xAxis);
+      .attr("transform", "translate(0," + height*0.7 + ")")
+      .call(xAxis);*/
 
-  focus.append("g")
+  // eixo Y da esquerda
+  principal.append("g")
       .attr("class", "y axis")
       .call(yAxisLeft)
     .append("text")
@@ -157,72 +172,77 @@ d3.tsv("data1.tsv", type, function(error, data) {
       .style("text-anchor", "end")
       .text("Number of Employees");
 
-  focus.append("g")
+
+  //eixo Y da direita
+  principal.append("g")
       .attr("class", "y axis")
       .attr("transform", "translate(" + width + " ,0)")
-      .call(yAxisRight);
+      .call(yAxisRight)
+    .append("text")
+      .attr("transform", "rotate(-90)")
+      .attr("y", 6)
+      .attr("x", -20)
+      .attr("dy", ".71em")
+      .style("text-anchor", "end")
+      .text("Average Wage");
+     
 
-  context.append("path")
+  //barras
+  principal.selectAll(".bar")
+      .data(data)
+    .enter().append("rect")
+      .attr("class", "bar")
+      .attr("x", function(d) { return x(d.year) + 5; })
+      .attr("width", x.rangeBand()-10)
+      .attr("y", function(d) { return y0(d.employees); })
+      .attr("height", function(d) { return height - y0(d.employees); });
+
+  //linha
+  principal.append("path")
       .datum(data)
-      .attr("class", "area")
-      .attr("d", area2);
+      .attr("class", "line")
+      .style("stroke", "#cd7568")
+      .attr("d", line)
+      .style("stroke-width", "5px");
 
-  context.append("g")
+
+  //barras
+  seletor.selectAll(".bar")
+      .data(data)
+    .enter().append("rect")
+      .attr("class", "bar")
+      .attr("x", function(d) { return x2(d.year) + 5; })
+      .attr("width", x2.rangeBand()-10)
+      .attr("y", function(d) { return y02(d.employees); })
+      .attr("height", function(d) { return height - y02(d.employees); });
+
+  /*seletor.append("g")
       .attr("class", "x axis")
-      .attr("transform", "translate(0," + height2 + ")")
-      .call(xAxis2);
+      .attr("transform", "translate(0," + height + ")")
+      .call(xAxis);*/
 
-  context.append("g")
+  seletor.append("g")
       .attr("class", "x brush")
       .call(brush)
     .selectAll("rect")
       .attr("y", -6)
       .attr("height", height2 + 7);
-/*
-  focus.append("g")
-      .attr("class", "x axis")
-      .attr("transform", "translate(0," + height + ")")
-      .call(xAxis);
-
-  focus.append("g")
-      .attr("class", "y axis")
-      .call(yAxisLeft)
-    .append("text")
-      .attr("transform", "rotate(-90)")
-      .attr("y", 6)
-      .attr("dy", ".71em")
-      .style("text-anchor", "end")
-      .text("Number of Employees");
-
-  focus.append("g")
-      .attr("class", "y axis")
-      .attr("transform", "translate(" + width + " ,0)")
-      .call(yAxisRight);
-     
-
-  focus.selectAll(".bar")
-      .data(data)
-    .enter().append("rect")
-      .attr("class", "bar")
-      .attr("x", function(d) { return x(d.year); })
-      .attr("width", x.rangeBand()-10)
-      .attr("y", function(d) { return y0(d.employees); })
-      .attr("height", function(d) { return height - y0(d.employees); });
-
-  focus.append("path")
-      .datum(data)
-      .attr("class", "line")
-      .style("stroke", "YellowGreen")
-      .attr("d", line);*/
 });
 
 function brushed() {
   x.domain(brush.empty() ? x2.domain() : brush.extent());
-  focus.select(".area").attr("d", area);
-  focus.select(".x.axis").call(xAxis);
+  console.log(brush.extent());
+  principal.selectAll("rect")
+    .attr("class", "bar")
+      .attr("x", function(d) { console.log(x(d.year)); 11+x.rangeBand(); })
+      .attr("width", x.rangeBand()-10)
+      .attr("y", function(d) { return y0(d.employees); })
+      .attr("height", function(d) { return height - y0(d.employees); });
+  principal.select(".x.axis").call(xAxis);
 }
 
 function type(d) {
+  d.year = parseDate(d.year);
   d.employees = +d.employees;
   d.wage = +d.wage;
   return d;
