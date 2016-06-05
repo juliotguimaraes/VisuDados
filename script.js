@@ -5,6 +5,7 @@ var altura_svg = 420,
 
 
 //descobrir qq essa parte faz
+//Acho q essa parte normaliza os dados nao?
 var tratar_dados = d3.scale.linear()
     .domain([0, d3.max(data)])
     .range([0, altura_svg]);
