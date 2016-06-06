@@ -73,6 +73,38 @@ h3{
   margin-left: 150px;
 }
 
+
+.d3-tip {
+  line-height: 1;
+  font-weight: light;
+  padding: 12px;
+  background: rgba(0, 0, 0, 0.8);
+  color: #fff;
+  border-radius: 2px;
+  font-family: Raleway;
+}
+
+/* Creates a small triangle extender for the tooltip */
+.d3-tip:after {
+  box-sizing: border-box;
+  display: inline;
+  font-size: 10px;
+  width: 100%;
+  line-height: 1;
+  color: rgba(0, 0, 0, 0.8);
+  content: "\25BC";
+  position: absolute;
+  text-align: center;
+}
+
+/* Style northward tooltips differently */
+.d3-tip.n:after {
+  margin: -1px 0 0 0;
+  top: 100%;
+  left: 0;
+}
+
+
 </style>
 <body>
   <h1>Number of employees and average wage per year</h1>
@@ -81,6 +113,7 @@ h3{
   <div id="chart"></div>
   <h4>Developed by Carolina S., Gabriela B., Julio G., Thiago O. for course Visualização de Dados 2016/01</h4>
 <script src="http://d3js.org/d3.v3.min.js"></script>
+<script type="text/javascript" src="../d3tip.js"></script>
 <script>
 
 
@@ -127,7 +160,12 @@ var yAxisRight = d3.svg.axis()
     .orient("right")
     .ticks(7);
 
-
+var tip = d3.tip()
+  .attr('class', 'd3-tip')
+  .offset([-10, 0])
+  .html(function(d) {
+    return "<strong>Year:</strong> <span style='color:rgb(137, 194, 196);'>" + d.year.getFullYear() + "</span><br /><strong>Number of employees:</strong> <span style='color:rgb(137, 194, 196);'>" + d.employees + "</span><br /><strong>Average Wage:</strong> <span style='color:rgb(137, 194, 196);'>" + d.wage + "</span>";
+  })
 
 
 //posicao x e y dos ptos da linha
@@ -138,7 +176,7 @@ var line = d3.svg.line()
 var svg = d3.select("#chart").append("svg")
     .attr("width", width + margin.left + margin.right)
     .attr("height", height + margin.top + margin.bottom);
-
+svg.call(tip);
 svg.append("defs").append("clipPath")
     .attr("id", "clip")
   .append("rect")
@@ -213,7 +251,9 @@ d3.tsv("data1.tsv", type, function(error, data) {
       .attr("x", function(d) { return x_time(d.year); })
       .attr("width", (width-200)/len)
       .attr("y", function(d) { return y0(d.employees); })
-      .attr("height", function(d) { return height - y0(d.employees); });
+      .attr("height", function(d) { return height - y0(d.employees); })
+      .on('mouseover', tip.show)
+      .on('mouseout', tip.hide);;
 
   //linha
   principal.append("path")
