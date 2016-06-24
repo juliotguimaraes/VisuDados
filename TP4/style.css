@@ -1,0 +1,73 @@
+/* Estilo GERAL */
+body{
+  /*background: url('redox_01.png') repeat center;*/
+  background-color: #efefef !important;
+  color: #999999 !important;
+}
+
+#chart{
+  width: 960px;
+  margin: auto;
+  margin-bottom: 50px;
+}
+
+/*
+CABECALHO
+*/
+.dash_header{
+  width: 100%;
+  
+  background-color: #ffffff;
+  
+  -webkit-box-shadow: 0px 2px 3px 0px rgba(0,0,0,0.23);
+  -moz-box-shadow: 0px 2px 3px 0px rgba(0,0,0,0.23);
+  box-shadow: 0px 2px 3px 0px rgba(0,0,0,0.23);
+  padding-top: 20px;
+  padding-bottom: 30px;
+  position: fixed;
+  z-index: 999;
+}
+
+.dash_header h2{
+  font-family: 'Raleway';
+  font-weight: 300 ;
+  color:#de6262;
+  margin-left: 10%;
+  text-transform: uppercase;
+}
+
+/*
+CORPO
+*/
+.dash_body{
+  width: 100%;
+  padding-top: 200px;
+  z-index: 1;
+}
+.container2{
+  margin-right: 5%;
+  margin-left: 5%;
+}
+
+/*
+BLOCOS
+*/
+.div_chart{
+  background-color: #FFFFFF;
+  -webkit-box-shadow: 1px 1px 2px 0px rgba(0,0,0,0.15);
+  -moz-box-shadow: 1px 1px 2px 0px rgba(0,0,0,0.15);
+  box-shadow: 1px 1px 2px 0px rgba(0,0,0,0.15);
+  border-radius: 5px;
+  margin: 10px;
+  padding: 15px;
+  margin-bottom: 30px;
+}
+
+.div_chart h4{
+  font-family: 'Raleway';
+  font-weight: 600 ;
+  color:#2A4A73;
+}
+
+
+
