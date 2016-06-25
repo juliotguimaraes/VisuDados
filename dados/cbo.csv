@@ -1,0 +1,629 @@
+﻿article,available,color,desc,gender,icon,id,img_author,img_link,keywords,name,num_jobs,plural_pt,url
+false,false,#A4BD99,"Military, Police and Firemen",false,/static/img/icons/cbo/cbo_0.png,0,Marcos Alves ,https://www.flickr.com/photos/m_alves/5773250586/in/photolist-9Naqgd-CZyDyM-6X6BnX-7sXhRw-9XCv4a-phCdrT-q4rQvJ-kxZAoR-nrBbAc-gQgqRt-nFPGYe-nJkWrn-nrBnAQ-DNHuvV-nL8qGx-puyf3U-nJk5SG-nLN5n6-mXXpgU-8xDsCZ-nJ5crk-CZstRJ-nJkNgd-ntEjhi-nLa6FH-DLxkH7-8n3u1u-DLwVd5-nrBnCo-ejfdXM-oyVRXR-duLfE9-d1XEUy-nJkL2d-nJaUfq-kFRjbi-9uK7Lx-DvWt1A-DpB5UV-5uAFxx-ejkWpu-nrTxxz-nrBbqn-nap5Wx-nJbboN-nL9HDr-ejkUYd-nrSRfn-DuRur7-DuR33f,false,"Military, Police and Firemen",0,true,profiles/cbo/0/
+false,false,#A4BD99,General Armed Forces Officers,false,/static/img/icons/cbo/cbo_0.png,0101,,,false,General Armed Forces Officers,0,true,profiles/cbo/0101/
+false,false,#A4BD99,Military Officers,false,/static/img/icons/cbo/cbo_0.png,0102,,,false,Military Officers,0,true,profiles/cbo/0102/
+false,false,#A4BD99,Other Military Personnel,false,/static/img/icons/cbo/cbo_0.png,0103,,,false,Other Military Personnel,0,true,profiles/cbo/0103/
+false,false,#A4BD99,Senior Policemen,false,/static/img/icons/cbo/cbo_0.png,0201,,,false,Senior Policemen,0,true,profiles/cbo/0201/
+false,false,#A4BD99,Police Captains,false,/static/img/icons/cbo/cbo_0.png,0202,,,false,Police Captains,0,true,profiles/cbo/0202/
+false,false,#A4BD99,Police Lieutenants,false,/static/img/icons/cbo/cbo_0.png,0203,,,false,Police Lieutenants,0,true,profiles/cbo/0203/
+false,false,#A4BD99,Police Sergeants,false,/static/img/icons/cbo/cbo_0.png,0211,,,false,Police Sergeants,0,true,profiles/cbo/0211/
+false,false,#A4BD99,Policemen,false,/static/img/icons/cbo/cbo_0.png,0212,,,false,Policemen,0,true,profiles/cbo/0212/
+false,false,#A4BD99,Senior Fire Brigade Officials,false,/static/img/icons/cbo/cbo_0.png,0301,,,false,Senior Fire Brigade Officials,0,true,profiles/cbo/0301/
+false,false,#A4BD99,Fire Brigade Officers,false,/static/img/icons/cbo/cbo_0.png,0302,,,false,Fire Brigade Officers,0,true,profiles/cbo/0302/
+false,false,#A4BD99,Fire Brigade Lieutenants,false,/static/img/icons/cbo/cbo_0.png,0303,,,false,Fire Brigade Lieutenants,0,true,profiles/cbo/0303/
+false,false,#A4BD99,Fire Brigade Sergeants,false,/static/img/icons/cbo/cbo_0.png,0311,,,false,Fire Brigade Sergeants,0,true,profiles/cbo/0311/
+false,false,#A4BD99,Firefighters,false,/static/img/icons/cbo/cbo_0.png,0312,,,false,Firefighters,0,true,profiles/cbo/0312/
+false,true,#752277,"Members of the Public Power Top, Officers of Public Interest Organizations and Business Managers",false,/static/img/icons/cbo/cbo_1.png,1,epp group,https://flic.kr/p/da6qkx,false,Public Sector Officials and Business Managers,2441156,true,profiles/cbo/1/
+false,true,#752277,Legislators,false,/static/img/icons/cbo/cbo_1.png,1111,,,false,Legislators,0,true,profiles/cbo/1111/
+false,true,#752277,Directors General of Government,false,/static/img/icons/cbo/cbo_1.png,1112,,,"Mayor, Governor, President, Cabinet Member, Deputy, Vice",Heads of Government,23426,true,profiles/cbo/1112/
+false,true,#752277,Magistrates,false,/static/img/icons/cbo/cbo_1.png,1113,,,false,Magistrates,14790,true,profiles/cbo/1113/
+false,true,#752277,Leaders of Public Service,false,/static/img/icons/cbo/cbo_1.png,1114,epp group,https://flic.kr/p/da6qkx,false,Public Service Leaders,772666,true,profiles/cbo/1114/
+false,true,#752277,Public Managers,false,/static/img/icons/cbo/cbo_1.png,1115,,,false,Public Managers,3827,true,profiles/cbo/1115/
+false,true,#752277,Leaders of Indigenous Peoples and Maroons of Caiì¤aras,false,/static/img/icons/cbo/cbo_1.png,1130,,,false,Indiginous Leaders,253,true,profiles/cbo/1130/
+false,true,#752277,Leaders of Political Parties,false,/static/img/icons/cbo/cbo_1.png,1141,,,"Government Officials, Leaders, Political Parties",Politicians,274,true,profiles/cbo/1141/
+false,true,#752277,Officers and Directors of Employers and Workers and Other Socioeconomic Interests,false,/static/img/icons/cbo/cbo_1.png,1142,,,false,Social Economic Workers,3195,true,profiles/cbo/1142/
+false,true,#752277,Officers and Directors of Religious Entities,false,/static/img/icons/cbo/cbo_1.png,1143,,,false,Religious Leaders,328,true,profiles/cbo/1143/
+false,true,#752277,"Officers and Directors of Civil Society Organizations, Nonprofit",false,/static/img/icons/cbo/cbo_1.png,1144,,,"Civil Society, Officers",Non-Profit Organization Directors,1073,true,profiles/cbo/1144/
+false,true,#752277,CEOs,false,/static/img/icons/cbo/cbo_1.png,1210,,,Chief Executive Officers,CEOs,27384,true,profiles/cbo/1210/
+false,true,#752277,"Officers Production and Business Operations in Agriculture, Fisheries, Aquaculture and Forestry",false,/static/img/icons/cbo/cbo_1.png,1221,,,"Agriculture, Fisheries, Aquaculture, Forestry ",Agricultural COOs,745,true,profiles/cbo/1221/
+false,true,#752277,"Officers Production and Business Operations in Mining and Quarrying, Processing and Utilities",false,/static/img/icons/cbo/cbo_1.png,1222,,,false,Mining and Quarrying COOs,1594,true,profiles/cbo/1222/
+false,true,#752277,COOs Works in Construction Company,false,/static/img/icons/cbo/cbo_1.png,1223,,,false,Construction COOs,2421,true,profiles/cbo/1223/
+false,true,#752277,Officers of Company Operations in Trade,false,/static/img/icons/cbo/cbo_1.png,1224,,,false,Trade COOs,1577,true,profiles/cbo/1224/
+false,true,#752277,"Directors of Tourism Services, Accommodation and Food",false,/static/img/icons/cbo/cbo_1.png,1225,,,false,Hospitality COOs,1030,true,profiles/cbo/1225/
+false,true,#752277,"Directors of Operations Services in Enterprise Storage, Transport and Telecommunication",false,/static/img/icons/cbo/cbo_1.png,1226,,,Telecommunication,Storage and Transport COOs,2621,true,profiles/cbo/1226/
+false,true,#752277,Directors of Service Operations in Institutions of Financial Intermediation,false,/static/img/icons/cbo/cbo_1.png,1227,,,Financial Institution,Financial COOs,1868,true,profiles/cbo/1227/
+false,true,#752277,Officers Administrative and Financial,false,/static/img/icons/cbo/cbo_1.png,1231,MZ,https://flic.kr/p/jJ1xAd,false,Administrative and Financial Officers,66008,true,profiles/cbo/1231/
+false,true,#752277,Directors of Human Resources and Labor Relations,false,/static/img/icons/cbo/cbo_1.png,1232,,,Labor Relations,Human Resource Directors,2901,true,profiles/cbo/1232/
+false,true,#752277,Sales and Marketing Directors,false,/static/img/icons/cbo/cbo_1.png,1233,,,false,Sales and Marketing Directors,12608,true,profiles/cbo/1233/
+false,true,#752277,Directors and Related Supplies,false,/static/img/icons/cbo/cbo_1.png,1234,,,false,Other Directors,1940,true,profiles/cbo/1234/
+false,true,#752277,Officers Computer Services,false,/static/img/icons/cbo/cbo_1.png,1236,,,false,Computer Service Officers,2826,true,profiles/cbo/1236/
+false,true,#752277,Directors of Research and Development,false,/static/img/icons/cbo/cbo_1.png,1237,,,false,R&amp;D Directors,1392,true,profiles/cbo/1237/
+false,true,#752277,Officers Maintenance,false,/static/img/icons/cbo/cbo_1.png,1238,,,false,Maintenance Officers,1813,true,profiles/cbo/1238/
+false,true,#752277,"Directors and Operations Managers in Business Services Personal, Social and Cultural",false,/static/img/icons/cbo/cbo_1.png,1311,,,false,Social Services Directors,18643,true,profiles/cbo/1311/
+false,true,#752277,Directors and Operations Managers in Business and Related Health Services,false,/static/img/icons/cbo/cbo_1.png,1312,,,Hospital Management,Health Service Directors,26354,true,profiles/cbo/1312/
+false,true,#752277,Directors and Managers of Educational Services Institution,false,/static/img/icons/cbo/cbo_1.png,1313,Talento Profissional,https://flic.kr/p/5CNFFm,false,Education Directors,49453,true,profiles/cbo/1313/
+false,true,#752277,"Production Managers and Business Operations in Agriculture, Fisheries, Aquaculture and Forestry",false,/static/img/icons/cbo/cbo_1.png,1411,,,"Fishing, Forestry, Aquaculture",Agricultural Production Managers,15717,true,profiles/cbo/1411/
+false,true,#752277,"Production Managers and Business Operations in the Mining and Quarrying, Manufacturing and Utilities",false,/static/img/icons/cbo/cbo_1.png,1412,MarkoLovric,https://pixabay.com/photo-1000618/,false,Mining Production Managers,75078,true,profiles/cbo/1412/
+false,true,#752277,Managers Works in Construction Company,false,/static/img/icons/cbo/cbo_1.png,1413,,,"Civil Engineers, Carpenters",Construction Managers,12807,true,profiles/cbo/1413/
+false,true,#752277,Managers of Trade and Technical Assistance,false,/static/img/icons/cbo/cbo_1.png,1414,Antonio E. Da Silva Campos,https://flic.kr/p/5Jg2wE,"Commercial Operations, Trade, Technical Assistance",Trade Managers,231344,true,profiles/cbo/1414/
+false,true,#752277,"Managers of Service Operations in Business Tourism, Accommodation and Food",false,/static/img/icons/cbo/cbo_1.png,1415,germán garibaldi,https://flic.kr/p/4TzEnP,false,Hospitality Managers,68113,true,profiles/cbo/1415/
+false,true,#752277,"Managers of Service Operations in Transportation Company, Communication and Logistics (Warehousing and Distribution)",false,/static/img/icons/cbo/cbo_1.png,1416,,,false,Transportation Managers,42638,true,profiles/cbo/1416/
+false,true,#752277,Managers of Service Operations in Institutions of Financial Intermediation,false,/static/img/icons/cbo/cbo_1.png,1417,,,false,Financial Institution Managers,29656,true,profiles/cbo/1417/
+false,true,#752277,"Managers Administrative, Financial, and Related Risks",false,/static/img/icons/cbo/cbo_1.png,1421,Vodafone Medien,https://flic.kr/p/vbcj7A,false,Financial Managers,391905,true,profiles/cbo/1421/
+false,true,#752277,Managing Human Resources and Labor Relations,false,/static/img/icons/cbo/cbo_1.png,1422,Paulo Pampolin,https://flic.kr/p/hDNMZj,Hr Managers,Human Resource Managers,50556,true,profiles/cbo/1422/
+false,true,#752277,"Marketing Managers, Marketing and Communication",false,/static/img/icons/cbo/cbo_1.png,1423,Vodafone Medien,https://flic.kr/p/vbcj7A,false,Marketing Managers,370850,true,profiles/cbo/1423/
+false,true,#752277,Managers and Related Supplies,false,/static/img/icons/cbo/cbo_1.png,1424,,,false,Supply Managers,30086,true,profiles/cbo/1424/
+false,true,#752277,Managers of Information Technology,false,/static/img/icons/cbo/cbo_1.png,1425,,,false,IT Managers,37731,true,profiles/cbo/1425/
+false,true,#752277,Managers of Research and Development and Related,false,/static/img/icons/cbo/cbo_1.png,1426,,,false,R&amp;D Managers,17292,true,profiles/cbo/1426/
+false,true,#752277,Maintenance Managers and the Like,false,/static/img/icons/cbo/cbo_1.png,1427,,,false,Project Managers,24373,true,profiles/cbo/1427/
+false,true,#cc0000,Professionals of Arts and Sciences,false,/static/img/icons/cbo/cbo_2.png,2,Irekia,https://flic.kr/p/83iBHF,false,Professionals of Arts and Sciences,5270361,true,profiles/cbo/2/
+false,true,#cc0000,Professionals Biotechnology,false,/static/img/icons/cbo/cbo_2.png,2011,,,false,Biotechnologist,2274,true,profiles/cbo/2011/
+false,true,#cc0000,Professionals Metrology,false,/static/img/icons/cbo/cbo_2.png,2012,,,Measurement,Metrologist,1782,true,profiles/cbo/2012/
+false,true,#cc0000,Mechatronic Engineers,false,/static/img/icons/cbo/cbo_2.png,2021,,,false,Electromachanical Engineers,2274,true,profiles/cbo/2021/
+false,true,#cc0000,Researchers in the Biological Sciences,false,/static/img/icons/cbo/cbo_2.png,2030,,,Biological Sciences,Biology Researchers,3406,true,profiles/cbo/2030/
+false,true,#cc0000,Researchers from the Natural and Exact Sciences,false,/static/img/icons/cbo/cbo_2.png,2031,,,false,Natural Science Researchers,1630,true,profiles/cbo/2031/
+false,true,#cc0000,Researchers in Engineering and Technology,false,/static/img/icons/cbo/cbo_2.png,2032,,,false,Engineering Researchers,10366,true,profiles/cbo/2032/
+false,true,#cc0000,Researchers in the Health Sciences,false,/static/img/icons/cbo/cbo_2.png,2033,,,false,Health Science Researchers,2727,true,profiles/cbo/2033/
+false,true,#cc0000,Agriculture Science Researchers,false,/static/img/icons/cbo/cbo_2.png,2034,,,false,Agricultural Researchers,1816,true,profiles/cbo/2034/
+false,true,#cc0000,Researchers in the Social Sciences and Humanities,false,/static/img/icons/cbo/cbo_2.png,2035,,,false,Social Sciences Researchers,2416,true,profiles/cbo/2035/
+false,true,#cc0000,Coroners,false,/static/img/icons/cbo/cbo_2.png,2041,,,false,Coroners,5159,true,profiles/cbo/2041/
+false,true,#cc0000,Math Professionals,false,/static/img/icons/cbo/cbo_2.png,2111,,,false,Mathematicians,3154,true,profiles/cbo/2111/
+false,true,#cc0000,Professional Statisticians,false,/static/img/icons/cbo/cbo_2.png,2112,,,false,Statisticians,3723,true,profiles/cbo/2112/
+false,true,#cc0000,Engineers in Computing,false,/static/img/icons/cbo/cbo_2.png,2122,,,false,Computer Engineers,6320,true,profiles/cbo/2122/
+false,true,#cc0000,Managers of Information Technology,false,/static/img/icons/cbo/cbo_2.png,2123,,,"Sysadmin, Db Admin, Database, Network",IT Managers,21101,true,profiles/cbo/2123/
+false,true,#cc0000,Analysts Information Technology,false,/static/img/icons/cbo/cbo_2.png,2124,Sebastian Alvarez,https://flic.kr/p/bGpo3R,false,Information Analysts,284311,true,profiles/cbo/2124/
+false,true,#cc0000,Physicists,false,/static/img/icons/cbo/cbo_2.png,2131,,,false,Physicists,1156,true,profiles/cbo/2131/
+false,true,#cc0000,Chemists,false,/static/img/icons/cbo/cbo_2.png,2132,,,false,Chemists,7496,true,profiles/cbo/2132/
+false,true,#cc0000,Professionals Atmospheric Sciences and Space and Astronomy,false,/static/img/icons/cbo/cbo_2.png,2133,,,Space,Astronomists,344,true,profiles/cbo/2133/
+false,true,#cc0000,"Geologists, Oceanographers, Geophysicists and Related",false,/static/img/icons/cbo/cbo_2.png,2134,,,"Oceanographers, Geophysicists",Geologists,6441,true,profiles/cbo/2134/
+false,true,#cc0000,And Related Environmental Engineers,false,/static/img/icons/cbo/cbo_2.png,2140,,,false,Environmental Engineers,2648,true,profiles/cbo/2140/
+false,true,#cc0000,Architects and Planners,false,/static/img/icons/cbo/cbo_2.png,2141,,,"Interior Designers, Landscapers, Urbanistas",Architects and Planners,19905,true,profiles/cbo/2141/
+false,true,#cc0000,Civil Engineers and Related,false,/static/img/icons/cbo/cbo_2.png,2142,Science Without Borders UoW,https://flic.kr/p/q8PE7S,false,Civil Engineers,84097,true,profiles/cbo/2142/
+false,true,#cc0000,"Electrical Engineers, Electronics and Related",false,/static/img/icons/cbo/cbo_2.png,2143,,,"Telecom, Technologist",Electrical Engineers,34745,true,profiles/cbo/2143/
+false,true,#cc0000,Mechanical Engineers and Related,false,/static/img/icons/cbo/cbo_2.png,2144,,,"Marine, Industrial, Aeronautical, Auto, Car",Mechanical Engineers,33379,true,profiles/cbo/2144/
+false,true,#cc0000,Chemical Engineers and Related,false,/static/img/icons/cbo/cbo_2.png,2145,,,false,Chemical Engineers,10585,true,profiles/cbo/2145/
+false,true,#cc0000,"Engineers Metallurgists, Materials and Related",false,/static/img/icons/cbo/cbo_2.png,2146,,,Metallurgists,Material Science Engineers,3671,true,profiles/cbo/2146/
+false,true,#cc0000,Mining Engineers and Related,false,/static/img/icons/cbo/cbo_2.png,2147,,,false,Mining Engineers,4713,true,profiles/cbo/2147/
+false,true,#cc0000,Engineers Surveyors Cartographers and Engineers,false,/static/img/icons/cbo/cbo_2.png,2148,,,Engineers,Cartographers and Surveyers,985,true,profiles/cbo/2148/
+false,true,#cc0000,"Production Engineers, Quality, Safety and Related",false,/static/img/icons/cbo/cbo_2.png,2149,,,"Qa, Quality Assurance",Production Engineers,42630,true,profiles/cbo/2149/
+false,true,#cc0000,Deck Officers and Related,false,/static/img/icons/cbo/cbo_2.png,2151,,,"Ship Deck Officers, Water Workers",Maritime Officials,8886,true,profiles/cbo/2151/
+false,true,#cc0000,Officers Marine Engineer,false,/static/img/icons/cbo/cbo_2.png,2152,,,false,Marine Engineers,2945,true,profiles/cbo/2152/
+false,true,#cc0000,Professionals Piloting Aircraft,false,/static/img/icons/cbo/cbo_2.png,2153,,,false,Pilots,9694,true,profiles/cbo/2153/
+false,true,#cc0000,Biologists and Related,false,/static/img/icons/cbo/cbo_2.png,2211,,,false,Biologists,14605,true,profiles/cbo/2211/
+false,true,#cc0000,Biomedical,false,/static/img/icons/cbo/cbo_2.png,2212,,,false,Biomedical Scientists,7677,true,profiles/cbo/2212/
+false,true,#cc0000,Engineers Agrossilvipecuìários,false,/static/img/icons/cbo/cbo_2.png,2221,,,"Agronomists, Forester, Arborist",Agricultural Engineers,24795,true,profiles/cbo/2221/
+false,true,#cc0000,Food Engineers and Related,false,/static/img/icons/cbo/cbo_2.png,2222,,,false,Food Engineers,424,true,profiles/cbo/2222/
+false,true,#cc0000,Doctors,false,/static/img/icons/cbo/cbo_2.png,2231,,,false,Doctors,0,true,profiles/cbo/2231/
+false,true,#cc0000,Dentists,false,/static/img/icons/cbo/cbo_2.png,2232,ricardo zaragoza,https://flic.kr/p/64WHcD,Oral Surgeon,Dentists,64785,true,profiles/cbo/2232/
+false,true,#cc0000,Veterinarians and Animal Scientists,false,/static/img/icons/cbo/cbo_2.png,2233,,,Animal Scientists,Veterinarians,20800,true,profiles/cbo/2233/
+false,true,#cc0000,Pharmacists,false,/static/img/icons/cbo/cbo_2.png,2234,Jorge,https://flic.kr/p/5L1Yi9,false,Pharmacists,114619,true,profiles/cbo/2234/
+false,true,#cc0000,Nurses and Allied,false,/static/img/icons/cbo/cbo_2.png,2235,Irekia,https://flic.kr/p/83iBHF,false,Nurses,262792,true,profiles/cbo/2235/
+false,true,#cc0000,Physiotherapists,false,/static/img/icons/cbo/cbo_2.png,2236,,,"Acupuncturist, Sports Medicine",Physiotherapists,47959,true,profiles/cbo/2236/
+false,true,#cc0000,Nutritionists,false,/static/img/icons/cbo/cbo_2.png,2237,,,false,Nutritionists,40613,true,profiles/cbo/2237/
+false,true,#cc0000,Audiologists,false,/static/img/icons/cbo/cbo_2.png,2238,,,false,Audiologists,14593,true,profiles/cbo/2238/
+false,true,#cc0000,Occupational Therapists and Related,false,/static/img/icons/cbo/cbo_2.png,2239,,,Physical Therapy,Physical Therapists,6967,true,profiles/cbo/2239/
+false,true,#cc0000,Physical Education Professionals,false,/static/img/icons/cbo/cbo_2.png,2241,Colégio Raízes,https://flic.kr/p/rvrp2d,false,Gym Teachers,49162,true,profiles/cbo/2241/
+false,true,#cc0000,Clinicians,false,/static/img/icons/cbo/cbo_2.png,2251,Alex Proimos,https://flic.kr/p/bt29wL,Doctors,Clinicians,239993,true,profiles/cbo/2251/
+false,true,#cc0000,Physicians in Surgical Specialties,false,/static/img/icons/cbo/cbo_2.png,2252,,,"Physicians, Doctors",Surgeons,26124,true,profiles/cbo/2252/
+false,true,#cc0000,Doctors in Medical Diagnostics and Therapy,false,/static/img/icons/cbo/cbo_2.png,2253,,,Medical Diagnostics,Doctors in Diagnostics and Therapy,3923,true,profiles/cbo/2253/
+false,true,#cc0000,Osteopaths and Chiropractors,false,/static/img/icons/cbo/cbo_2.png,2261,,,"Muscles, Joints, Alternative Medicine, Healing",Osteopaths and Chiropractors,1,true,profiles/cbo/2261/
+false,true,#cc0000,Occupational Therapy for Creative Proffesionals,false,/static/img/icons/cbo/cbo_2.png,2263,,,"Music Therapist, Art Therapist, Equine Therapy",Occupational Therapy for Creative Proffesionals,97,true,profiles/cbo/2263/
+false,true,#cc0000,Postsecondary Teachers in Early Childhood Education,false,/static/img/icons/cbo/cbo_2.png,2311,Rede Coleguium de Ensino,https://flic.kr/p/an1hzU,false,Elementary School Teachers,132453,true,profiles/cbo/2311/
+false,true,#cc0000,Postsecondary Teachers of Elementary School (First to Fourth Grade),false,/static/img/icons/cbo/cbo_2.png,2312,airunique,https://pixabay.com/photo-401519/,false,General Primary School Teachers,845332,true,profiles/cbo/2312/
+false,true,#cc0000,Postsecondary Teachers in Elementary School Fifth-Eighth Grade,false,/static/img/icons/cbo/cbo_2.png,2313,World Bank Photo Collection,https://flic.kr/p/97aGY8,"Math, Geography, Science, Physical Education, Foreign Language, Art",Specialized Elementary School Teachers,230995,true,profiles/cbo/2313/
+false,true,#cc0000,High School Teachers,false,/static/img/icons/cbo/cbo_2.png,2321,US Department of Education,https://flic.kr/p/fCAUxh,false,High School Teachers,446418,true,profiles/cbo/2321/
+false,true,#cc0000,Vocational Teachers,false,/static/img/icons/cbo/cbo_2.png,2331,,,false,Vocational Teachers,38884,true,profiles/cbo/2331/
+false,true,#cc0000,Instructors of Vocational,false,/static/img/icons/cbo/cbo_2.png,2332,UnB Agência,https://flic.kr/p/FMZBcx,false,Vocational Instructors,69876,true,profiles/cbo/2332/
+false,true,#cc0000,"Teachers of Mathematics, Statistics and Computer Science Higher Education",false,/static/img/icons/cbo/cbo_2.png,2341,,,"Higher Education, Mathematics, Statistics, Professors",Math Professors,19046,true,profiles/cbo/2341/
+false,true,#cc0000,"Teachers Physical Sciences, Chemical and Related Higher Education",false,/static/img/icons/cbo/cbo_2.png,2342,,,"Higher Education, Physics, Chemistry",Science Professors,4621,true,profiles/cbo/2342/
+false,true,#cc0000,"Professors of Architecture and Urban Planning, Engineering, Geology and Geophysics of Higher Education",false,/static/img/icons/cbo/cbo_2.png,2343,,,"Geophysics, Engineering ",Architecture and Engineering Professors,16067,true,profiles/cbo/2343/
+false,true,#cc0000,Teachers and Health Sciences in Higher Education,false,/static/img/icons/cbo/cbo_2.png,2344,,,"Teacher, Higher Education",Health Science Professors,45694,true,profiles/cbo/2344/
+false,true,#cc0000,Teachers in the Area of ‰ûü‰ûüteacher Training in Higher Education,false,/static/img/icons/cbo/cbo_2.png,2345,UnB Agência,https://flic.kr/p/rty8vf,false,Education Professors,180640,true,profiles/cbo/2345/
+false,true,#cc0000,Teachers in the Areas of Language and Literature in Higher Education,false,/static/img/icons/cbo/cbo_2.png,2346,blogespmmais,https://flic.kr/p/dvnQRm,false,Language Professors,52922,true,profiles/cbo/2346/
+false,true,#cc0000,Teachers of Humanities in Higher Education,false,/static/img/icons/cbo/cbo_2.png,2347,,,"Higher Education, Teachers",Humanities Professors,35530,true,profiles/cbo/2347/
+false,true,#cc0000,"Professors of Economics, Administrative and Accounting Higher Education",false,/static/img/icons/cbo/cbo_2.png,2348,,,"Administration, Accounting",Economics Professors,30406,true,profiles/cbo/2348/
+false,true,#cc0000,Arts Teachers in Higher Education,false,/static/img/icons/cbo/cbo_2.png,2349,,,false,Art Professors,5248,true,profiles/cbo/2349/
+false,true,#cc0000,Special Education Teachers,false,/static/img/icons/cbo/cbo_2.png,2392,,,false,Special Education Teachers,17606,true,profiles/cbo/2392/
+false,true,#cc0000,"Developers, Evaluators and Mentors Teaching",false,/static/img/icons/cbo/cbo_2.png,2394,klimkin,https://pixabay.com/photo-995187/,"Developers, Evaluators, Mentors",Other Educators,179583,true,profiles/cbo/2394/
+false,true,#cc0000,Lawyers,false,/static/img/icons/cbo/cbo_2.png,2410,Jeso Carneiro,https://flic.kr/p/xLMXRE,false,Lawyers,83021,true,profiles/cbo/2410/
+false,true,#cc0000,Attorneys Lawyers and Public,false,/static/img/icons/cbo/cbo_2.png,2412,,,false,Attorneys,21638,true,profiles/cbo/2412/
+false,true,#cc0000,Notaries and Registrars,false,/static/img/icons/cbo/cbo_2.png,2413,,,false,Notaries and Registrars,2579,true,profiles/cbo/2413/
+false,true,#cc0000,Members of the Public Ministry,false,/static/img/icons/cbo/cbo_2.png,2422,,,Public Prosecutors,Public Ministry,9400,true,profiles/cbo/2422/
+false,true,#cc0000,Police Chiefs,false,/static/img/icons/cbo/cbo_2.png,2423,,,false,Police Chiefs,12603,true,profiles/cbo/2423/
+false,true,#cc0000,Public Defenders and Legal Aid Attorneys,false,/static/img/icons/cbo/cbo_2.png,2424,,,Lawyers,Public Defenders,4474,true,profiles/cbo/2424/
+false,true,#cc0000,Intelligence Professionals,false,/static/img/icons/cbo/cbo_2.png,2429,,,false,Intelligence Agents,725,true,profiles/cbo/2429/
+false,true,#cc0000,Professionals in Anthropological Research and Sociological Analysis,false,/static/img/icons/cbo/cbo_2.png,2511,,,false,Anthropologists,1729,true,profiles/cbo/2511/
+false,true,#cc0000,Economists,false,/static/img/icons/cbo/cbo_2.png,2512,,,false,Economists,42233,true,profiles/cbo/2512/
+false,true,#cc0000,Professionals in Research and Geographical Analysis,false,/static/img/icons/cbo/cbo_2.png,2513,,,Researchers,Geographers,1303,true,profiles/cbo/2513/
+false,true,#cc0000,Philosophers,false,/static/img/icons/cbo/cbo_2.png,2514,,,false,Philosophers,38,true,profiles/cbo/2514/
+false,true,#cc0000,Psychologists and Psychoanalysts,false,/static/img/icons/cbo/cbo_2.png,2515,Agencia ID,https://flic.kr/p/p7CrPg,Mental Health,Psychologists,54396,true,profiles/cbo/2515/
+false,true,#cc0000,Social Workers and Home Economists,false,/static/img/icons/cbo/cbo_2.png,2516,Ministério do Desenvolvimento Social e Combate à Fome,https://flic.kr/p/pQn6LD,false,Social Workers,69640,true,profiles/cbo/2516/
+false,true,#cc0000,Administrators,false,/static/img/icons/cbo/cbo_2.png,2521,iconicphotoservices,https://flic.kr/p/kCP3kc,false,Administrators,204871,true,profiles/cbo/2521/
+false,true,#cc0000,Accountants and Related,false,/static/img/icons/cbo/cbo_2.png,2522,PDPics,https://pixabay.com/photo-390319/,false,Accountants,156850,true,profiles/cbo/2522/
+false,true,#cc0000,Desks (The) Executive (The) and Related,false,/static/img/icons/cbo/cbo_2.png,2523,RichardWesner,https://flic.kr/p/F5YqKr,false,Executives,160783,true,profiles/cbo/2523/
+false,true,#cc0000,Human Resources Professionals,false,/static/img/icons/cbo/cbo_2.png,2524,StartupStockPhotos,https://pixabay.com/photo-593333/,false,Human Resources Professionals,75985,true,profiles/cbo/2524/
+false,true,#cc0000,Professionals Economic and Financial Administration,false,/static/img/icons/cbo/cbo_2.png,2525,MZ,https://flic.kr/p/jHZdqR,false,Financial Analysts,65320,true,profiles/cbo/2525/
+false,true,#cc0000,Professional Management of Security Services,false,/static/img/icons/cbo/cbo_2.png,2526,,,"Police, Law Enforcement",Security Guards,776,true,profiles/cbo/2526/
+false,true,#cc0000,"Professional Public Relations, Advertising, Marketing and Business",false,/static/img/icons/cbo/cbo_2.png,2531,,,false,Public Relations,40543,true,profiles/cbo/2531/
+false,true,#cc0000,Professional Marketing Consultancy and Banking,false,/static/img/icons/cbo/cbo_2.png,2532,ian gardiner,https://flic.kr/p/9GvsUT,false,Marketing Consutants,71120,true,profiles/cbo/2532/
+false,true,#cc0000,"Stockbrokers, Financial Assets, Commodities and Derivatives",false,/static/img/icons/cbo/cbo_2.png,2533,,,"Financial Assets, Commodities, Derivatives",Stockbrokers,4001,true,profiles/cbo/2533/
+false,true,#cc0000,Inspectors and Technicians of Federal Revenue,false,/static/img/icons/cbo/cbo_2.png,2541,,,false,Federal Revenue Inspectors,19215,true,profiles/cbo/2541/
+false,true,#cc0000,Inspectors Welfare,false,/static/img/icons/cbo/cbo_2.png,2542,,,false,Welfare Inspectors,119,true,profiles/cbo/2542/
+false,true,#cc0000,Labor Inspectors,false,/static/img/icons/cbo/cbo_2.png,2543,,,false,Labor Inspectors,14724,true,profiles/cbo/2543/
+false,true,#cc0000,Tax State and Municipal Taxes,false,/static/img/icons/cbo/cbo_2.png,2544,,,false,State and Municipal Tax Collectors,42149,true,profiles/cbo/2544/
+false,true,#cc0000,Professional Journalism,false,/static/img/icons/cbo/cbo_2.png,2611,,,false,Journalists,47637,true,profiles/cbo/2611/
+false,true,#cc0000,Information Professionals,false,/static/img/icons/cbo/cbo_2.png,2612,,,false,Librarians,27932,true,profiles/cbo/2612/
+false,true,#cc0000,Archivists and Museologists,false,/static/img/icons/cbo/cbo_2.png,2613,,,false,Archivists,7274,true,profiles/cbo/2613/
+false,true,#cc0000,"Philologists, Translators, Interpreters and Related",false,/static/img/icons/cbo/cbo_2.png,2614,,,Philogists,Linguists,4204,true,profiles/cbo/2614/
+false,true,#cc0000,Professional Writing,false,/static/img/icons/cbo/cbo_2.png,2615,,,false,Writers,3011,true,profiles/cbo/2615/
+false,true,#cc0000,Editors,false,/static/img/icons/cbo/cbo_2.png,2616,,,false,Editors,3399,true,profiles/cbo/2616/
+false,true,#cc0000,"Announcers, Commentators and Reporters from Radio and Television",false,/static/img/icons/cbo/cbo_2.png,2617,,,"Radio, Anchors, Narrators",Announcers,17919,true,profiles/cbo/2617/
+false,true,#cc0000,Professional Photographers,false,/static/img/icons/cbo/cbo_2.png,2618,,,false,Photographers,5440,true,profiles/cbo/2618/
+false,true,#cc0000,Artistic and Cultural Producers,false,/static/img/icons/cbo/cbo_2.png,2621,,,Culture,Producers,6032,true,profiles/cbo/2621/
+false,true,#cc0000,Officers of Shows and the Like,false,/static/img/icons/cbo/cbo_2.png,2622,,,false,Directors,1873,true,profiles/cbo/2622/
+false,true,#cc0000,Scenographers,false,/static/img/icons/cbo/cbo_2.png,2623,,,"Set Design, Television, Film",Scenographers,4423,true,profiles/cbo/2623/
+false,true,#cc0000,"Visual Artists, Industrial Designers and Conservators of Cultural",false,/static/img/icons/cbo/cbo_2.png,2624,,,Industrial Designers,Visual Artists,28895,true,profiles/cbo/2624/
+false,true,#cc0000,Actors,false,/static/img/icons/cbo/cbo_2.png,2625,,,"Actresses, Television, Film, Stage Performances",Actors,916,true,profiles/cbo/2625/
+false,true,#cc0000,"Musicians Composers, Arrangers, Conductors and Musicologists",false,/static/img/icons/cbo/cbo_2.png,2626,,,"Arrangers, Musicologists",Musicians,4593,true,profiles/cbo/2626/
+false,true,#cc0000,Musicians,false,/static/img/icons/cbo/cbo_2.png,2627,,,"Singer, Instrumentalist, Vocalist, Performer",Musicians,6476,true,profiles/cbo/2627/
+false,true,#cc0000,Dance Artists (Except Traditional Dance and Popular),false,/static/img/icons/cbo/cbo_2.png,2628,,,false,Other Dancers,5691,true,profiles/cbo/2628/
+false,true,#cc0000,Interior Designer Higher Level,false,/static/img/icons/cbo/cbo_2.png,2629,,,"Design, Home, Decoration",Interior Designer,809,true,profiles/cbo/2629/
+false,true,#cc0000,"Ministers of Religion, Missionaries, Theologians and the Like Professionals",false,/static/img/icons/cbo/cbo_2.png,2631,,,Religious Professionals ,Religious Professionals,3604,true,profiles/cbo/2631/
+false,true,#cc0000,Chefs and Related,false,/static/img/icons/cbo/cbo_2.png,2711,,,Cooks,Chefs,11969,true,profiles/cbo/2711/
+false,true,#d66011,Technical Level Middle,false,/static/img/icons/cbo/cbo_3.png,3,dentaprime,https://flic.kr/p/r4zuhn,false,Skilled Workers,5455666,true,profiles/cbo/3/
+false,true,#d66011,Technicians in Mechatronics,false,/static/img/icons/cbo/cbo_3.png,3001,,,false,Mechatronic Technicians,4778,true,profiles/cbo/3001/
+false,true,#d66011,Technicians Electromechanical,false,/static/img/icons/cbo/cbo_3.png,3003,,,false,Electromechanical Technicians,13574,true,profiles/cbo/3003/
+false,true,#d66011,Laboratory Technicians Industrial,false,/static/img/icons/cbo/cbo_3.png,3011,,,false,Industrial Lab Technicians,42033,true,profiles/cbo/3011/
+false,true,#d66011,Technical Support Bioengineering,false,/static/img/icons/cbo/cbo_3.png,3012,,,false,Bioengineer Technicians,280,true,profiles/cbo/3012/
+false,true,#d66011,Chemical Technicians,false,/static/img/icons/cbo/cbo_3.png,3111,,,false,Chemical Technicians,29569,true,profiles/cbo/3111/
+false,true,#d66011,"Technical Production of the Chemical, Petrochemical, Petroleum Refining, Gas and Related",false,/static/img/icons/cbo/cbo_3.png,3112,,,Petrochemical,Gas Technicians,1125,true,profiles/cbo/3112/
+false,true,#d66011,"Technical Materials, Ceramics and Glass",false,/static/img/icons/cbo/cbo_3.png,3113,,,false,Glass Technicians,1241,true,profiles/cbo/3113/
+false,true,#d66011,Technicians in Manufacturing Plastics and Rubber,false,/static/img/icons/cbo/cbo_3.png,3114,,,false,Plastic and Rubber Technicians,10199,true,profiles/cbo/3114/
+false,true,#d66011,"Technicians Environmental Control, Utilities and Wastewater Treatment",false,/static/img/icons/cbo/cbo_3.png,3115,,,false,Water Treatment Technicians,13445,true,profiles/cbo/3115/
+false,true,#d66011,Technical Textiles,false,/static/img/icons/cbo/cbo_3.png,3116,,,false,Textile Technicians,2321,true,profiles/cbo/3116/
+false,true,#d66011,Colorists,false,/static/img/icons/cbo/cbo_3.png,3117,,,Paint,Colorists,34831,true,profiles/cbo/3117/
+false,true,#d66011,Technicians in Construction (Buildings),false,/static/img/icons/cbo/cbo_3.png,3121,pashminu,https://pixabay.com/photo-827301/,false,Building Construction Technicians,52865,true,profiles/cbo/3121/
+false,true,#d66011,Technicians in Construction (Infrastructure Works),false,/static/img/icons/cbo/cbo_3.png,3122,,,Infrastructure Work,Infrastructure Technicians,16686,true,profiles/cbo/3122/
+false,true,#d66011,Technicians in Geomatics,false,/static/img/icons/cbo/cbo_3.png,3123,,,"Geographers, Topographers, Surveyers",Geographic Technicians,26114,true,profiles/cbo/3123/
+false,true,#d66011,Electricians and Electrical Engineering,false,/static/img/icons/cbo/cbo_3.png,3131,Portal de Jornalismo ESPM - SP,https://flic.kr/p/oU8WFf,false,Electricians and Electrical Engineers,102650,true,profiles/cbo/3131/
+false,true,#d66011,Technicians in Electronics,false,/static/img/icons/cbo/cbo_3.png,3132,WEG EQUIPAMENTOS ELÉTRICOS S.A.,https://flic.kr/p/6GYqap,false,Electronics Technicians,147861,true,profiles/cbo/3132/
+false,true,#d66011,Technicians in Telecommunications,false,/static/img/icons/cbo/cbo_3.png,3133,andrea lima de menezes,https://flic.kr/p/8ReRFr,"Telecomunications, Data, Network",Telecom Technicians,51854,true,profiles/cbo/3133/
+false,true,#d66011,Calibration and Instrumentation Technicians,false,/static/img/icons/cbo/cbo_3.png,3134,,,false,Instrumentation Technicians,18321,true,profiles/cbo/3134/
+false,true,#d66011,Technicians in Photonics,false,/static/img/icons/cbo/cbo_3.png,3135,,,false,Photonics Technicians,2458,true,profiles/cbo/3135/
+false,true,#d66011,"Mechanical Technicians in the Manufacture and Assembly of Machines, Systems and Tools",false,/static/img/icons/cbo/cbo_3.png,3141,Agência Brasília,https://flic.kr/p/Bvpk3H,false,Mechanical Technicians,74217,true,profiles/cbo/3141/
+false,true,#d66011,Technical Mechanics (Tools),false,/static/img/icons/cbo/cbo_3.png,3142,,,Tools,Tool Technicians,5467,true,profiles/cbo/3142/
+false,true,#d66011,Mechanical Technicians Vehicular,false,/static/img/icons/cbo/cbo_3.png,3143,,,"Vehicles, Cars, Technicians ",Car Mechanics,5856,true,profiles/cbo/3143/
+false,true,#d66011,"Mechanical Technicians in Maintenance of Machines, Systems and Tools",false,/static/img/icons/cbo/cbo_3.png,3144,,,false,Machinery Technicians,26999,true,profiles/cbo/3144/
+false,true,#d66011,Technicians in Metallurgy (Metal Structures),false,/static/img/icons/cbo/cbo_3.png,3146,,,Metallurgy,Metallurgy Technicians,7804,true,profiles/cbo/3146/
+false,true,#d66011,Technicians Steel,false,/static/img/icons/cbo/cbo_3.png,3147,,,false,Steel Technicians,4799,true,profiles/cbo/3147/
+false,true,#d66011,Technicians in Geology,false,/static/img/icons/cbo/cbo_3.png,3161,,,false,Geology Workers,1809,true,profiles/cbo/3161/
+false,true,#d66011,Technicians Mining,false,/static/img/icons/cbo/cbo_3.png,3163,,,false,Mining Technicians,4892,true,profiles/cbo/3163/
+false,true,#d66011,Technical Systems Development and Applications,false,/static/img/icons/cbo/cbo_3.png,3171,StartupStockPhotos,https://pixabay.com/photo-593372/,"Sysadmins, Programmers",System Administrators,69378,true,profiles/cbo/3171/
+false,true,#d66011,Technicians Operation and Monitoring of Computers,false,/static/img/icons/cbo/cbo_3.png,3172,Prefeitura de Balneário Piçarras,https://flic.kr/p/nZ9F1M,IT,Computer Technicians,85361,true,profiles/cbo/3172/
+false,true,#d66011,Technical Designers in General,false,/static/img/icons/cbo/cbo_3.png,3180,,,false,Technical Designers,17752,true,profiles/cbo/3180/
+false,true,#d66011,Designers Technical Construction and Architecture,false,/static/img/icons/cbo/cbo_3.png,3181,,,"Technical Construction, Designer",Construction Designers,7917,true,profiles/cbo/3181/
+false,true,#d66011,Designers of Mechanical Technicians,false,/static/img/icons/cbo/cbo_3.png,3182,,,false,Mechanical Designers,3584,true,profiles/cbo/3182/
+false,true,#d66011,"Designers Electricians, Electronic, Electromechanical, Heating, Ventilation and Cooling",false,/static/img/icons/cbo/cbo_3.png,3183,,,"Eletrical, Electromechanical, Heating, Ventilation, Cooling",Utility Designers,1311,true,profiles/cbo/3183/
+false,true,#d66011,Designers of Technical Products and Miscellaneous Services,false,/static/img/icons/cbo/cbo_3.png,3184,,,false,Technical Product Designers,10450,true,profiles/cbo/3184/
+false,true,#d66011,Designers Designers Construction and Architecture,false,/static/img/icons/cbo/cbo_3.png,3185,,,false,Construction Design Planners,14723,true,profiles/cbo/3185/
+false,true,#d66011,Designers of Mechanical Designers,false,/static/img/icons/cbo/cbo_3.png,3186,,,Mechanics,Mechanical Design Planners,15705,true,profiles/cbo/3186/
+false,true,#d66011,Designers of Electronics Designers,false,/static/img/icons/cbo/cbo_3.png,3187,,,false,Electronical Design Planners,4120,true,profiles/cbo/3187/
+false,true,#d66011,Designers Designers and Modelers of Various Products and Services,false,/static/img/icons/cbo/cbo_3.png,3188,,,Design Services,Product Design Planners,16371,true,profiles/cbo/3188/
+false,true,#d66011,Technical Clothing,false,/static/img/icons/cbo/cbo_3.png,3191,,,false,Clothing Technicians,1118,true,profiles/cbo/3191/
+false,true,#d66011,Technicians and Related Furniture,false,/static/img/icons/cbo/cbo_3.png,3192,,,"Technicians, Assemblers",Furniture Technicians,467,true,profiles/cbo/3192/
+false,true,#d66011,Technicians in Biology,false,/static/img/icons/cbo/cbo_3.png,3201,,,false,Biological Technicians,834,true,profiles/cbo/3201/
+false,true,#d66011,Agricultural Technicians,false,/static/img/icons/cbo/cbo_3.png,3211,,,Farmers,Agricultural Technicians,35960,true,profiles/cbo/3211/
+false,true,#d66011,Foresters,false,/static/img/icons/cbo/cbo_3.png,3212,,,false,Foresters,6284,true,profiles/cbo/3212/
+false,true,#d66011,Technicians in Aquaculture,false,/static/img/icons/cbo/cbo_3.png,3213,,,false,Aquafarmers,676,true,profiles/cbo/3213/
+false,true,#d66011,Technologists and Technicians in Alternative Therapies and Aesthetic,false,/static/img/icons/cbo/cbo_3.png,3221,,,false,Alternative Therapy Technicians,15632,true,profiles/cbo/3221/
+false,true,#d66011,Technicians and Nursing Assistants,false,/static/img/icons/cbo/cbo_3.png,3222,Irekia,https://flic.kr/p/83iBHF,false,Nursing Assistants,868282,true,profiles/cbo/3222/
+false,true,#d66011,Technicians in Optics and Optometry,false,/static/img/icons/cbo/cbo_3.png,3223,,,"Optics, Optometry",Optometrists,6217,true,profiles/cbo/3223/
+false,true,#d66011,Dental Technicians,false,/static/img/icons/cbo/cbo_3.png,3224,Del Rodrigues,https://flic.kr/p/bdg95F,"Dentists, Oral Hygienists",Dental Technicians,84967,true,profiles/cbo/3224/
+false,true,#d66011,Technicians in Orthopedic Prostheses,false,/static/img/icons/cbo/cbo_3.png,3225,,,Prostheses Manufacturing,Orthopedic Prostheses Technicians,1527,true,profiles/cbo/3225/
+false,true,#d66011,Technicians Fixed Orthopedic,false,/static/img/icons/cbo/cbo_3.png,3226,,,false,Fixed Orthopedic Technicians,3094,true,profiles/cbo/3226/
+false,true,#d66011,Technicians Livestock,false,/static/img/icons/cbo/cbo_3.png,3231,,,false,Livestock Technicians,637,true,profiles/cbo/3231/
+false,true,#d66011,Technologists and Technicians in Diagnostic and Therapeutic Methods,false,/static/img/icons/cbo/cbo_3.png,3241,spallafisioterapia,https://flic.kr/p/825mE6,false,Radiologists,62039,true,profiles/cbo/3241/
+false,true,#d66011,Technicians and Technical Assistants in Clinical Pathology,false,/static/img/icons/cbo/cbo_3.png,3242,,,false,Clinical Pathology Technicians,46083,true,profiles/cbo/3242/
+false,true,#d66011,"Winemakers, Perfumers and Flavorists",false,/static/img/icons/cbo/cbo_3.png,3250,,,false,Horticulture Technicians,2286,true,profiles/cbo/3250/
+false,true,#d66011,Pharmacy Technician and Pharmacy Compounding,false,/static/img/icons/cbo/cbo_3.png,3251,,,Pharmacuetical Compounding,Pharmacy Technicians,18203,true,profiles/cbo/3251/
+false,true,#d66011,"Technicians in Production, Maintenance and Quality of Food",false,/static/img/icons/cbo/cbo_3.png,3252,,,false,Food Production Technicians,11714,true,profiles/cbo/3252/
+false,true,#d66011,Technical Support Biotechnology,false,/static/img/icons/cbo/cbo_3.png,3253,,,false,Biotechnical Technicians,818,true,profiles/cbo/3253/
+false,true,#d66011,Technicians Necropsy and Taxidermists,false,/static/img/icons/cbo/cbo_3.png,3281,,,Necropsy,Taxidermists,871,true,profiles/cbo/3281/
+false,true,#d66011,Middle Level Teachers in Early Childhood Education,false,/static/img/icons/cbo/cbo_3.png,3311,Prefeitura de Sete Lagoas,https://flic.kr/p/8gBPZP,"Kindergarden, Preschool",Early Childhood Teachers,305911,true,profiles/cbo/3311/
+false,true,#d66011,Teachers in Middle Level School,false,/static/img/icons/cbo/cbo_3.png,3312,US Department of Education,https://flic.kr/p/fCAUxh,false,Middle School Teachers,764154,true,profiles/cbo/3312/
+false,true,#d66011,Teachers in Middle Level Vocational Education,false,/static/img/icons/cbo/cbo_3.png,3313,,,false,Vocational Middle School Teachers,27243,true,profiles/cbo/3313/
+false,true,#d66011,Lay Teachers in Elementary Schools,false,/static/img/icons/cbo/cbo_3.png,3321,,,false,Elementary School Teachers,30712,true,profiles/cbo/3321/
+false,true,#d66011,Teachers in Practical Vocational,false,/static/img/icons/cbo/cbo_3.png,3322,,,false,Vocational Teachers,10088,true,profiles/cbo/3322/
+false,true,#d66011,Instructors and Teachers of Free Courses,false,/static/img/icons/cbo/cbo_3.png,3331,Colégio Raízes,https://flic.kr/p/hKsie7,Driving Instructors,Free Course Instructors,121323,true,profiles/cbo/3331/
+false,true,#d66011,Inspectors Students and Related,false,/static/img/icons/cbo/cbo_3.png,3341,Rede Coleguium de Ensino,https://flic.kr/p/amY3Nc,false,School Inspectors,163694,true,profiles/cbo/3341/
+false,true,#d66011,"Commercial Airline Pilots, Flight Engineers and Related",false,/static/img/icons/cbo/cbo_3.png,3411,,,"Flight Engineers, Airlines",Commercial Pilots,2862,true,profiles/cbo/3411/
+false,true,#d66011,Technical Seafarers and Fishermen River Merchant Sailor Deck,false,/static/img/icons/cbo/cbo_3.png,3412,,,"Seafarers, Sailor, Merchant",Fishermen,4681,true,profiles/cbo/3412/
+false,true,#d66011,Technical and Maritime River Merchant Sailor Machines,false,/static/img/icons/cbo/cbo_3.png,3413,,,false,Maritime Technicians,2810,true,profiles/cbo/3413/
+false,true,#d66011,Specialists in Transport Logistics,false,/static/img/icons/cbo/cbo_3.png,3421,Ingeniørforeningen IDA,https://flic.kr/p/iK7AbA,false,Transport Logistics Technicians,63111,true,profiles/cbo/3421/
+false,true,#d66011,Customs Brokers,false,/static/img/icons/cbo/cbo_3.png,3422,,,false,Customs Brokes,7572,true,profiles/cbo/3422/
+false,true,#d66011,Technicians in Road Transport,false,/static/img/icons/cbo/cbo_3.png,3423,,,false,Road Transport Technicians,48320,true,profiles/cbo/3423/
+false,true,#d66011,Technicians Transport Metroferroviìários,false,/static/img/icons/cbo/cbo_3.png,3424,,,"Bus Drivers, Transport Motorvehicles",Public Transporation Technicians,17098,true,profiles/cbo/3424/
+false,true,#d66011,Technicians in Air Transport,false,/static/img/icons/cbo/cbo_3.png,3425,,,false,Air Transport Technicians,24556,true,profiles/cbo/3425/
+false,true,#d66011,Technicians in Waterborne Transport and Port Operations,false,/static/img/icons/cbo/cbo_3.png,3426,,,Water Transport,Seaport Operations Technicians,4152,true,profiles/cbo/3426/
+false,true,#d66011,Accounting Technicians,false,/static/img/icons/cbo/cbo_3.png,3511,,,false,Accounting Technicians,40053,true,profiles/cbo/3511/
+false,true,#d66011,Technicians Administration,false,/static/img/icons/cbo/cbo_3.png,3513,HotelPontaVerde,https://flic.kr/p/bVh8hw,"Sysadmins, It, Network Specialists",Administrative Technicians,74601,true,profiles/cbo/3513/
+false,true,#d66011,Justice and Related Clerks,false,/static/img/icons/cbo/cbo_3.png,3514,Ahmed AB,https://flic.kr/p/7QJfv4,"Penman, Bailiff, Legal Assistants",Judicial Clerks,174072,true,profiles/cbo/3514/
+false,true,#d66011,Technical Secretariat Stenographers and Estenotipistas,false,/static/img/icons/cbo/cbo_3.png,3515,Italberto Figueira Dantas,https://flic.kr/p/qBmGTM,"Stenographers, Estenotipistas",Secretarial Technicians,78048,true,profiles/cbo/3515/
+false,true,#d66011,Technicians Work Safety,false,/static/img/icons/cbo/cbo_3.png,3516,CNI Confederação Nacional da Indústria,https://flic.kr/p/oMnoRx,false,Work Safety Technicians,94044,true,profiles/cbo/3516/
+false,true,#d66011,Technicians and Related Insurance,false,/static/img/icons/cbo/cbo_3.png,3517,,,"Analysts, Risk, Claims, Evaluators",Insurance Technicians,43196,true,profiles/cbo/3517/
+false,true,#d66011,Agents Investigation and Identification,false,/static/img/icons/cbo/cbo_3.png,3518,Wesley Soalheiro de souza,https://flic.kr/p/cWV88G,Agents,Investigative Technicians,49591,true,profiles/cbo/3518/
+false,true,#d66011,Technical Intelligence,false,/static/img/icons/cbo/cbo_3.png,3519,,,false,Intelligence Technicians,436,true,profiles/cbo/3519/
+false,true,#d66011,Health Workers and the Environment,false,/static/img/icons/cbo/cbo_3.png,3522,embausurfacomodacoes,https://flic.kr/p/8DvgNA,false,Health and Environmental Workers,142018,true,profiles/cbo/3522/
+false,true,#d66011,Tax Agents and Metrological Quality,false,/static/img/icons/cbo/cbo_3.png,3523,,,Metrological Equality,Tax Agents,15847,true,profiles/cbo/3523/
+false,true,#d66011,Professionals Copyright the Rating of Products and Media,false,/static/img/icons/cbo/cbo_3.png,3524,,,false,Copyright Specialists,756,true,profiles/cbo/3524/
+false,true,#d66011,Technicians and Banking Operations,false,/static/img/icons/cbo/cbo_3.png,3532,,,false,Bank Technicians,21556,true,profiles/cbo/3532/
+false,true,#d66011,Technical Sales Specialist,false,/static/img/icons/cbo/cbo_3.png,3541,Vodafone Medien,https://flic.kr/p/vbcj7A,false,Sales Specialist,326829,true,profiles/cbo/3541/
+false,true,#d66011,Buyers,false,/static/img/icons/cbo/cbo_3.png,3542,AEMTG,https://flic.kr/p/8dRxpX,false,Buyers,77852,true,profiles/cbo/3542/
+false,true,#d66011,Analysts Foreign Trade,false,/static/img/icons/cbo/cbo_3.png,3543,,,false,Foreign Trade Analysts,17171,true,profiles/cbo/3543/
+false,true,#d66011,Auctioneers and Appraisers,false,/static/img/icons/cbo/cbo_3.png,3544,,,Appraisers,Auctioneers,2776,true,profiles/cbo/3544/
+false,true,#d66011,Insurance Agents,false,/static/img/icons/cbo/cbo_3.png,3545,,,false,Insurance Agents,1610,true,profiles/cbo/3545/
+false,true,#d66011,Realtors,false,/static/img/icons/cbo/cbo_3.png,3546,,,false,Realtors,2660,true,profiles/cbo/3546/
+false,true,#d66011,Independent Sales Representatives,false,/static/img/icons/cbo/cbo_3.png,3547,,,Sales Representatives,Independent Salesmen,4561,true,profiles/cbo/3547/
+false,true,#d66011,Technical Services in Tourism and Event Organization,false,/static/img/icons/cbo/cbo_3.png,3548,,,"Travel Agent, Tour Operators",Tourism and Event Organizers,27699,true,profiles/cbo/3548/
+false,true,#d66011,Technicians in Librarianship,false,/static/img/icons/cbo/cbo_3.png,3711,,,false,Library Technicians,19147,true,profiles/cbo/3711/
+false,true,#d66011,Technicians and Related Museology,false,/static/img/icons/cbo/cbo_3.png,3712,,,false,Museum Technicians,422,true,profiles/cbo/3712/
+false,true,#d66011,Technicians in Graphic Arts,false,/static/img/icons/cbo/cbo_3.png,3713,,,Graphic Arts,Graphic Designers,3279,true,profiles/cbo/3713/
+false,true,#d66011,Recreators,false,/static/img/icons/cbo/cbo_3.png,3714,Prefeitura de Sete Lagoas,https://flic.kr/p/8WfRzz,false,Recruiters,51097,true,profiles/cbo/3714/
+false,true,#d66011,Pickups Motion Pictures,false,/static/img/icons/cbo/cbo_3.png,3721,,,"Cinamatography, Camera, Lighting",Cinematography Technicians,7336,true,profiles/cbo/3721/
+false,true,#d66011,Teleprocessing Network Operators and Related,false,/static/img/icons/cbo/cbo_3.png,3722,,,false,Teleprocessing Technicians,6962,true,profiles/cbo/3722/
+false,true,#d66011,Technical Operation of Radio Stations,false,/static/img/icons/cbo/cbo_3.png,3731,,,false,Radio Station Technicians,10611,true,profiles/cbo/3731/
+false,true,#d66011,Technicians Operating Systems Television and Video Production,false,/static/img/icons/cbo/cbo_3.png,3732,,,"Television, Telecom",Camera Operators,24726,true,profiles/cbo/3732/
+false,true,#d66011,Audio Technicians,false,/static/img/icons/cbo/cbo_3.png,3741,,,"Sound Designers, Audio Mixing, Recording, Installers of Audio Equipment",Audio Technicians,13739,true,profiles/cbo/3741/
+false,true,#d66011,Technicians Scenography,false,/static/img/icons/cbo/cbo_3.png,3742,,,false,Scenography Technicians,2603,true,profiles/cbo/3742/
+false,true,#d66011,Technicians Operation of Projection Apparatus,false,/static/img/icons/cbo/cbo_3.png,3743,,,false,Projectionists,2089,true,profiles/cbo/3743/
+false,true,#d66011,"Technicians Assembling, Editing and Finalization of Film and Video",false,/static/img/icons/cbo/cbo_3.png,3744,,,false,Video and Film Editors,14501,true,profiles/cbo/3744/
+false,true,#d66011,"Interior Designers, and Showcases the Visual Merchandiser and Related (Medium)",false,/static/img/icons/cbo/cbo_3.png,3751,,,"Visual Merchandiser, Showcases",Interior Designers,10142,true,profiles/cbo/3751/
+false,true,#d66011,Dancers Traditional and Popular,false,/static/img/icons/cbo/cbo_3.png,3761,,,false,Dancers,340,true,profiles/cbo/3761/
+false,true,#d66011,Artists Circus (Circus),false,/static/img/icons/cbo/cbo_3.png,3762,,,"Clowns, Trapeeze, Juggling",Circus Artists,980,true,profiles/cbo/3762/
+false,true,#d66011,"Presenters of Shows, Events and Programs",false,/static/img/icons/cbo/cbo_3.png,3763,,,"Shows, Events, Programs",Presenters,2375,true,profiles/cbo/3763/
+false,true,#d66011,Models,false,/static/img/icons/cbo/cbo_3.png,3764,,,false,Models,277,true,profiles/cbo/3764/
+false,true,#d66011,Pros,false,/static/img/icons/cbo/cbo_3.png,3771,,,"Soccer, Football, Volleyball, Golf, Fighting, Tennis, Jockey, Boxer, Sports",Professional Athletes,8368,true,profiles/cbo/3771/
+false,true,#d66011,Referees Sports,false,/static/img/icons/cbo/cbo_3.png,3772,,,false,Sports Referees,449,true,profiles/cbo/3772/
+false,true,#d66011,Technical Planning and Production Control,false,/static/img/icons/cbo/cbo_3.png,3911,UnB Agência,https://flic.kr/p/oy9Lke,false,Industrial Planning Technicians,155232,true,profiles/cbo/3911/
+false,true,#d66011,Technical Production Control,false,/static/img/icons/cbo/cbo_3.png,3912,Asian Development Bank,https://flic.kr/p/dQTFu1,false,Production Control Technicians,189763,true,profiles/cbo/3912/
+false,true,#d66011,Technical Support in Research and Development,false,/static/img/icons/cbo/cbo_3.png,3951,,,false,Technical Support in Research and Development,19136,true,profiles/cbo/3951/
+false,true,#b7834b,Workers of Administrative Services,false,/static/img/icons/cbo/cbo_4.png,4,Alper Çuğun,https://flic.kr/p/7pmryX,false,Administrative Workers,9662960,true,profiles/cbo/4/
+false,true,#b7834b,Administrative Supervisors,false,/static/img/icons/cbo/cbo_4.png,4101,Vodafone Medien,https://flic.kr/p/vbcj7A,false,Administrative Supervisors,452845,true,profiles/cbo/4101/
+false,true,#b7834b,"Supervisors of Financial Services, and Exchange Control",false,/static/img/icons/cbo/cbo_4.png,4102,Teleperformance Group,https://flic.kr/p/dj1jMM,false,Financial Supervisors,85328,true,profiles/cbo/4102/
+false,true,#b7834b,"Agents, Assistants and Administrative Assistants",false,/static/img/icons/cbo/cbo_4.png,4110,Bonner Springs Library,https://flic.kr/p/6GG7ke,false,Administrative Assistants,4698168,true,profiles/cbo/4110/
+false,true,#b7834b,Operator Input Devices and Data Transmission,false,/static/img/icons/cbo/cbo_4.png,4121,StartupStockPhotos,https://pixabay.com/photo-593312/,false,Data Entry Specialists,58264,true,profiles/cbo/4121/
+false,true,#b7834b,Continuous,false,/static/img/icons/cbo/cbo_4.png,4122,Fotos GOVBA,https://flic.kr/p/784LNm,false,Secretaries,197555,true,profiles/cbo/4122/
+false,true,#b7834b,Accounting Clerks,false,/static/img/icons/cbo/cbo_4.png,4131,Bonner Springs Library,https://flic.kr/p/6GG7ke,Accountants,Accounting Assistants,260119,true,profiles/cbo/4131/
+false,true,#b7834b,Clerks of Banking,false,/static/img/icons/cbo/cbo_4.png,4132,Vodafone Medien,https://flic.kr/p/vbcj7A,"Tellers, Bankers",Bank Assistants,382704,true,profiles/cbo/4132/
+false,true,#b7834b,Almoxarifes and Stockists,false,/static/img/icons/cbo/cbo_4.png,4141,Assembleia Legislativa do Paraná,https://flic.kr/p/a88u55,false,Stockmen,649873,true,profiles/cbo/4141/
+false,true,#b7834b,Links and Lecturers,false,/static/img/icons/cbo/cbo_4.png,4142,Glúten Free Alimentos,https://flic.kr/p/dirD1E,Instructor,Production Trainers,237120,true,profiles/cbo/4142/
+false,true,#b7834b,"Ancillary Service Documentation, Information and Research",false,/static/img/icons/cbo/cbo_4.png,4151,,,false,Scribes,27900,true,profiles/cbo/4151/
+false,true,#b7834b,Sorting Postmen and Operators of Postal Services,false,/static/img/icons/cbo/cbo_4.png,4152,Dirceu S. Oliveira,https://flic.kr/p/h6JbmV,"Mail Carriers, Postmen, Curriers",Postal Workers,88482,true,profiles/cbo/4152/
+false,true,#b7834b,Supervisors Client Service and Research,false,/static/img/icons/cbo/cbo_4.png,4201,Petit Miracle,https://flic.kr/p/q51NTF,false,Public Service Supervisors,98010,true,profiles/cbo/4201/
+false,true,#b7834b,Boxes and Tellers (Except Bank Teller),false,/static/img/icons/cbo/cbo_4.png,4211,,,Checkout Clerks,Non-Bank Tellers,937518,true,profiles/cbo/4211/
+false,true,#b7834b,Collectors Betting and Gaming,false,/static/img/icons/cbo/cbo_4.png,4212,,,"Betting, Gaming",Gambling Collectors,20274,true,profiles/cbo/4212/
+false,true,#b7834b,Collectors and Related,false,/static/img/icons/cbo/cbo_4.png,4213,Mario Riorda,https://flic.kr/p/moGWBZ,Accounts,Billing Collectors,108048,true,profiles/cbo/4213/
+false,true,#b7834b,Receptionists,false,/static/img/icons/cbo/cbo_4.png,4221,Daniel Lobo,https://flic.kr/p/2inDCi,false,Receptionists,707996,true,profiles/cbo/4221/
+false,true,#b7834b,Telephone Operators,false,/static/img/icons/cbo/cbo_4.png,4222,Tomoir III,https://flic.kr/p/bSSZ9R,false,Telephone Operators,147562,true,profiles/cbo/4222/
+false,true,#b7834b,Telemarketers,false,/static/img/icons/cbo/cbo_4.png,4223,News Oresund,https://flic.kr/p/e5D5jr,false,Telemarketers,478443,true,profiles/cbo/4223/
+false,true,#b7834b,Brokers Documentalists and Related,false,/static/img/icons/cbo/cbo_4.png,4231,,,false,Customs Brokers,11153,true,profiles/cbo/4231/
+false,true,#b7834b,Interviewers and Enumerators,false,/static/img/icons/cbo/cbo_4.png,4241,,,false,Interviewers and Census Takers,15598,true,profiles/cbo/4241/
+false,true,#17bcef,"Service Employees, Vendors in Trade Shops and Markets",false,/static/img/icons/cbo/cbo_5.png,5,Mills Baker,https://flic.kr/p/6vivZy,false,Service and Retail Workers,11774147,true,profiles/cbo/5/
+false,true,#17bcef,"Supervisors Transport Services, Tourism, Hospitality and Administration Buildings",false,/static/img/icons/cbo/cbo_5.png,5101,,,false,Hospitality Supervisors,37304,true,profiles/cbo/5101/
+false,true,#17bcef,Supervisors Laundry,false,/static/img/icons/cbo/cbo_5.png,5102,,,"Washing, Clothing, Cleaning",Laundry Supervisors,4391,true,profiles/cbo/5102/
+false,true,#17bcef,"Supervisors Protection Services, Security and Other",false,/static/img/icons/cbo/cbo_5.png,5103,,,false,Security Supervisors,22512,true,profiles/cbo/5103/
+false,true,#17bcef,Workers and Security Services to Users in Transport,false,/static/img/icons/cbo/cbo_5.png,5111,,,false,Transportation Security,18160,true,profiles/cbo/5111/
+false,true,#17bcef,Tax Collectors and Public Transportation,false,/static/img/icons/cbo/cbo_5.png,5112,Stuart Montgomery,https://flic.kr/p/ah7gmA,"Subway, Transportation, Ticket Collectors",Public Transit Attendants,209010,true,profiles/cbo/5112/
+false,true,#17bcef,Tour Guides,false,/static/img/icons/cbo/cbo_5.png,5114,,,false,Tour Guides,1144,true,profiles/cbo/5114/
+false,true,#17bcef,Domestic Service Workers in General,false,/static/img/icons/cbo/cbo_5.png,5121,,,false,Domestic Service Workers,0,true,profiles/cbo/5121/
+false,true,#17bcef,Butlers and Housekeepers,false,/static/img/icons/cbo/cbo_5.png,5131,,,"Housekeepers, Cleaners, Servants",Butlers and Maids,10977,true,profiles/cbo/5131/
+false,true,#17bcef,Cooks,false,/static/img/icons/cbo/cbo_5.png,5132,Unsplash,https://pixabay.com/photo-1209161/,Chefs,Cooks,644830,true,profiles/cbo/5132/
+false,true,#17bcef,"Chamberlains, Wardrobes and the Like",false,/static/img/icons/cbo/cbo_5.png,5133,Lenovski,https://flic.kr/p/vDTkgk,false,Housekeepers,100535,true,profiles/cbo/5133/
+false,true,#17bcef,"Waiters, Bartenders, Sommeliers and Cupbearers",false,/static/img/icons/cbo/cbo_5.png,5134,La Citta Vita,https://flic.kr/p/9XWsaX,"Waiters, Bartenders",Restaurant Workers,841387,true,profiles/cbo/5134/
+false,true,#17bcef,Auxiliary Workers in Foodservice,false,/static/img/icons/cbo/cbo_5.png,5135,wan mohd,https://flic.kr/p/8vUnSh,Food,Other Food Service Workers,211741,true,profiles/cbo/5135/
+false,true,#17bcef,"Grillers, and Pizzaiolos Sushimen",false,/static/img/icons/cbo/cbo_5.png,5136,,,"Grillers, Pizzaiolos, Sushimen",Specialty Chefs,25218,true,profiles/cbo/5136/
+false,true,#17bcef,Workers in Management Services Buildings,false,/static/img/icons/cbo/cbo_5.png,5141,Gregoire Fossemalle,https://flic.kr/p/8kgTv7,false,Building Management,358528,true,profiles/cbo/5141/
+false,true,#17bcef,"Workers in the Service of Waste Collection, Cleaning and Maintenance of Public Areas",false,/static/img/icons/cbo/cbo_5.png,5142,Lars Plougmann,https://flic.kr/p/rkfJsK,"Garbage Collectors, Sanitation",Garbagemen,908903,true,profiles/cbo/5142/
+false,true,#17bcef,Workers in Maintenance of Buildings,false,/static/img/icons/cbo/cbo_5.png,5143,bogitw,https://pixabay.com/photo-817732/,false,Other Building Maintenance Workers,1700199,true,profiles/cbo/5143/
+false,true,#17bcef,Workers in Services and Support for Health Promotion,false,/static/img/icons/cbo/cbo_5.png,5151,Agencia CNT de Noticias,https://flic.kr/p/8VU62e,"Indigenous Health Workers, Nurse",Health Services Workers,337867,true,profiles/cbo/5151/
+false,true,#17bcef,Auxiliary Health Laboratory,false,/static/img/icons/cbo/cbo_5.png,5152,Força Aérea Brasileira (Brazilian Air Force),https://flic.kr/p/qx1kX1,"Clinical, Health",Medical Lab Assistants,91617,true,profiles/cbo/5152/
+false,true,#17bcef,"Workers Care, Defense and Protection to People at Risk",false,/static/img/icons/cbo/cbo_5.png,5153,,,"Defense, Protection",High Risk Care Workers,37320,true,profiles/cbo/5153/
+false,true,#17bcef,Workers in Beautification and Hygiene Services,false,/static/img/icons/cbo/cbo_5.png,5161,Fábio H. Mendes,https://flic.kr/p/CVjuXC,"Hair Dressers, Manicure, Makeup, Pedicure, Barber",Beauty Workers,66627,true,profiles/cbo/5161/
+false,true,#17bcef,"Caregivers of Children, Youth, Adults and Seniors",false,/static/img/icons/cbo/cbo_5.png,5162,Portal PBH,https://flic.kr/p/a1Lzua,Domestic Workers,Caregivers,56186,true,profiles/cbo/5162/
+false,true,#17bcef,"Dry Cleaners, Launderers and the Like, the Machine",false,/static/img/icons/cbo/cbo_5.png,5163,Lente Quente,https://flic.kr/p/a3set3,false,Dry Cleaners,92054,true,profiles/cbo/5163/
+false,true,#17bcef,"Launderers and Smugglers of Clothing, Hand",false,/static/img/icons/cbo/cbo_5.png,5164,,,"Washers, Cleaners, Clothing",Launderers,9375,true,profiles/cbo/5164/
+false,true,#17bcef,Workers Funeral Services,false,/static/img/icons/cbo/cbo_5.png,5165,,,false,Funeral Service Workers,10335,true,profiles/cbo/5165/
+false,true,#17bcef,Workers Auxiliary Funeral Services,false,/static/img/icons/cbo/cbo_5.png,5166,,,false,Other Funeral Workers,5793,true,profiles/cbo/5166/
+false,true,#17bcef,Astrologers and Numerologists,false,/static/img/icons/cbo/cbo_5.png,5167,,,Numerologists,Astrologists,1313,true,profiles/cbo/5167/
+false,true,#17bcef,Esoteric and Paranormal,false,/static/img/icons/cbo/cbo_5.png,5168,,,false,Paranormal Specialists,115,true,profiles/cbo/5168/
+false,true,#17bcef,Firefighters and Lifeguards,false,/static/img/icons/cbo/cbo_5.png,5171,,,"Public Service, Safety",Firefighters and Lifeguards,29445,true,profiles/cbo/5171/
+false,true,#17bcef,"Police, Civil Guards and Municipal Traffic Agents",false,/static/img/icons/cbo/cbo_5.png,5172,Aloisio Mauricio/T70! Fotografia Digital A imagem que preza a sua imagem.,https://flic.kr/p/6p4qED,"Traffic Agents, Public Service, Cops",Police and Civil Guards,121803,true,profiles/cbo/5172/
+false,true,#17bcef,Wardens and Security Guards,false,/static/img/icons/cbo/cbo_5.png,5173,followtheseinstructions,https://flic.kr/p/9gGswk,false,Security Guards,839842,true,profiles/cbo/5173/
+false,true,#17bcef,Porters and Watchmen,false,/static/img/icons/cbo/cbo_5.png,5174,Igor Schutz,https://flic.kr/p/ej94rB,false,Doormen,949556,true,profiles/cbo/5174/
+false,true,#17bcef,Motorcyclists and Cyclists Quick Deliveries,false,/static/img/icons/cbo/cbo_5.png,5191,Lente Quente,https://flic.kr/p/EEVUd9,Bike Messangers,Couriers,135859,true,profiles/cbo/5191/
+false,true,#17bcef,Workers Collection and Selection of Recyclable Material,false,/static/img/icons/cbo/cbo_5.png,5192,,,false,Recycling Collectors,11919,true,profiles/cbo/5192/
+false,true,#17bcef,"Workers of Veterinary Services, Hygienic and Aesthetic Pets",false,/static/img/icons/cbo/cbo_5.png,5193,,,false,Veternary Service Workers,19064,true,profiles/cbo/5193/
+false,false,#17bcef,Sex Workers,false,/static/img/icons/cbo/cbo_5.png,5198,,,false,Sex Workers,0,true,profiles/cbo/5198/
+false,true,#17bcef,Other Service Workers,false,/static/img/icons/cbo/cbo_5.png,5199,Lara Borges,https://flic.kr/p/8FitEi,false,Other Service Workers,133525,true,profiles/cbo/5199/
+false,true,#17bcef,Supervisors Sales and Service,false,/static/img/icons/cbo/cbo_5.png,5201,SEBRAE-SP,https://flic.kr/p/qx1et9,false,Sales Supervisors,125373,true,profiles/cbo/5201/
+false,true,#17bcef,Operators of Trade in Shops and Markets,false,/static/img/icons/cbo/cbo_5.png,5211,UliSchu,https://pixabay.com/photo-1205055/,false,Vendors,3519758,true,profiles/cbo/5211/
+false,true,#17bcef,Installers Products and Accessories,false,/static/img/icons/cbo/cbo_5.png,5231,,,"Audio, Blinds, Shutters, Locksmiths",Product Installers,23771,true,profiles/cbo/5231/
+false,true,#17bcef,Vendors at Home,false,/static/img/icons/cbo/cbo_5.png,5241,,,false,Door-to-Door Salesmen,42859,true,profiles/cbo/5241/
+false,true,#17bcef,"Vendor Stalls, Kiosks and Stalls",false,/static/img/icons/cbo/cbo_5.png,5242,,,false,Kiosk and Stall Vendors,9461,true,profiles/cbo/5242/
+false,true,#17bcef,Street Vendors,false,/static/img/icons/cbo/cbo_5.png,5243,,,Food Trucks,Street Vendors,8471,true,profiles/cbo/5243/
+false,true,#105B10,"Workers Agricultural, Forestry and Fisheries",false,/static/img/icons/cbo/cbo_6.png,6,hpgruesen,https://pixabay.com/photo-1359862/,Farmers,Agriculture Workers,1496095,true,profiles/cbo/6/
+false,true,#105B10,Agricultural Producers in General,false,/static/img/icons/cbo/cbo_6.png,6110,,,false,General Agricultural Workers,3191,true,profiles/cbo/6110/
+false,true,#105B10,Farmers Polyvalent,false,/static/img/icons/cbo/cbo_6.png,6120,,,"Agriculture, Farmng",Other Farmers,5863,true,profiles/cbo/6120/
+false,true,#105B10,Farmers in the Cultivation of Grasses,false,/static/img/icons/cbo/cbo_6.png,6121,,,false,Grass Farmers,930,true,profiles/cbo/6121/
+false,true,#105B10,Agricultural Producers in Plant Cultivation Fibrous,false,/static/img/icons/cbo/cbo_6.png,6122,,,"Agriculture, Farming",Fibrous Plant Farmers,486,true,profiles/cbo/6122/
+false,true,#105B10,Farmers in Horticulture,false,/static/img/icons/cbo/cbo_6.png,6123,,,Plant Cultivation,Horticulture Farmers,637,true,profiles/cbo/6123/
+false,true,#105B10,Farmers in the Cultivation of Flowers and Ornamental Plants,false,/static/img/icons/cbo/cbo_6.png,6124,,,"Farming, Plants",Flower Farmers,409,true,profiles/cbo/6124/
+false,true,#105B10,Agricultural Producers in the Horticulture,false,/static/img/icons/cbo/cbo_6.png,6125,,,Farming,Fruit Farmers,1199,true,profiles/cbo/6125/
+false,true,#105B10,Farmers in Crop Plants Stimulants,false,/static/img/icons/cbo/cbo_6.png,6126,,,false,Fertilizer Farmers,93,true,profiles/cbo/6126/
+false,true,#105B10,Farmers in the Cultivation of Oil Plants,false,/static/img/icons/cbo/cbo_6.png,6127,,,"Farming, Plants",Oil Plant Farmers,90,true,profiles/cbo/6127/
+false,true,#105B10,Producers of Spices and Aromatic and Medicinal Plants,false,/static/img/icons/cbo/cbo_6.png,6128,,,Medicinal Plants,Spice Farmers,59,true,profiles/cbo/6128/
+false,true,#105B10,Multipurpose Livestock Producers,false,/static/img/icons/cbo/cbo_6.png,6130,,,false,Other Livestock Breeders,473,true,profiles/cbo/6130/
+false,true,#105B10,Producers of Livestock in Large Animals,false,/static/img/icons/cbo/cbo_6.png,6131,,,Livestock,Larger Livestock Breeders,1556,true,profiles/cbo/6131/
+false,true,#105B10,Producers of Livestock Animals Midsize,false,/static/img/icons/cbo/cbo_6.png,6132,,,false,Midsize Livestock Breeders,520,true,profiles/cbo/6132/
+false,true,#105B10,Producers of Poultry and Rabbits,false,/static/img/icons/cbo/cbo_6.png,6133,,,false,Poultry Breeders,2357,true,profiles/cbo/6133/
+false,true,#105B10,Producers of Animals and Insects,false,/static/img/icons/cbo/cbo_6.png,6134,,,false,Insect Breeders,255,true,profiles/cbo/6134/
+false,true,#105B10,Supervisors in Agricultural Exploitation,false,/static/img/icons/cbo/cbo_6.png,6201,,,false,Agricultural Supervisors,35959,true,profiles/cbo/6201/
+false,true,#105B10,Agricultural Workers in General,false,/static/img/icons/cbo/cbo_6.png,6210,hpgruesen,https://pixabay.com/photo-1359862/,false,General Agricultural Workers,362631,true,profiles/cbo/6210/
+false,true,#105B10,Workers to Support Agriculture,false,/static/img/icons/cbo/cbo_6.png,6220,Franklin Dias,https://flic.kr/p/cbwu4j,Farmers,Other Agricultural Support Workers,215260,true,profiles/cbo/6220/
+false,true,#105B10,Workers in the Agricultural Culture of Grasses,false,/static/img/icons/cbo/cbo_6.png,6221,Foto Piratini,https://flic.kr/p/dENJ13,"Agriculture, Cultivation, Grass",Landscapers,183621,true,profiles/cbo/6221/
+false,true,#105B10,Agricultural Workers in Plant Cultivation Fibrous,false,/static/img/icons/cbo/cbo_6.png,6222,,,false,Fibrous Plant Workers,952,true,profiles/cbo/6222/
+false,true,#105B10,Farm Workers in Horticulture,false,/static/img/icons/cbo/cbo_6.png,6223,,,false,Horticulture Farm Workers,10300,true,profiles/cbo/6223/
+false,true,#105B10,Farm Workers in the Cultivation of Flowers and Ornamental Plants,false,/static/img/icons/cbo/cbo_6.png,6224,,,"Farmers, Ornamental Plants",Flower Culivators,13631,true,profiles/cbo/6224/
+false,true,#105B10,Farm Workers in the Horticulture,false,/static/img/icons/cbo/cbo_6.png,6225,jakza - Jaque Zattera,https://flic.kr/p/oxFM9y,false,Fruit Farm Workers,76215,true,profiles/cbo/6225/
+false,true,#105B10,Workers in Agricultural Crop Plants Stimulants,false,/static/img/icons/cbo/cbo_6.png,6226,,,"Plants, Stimulants",Fertilizer Workers,23158,true,profiles/cbo/6226/
+false,true,#105B10,Farm Workers in the Culture of Oleaginous Plants,false,/static/img/icons/cbo/cbo_6.png,6227,,,Farm Workers,Oil Plant Workers,10124,true,profiles/cbo/6227/
+false,true,#105B10,Farm Workers of Culture Spices and Aromatic and Medicinal Plants,false,/static/img/icons/cbo/cbo_6.png,6228,,,false,Spice Plant Workers,684,true,profiles/cbo/6228/
+false,true,#105B10,Polyvalent Animal Keepers,false,/static/img/icons/cbo/cbo_6.png,6230,,,false,Animal Trainers,34049,true,profiles/cbo/6230/
+false,true,#105B10,Workers in Livestock of Large Animals,false,/static/img/icons/cbo/cbo_6.png,6231,Tatiana Fortes,https://flic.kr/p/oBS46L,false,Large Animal Livestock Workers,117345,true,profiles/cbo/6231/
+false,true,#105B10,Workers in Livestock Animals Midsize,false,/static/img/icons/cbo/cbo_6.png,6232,,,false,Midsize Animal Livestock Workers,15217,true,profiles/cbo/6232/
+false,true,#105B10,Workers in Poultry and Rabbits,false,/static/img/icons/cbo/cbo_6.png,6233,Universidad CEU Cardenal Herrera,https://flic.kr/p/bzNGCM,Rabbit,Poultry Workers,58743,true,profiles/cbo/6233/
+false,true,#105B10,Workers in the Creation of Useful Insects and Animals,false,/static/img/icons/cbo/cbo_6.png,6234,,,false,Insect Workers,1021,true,profiles/cbo/6234/
+false,true,#105B10,Supervisors in the Forestry and Aquaculture,false,/static/img/icons/cbo/cbo_6.png,6301,,,false,Forestry and Aquaculture Supervisors,5113,true,profiles/cbo/6301/
+false,true,#105B10,Fishermen Polyvalent,false,/static/img/icons/cbo/cbo_6.png,6310,,,false,Other Fisherman,654,true,profiles/cbo/6310/
+false,true,#105B10,Traditional Fishermen Freshwater,false,/static/img/icons/cbo/cbo_6.png,6311,,,false,Freshwater Fishermen ,72,true,profiles/cbo/6311/
+false,true,#105B10,Fishermen and Coastal Sea Water,false,/static/img/icons/cbo/cbo_6.png,6312,,,false,Coastal Fishermen,3915,true,profiles/cbo/6312/
+false,true,#105B10,Creators of Aquatic Animals,false,/static/img/icons/cbo/cbo_6.png,6313,,,false,Fish Breeders,3241,true,profiles/cbo/6313/
+false,true,#105B10,Workers to Support Fishing,false,/static/img/icons/cbo/cbo_6.png,6314,,,"Fishermen, Fishing Support, Fishing Assistance",Fishing Support Workers,442,true,profiles/cbo/6314/
+false,true,#105B10,Multipurpose Forest Workers,false,/static/img/icons/cbo/cbo_6.png,6320,,,false,General Forest Workers,3344,true,profiles/cbo/6320/
+false,true,#105B10,Extractive and Reforestation of Timber-Producing Species,false,/static/img/icons/cbo/cbo_6.png,6321,POLÍCIA CIVIL MT,https://flic.kr/p/oKrzGz,"Reforestation, Deforestation, Timber",Lumberjacks,59189,true,profiles/cbo/6321/
+false,true,#105B10,Extractive Forestry Species Producing Gums and Resins,false,/static/img/icons/cbo/cbo_6.png,6322,,,Forestry,Gums and Resins Extraction Workers,7099,true,profiles/cbo/6322/
+false,true,#105B10,"Extractive Forestry Species Producing Fibers, Waxes and Oils",false,/static/img/icons/cbo/cbo_6.png,6323,,,Forestry,"Fiber, Wax, and Oil Extraction Workers",535,true,profiles/cbo/6323/
+false,true,#105B10,Extractive Forest Producing Species of Wild Foods,false,/static/img/icons/cbo/cbo_6.png,6324,,,false,Wild Food Cultivators,1476,true,profiles/cbo/6324/
+false,true,#105B10,"Extractive Forest Producing Species of Aromatic Substances, Medicinal and Toxic",false,/static/img/icons/cbo/cbo_6.png,6325,,,false,Medicinal Species Cultivation,1025,true,profiles/cbo/6325/
+false,true,#105B10,Carvoejadores,false,/static/img/icons/cbo/cbo_6.png,6326,,,"Charcoal, Geological",Coal Workers,13026,true,profiles/cbo/6326/
+false,true,#105B10,Workers of Agricultural Mechanization,false,/static/img/icons/cbo/cbo_6.png,6410,Alexis Toutain,https://flic.kr/p/aBVfPW,"Tractors, Farmers",Mechanical Agricultural Workers,200645,true,profiles/cbo/6410/
+false,true,#105B10,Workers of Forest Mechanization,false,/static/img/icons/cbo/cbo_6.png,6420,,,false,Forest Mechanization Workers,16088,true,profiles/cbo/6420/
+false,true,#105B10,Workers of Irrigation and Drainage,false,/static/img/icons/cbo/cbo_6.png,6430,,,false,Irrigation and Drainage Workers,3203,true,profiles/cbo/6430/
+false,true,#9edae5,Production Workers Industrial Goods and Services,false,/static/img/icons/cbo/cbo_7.png,7,skeeze,https://pixabay.com/photo-659884/,Technical Services,Specialized Production Workers,9819992,true,profiles/cbo/7/
+false,true,#9edae5,Supervisors Mining,false,/static/img/icons/cbo/cbo_7.png,7101,,,false,Mineral Extraction Supervisors,7101,true,profiles/cbo/7101/
+false,true,#9edae5,Supervisors Construction,false,/static/img/icons/cbo/cbo_7.png,7102,Life-Of-Pix,https://pixabay.com/photo-569126/,false,Construction Supervisors,143197,true,profiles/cbo/7102/
+false,true,#9edae5,Workers Extraction of Solid Minerals,false,/static/img/icons/cbo/cbo_7.png,7111,,,false,Solid Mineral Extraction Workers,20774,true,profiles/cbo/7111/
+false,true,#9edae5,Workers Extraction of Solid Minerals (Machine Operators),false,/static/img/icons/cbo/cbo_7.png,7112,,,"Drilling, Boring, Cutters",Mineral Extraction Machinery Operators,48613,true,profiles/cbo/7112/
+false,true,#9edae5,Workers Mineral Extraction Liquid and Gaseous,false,/static/img/icons/cbo/cbo_7.png,7113,,,false,Liquid and Gas Extraction Workers,15993,true,profiles/cbo/7113/
+false,true,#9edae5,Prospectors and Operators of Salt,false,/static/img/icons/cbo/cbo_7.png,7114,,,false,Salt Workers,1560,true,profiles/cbo/7114/
+false,true,#9edae5,Workers of Ore,false,/static/img/icons/cbo/cbo_7.png,7121,,,false,Ore Workers,10854,true,profiles/cbo/7121/
+false,true,#9edae5,Workers Ornamental Stone Processing,false,/static/img/icons/cbo/cbo_7.png,7122,,,"Stonecutters, Polishers, Polishing",Ornamental Stone Workers,27956,true,profiles/cbo/7122/
+false,true,#9edae5,Workers in the Operation of Earthmoving Equipment and Foundations,false,/static/img/icons/cbo/cbo_7.png,7151,robbie paul,https://flic.kr/p/9gtDCf,false,Excavators,161619,true,profiles/cbo/7151/
+false,true,#9edae5,Workers of Masonry Structures,false,/static/img/icons/cbo/cbo_7.png,7152,Rachel Docherty,https://flic.kr/p/b8vEYT,Masons,Masonry Workers,531758,true,profiles/cbo/7152/
+false,true,#9edae5,Assemblers of Reinforced Concrete Structures,false,/static/img/icons/cbo/cbo_7.png,7153,Christyam de Lima,https://flic.kr/p/9YBKPJ,false,Reinforced Concrete Assemblers,76611,true,profiles/cbo/7153/
+false,true,#9edae5,Workers Operating Machinery Concrete Machined,false,/static/img/icons/cbo/cbo_7.png,7154,,,false,Concrete Machine Operators,28729,true,profiles/cbo/7154/
+false,true,#9edae5,"Workers Assembling Structures of Wood, Metal and Composites in Civil Works",false,/static/img/icons/cbo/cbo_7.png,7155,PuzzleMonkey!,https://flic.kr/p/pYaQK3,Carpenters,Construction Workers,189102,true,profiles/cbo/7155/
+false,true,#9edae5,Workers of Electrical Installations,false,/static/img/icons/cbo/cbo_7.png,7156,jarmoluk,https://pixabay.com/photo-1080554/,Electricians,Electrical Workers,148824,true,profiles/cbo/7156/
+false,true,#9edae5,Applicators Insulating Materials,false,/static/img/icons/cbo/cbo_7.png,7157,,,false,Insulation Workers,15817,true,profiles/cbo/7157/
+false,true,#9edae5,Coaters Concrete,false,/static/img/icons/cbo/cbo_7.png,7161,,,Roads,Concrete Coaters,4856,true,profiles/cbo/7161/
+false,true,#9edae5,Roofers (Hard Coatings),false,/static/img/icons/cbo/cbo_7.png,7162,,,"Carpenters, Maintenance ",Roofers,993,true,profiles/cbo/7162/
+false,true,#9edae5,Glaziers (Hard Coatings),false,/static/img/icons/cbo/cbo_7.png,7163,,,false,Glaziers,29449,true,profiles/cbo/7163/
+false,true,#9edae5,Plasterers,false,/static/img/icons/cbo/cbo_7.png,7164,,,false,Plasterers,29230,true,profiles/cbo/7164/
+false,true,#9edae5,"Ceramic Coatings Applicators, Pads, Stones and Woods",false,/static/img/icons/cbo/cbo_7.png,7165,,,"Tilers, Stone",Floor Finishers,25589,true,profiles/cbo/7165/
+false,true,#9edae5,Painters and Coaters Interior Works (Flexible Coatings),false,/static/img/icons/cbo/cbo_7.png,7166,Nicola Iannuzzi,https://flic.kr/p/dWAwPG,false,Interior Painters,91607,true,profiles/cbo/7166/
+false,true,#9edae5,Helpers of Civil Works,false,/static/img/icons/cbo/cbo_7.png,7170,skeeze,https://pixabay.com/photo-857128/,false,Civil Engineering Assistants,891635,true,profiles/cbo/7170/
+false,true,#9edae5,"Supervisors Machining, Forming and Metal Processing",false,/static/img/icons/cbo/cbo_7.png,7201,,,false,Metal Machining Supervisors,20645,true,profiles/cbo/7201/
+false,true,#9edae5,Supervisors Metalworking Manufacturing and Assembly,false,/static/img/icons/cbo/cbo_7.png,7202,,,false,Metal Processing Supervisors,18703,true,profiles/cbo/7202/
+false,true,#9edae5,Toolmakers and Related,false,/static/img/icons/cbo/cbo_7.png,7211,,,Foundry,Toolmakers,31918,true,profiles/cbo/7211/
+false,true,#9edae5,Preparers and Operators of Conventional Machine Tools,false,/static/img/icons/cbo/cbo_7.png,7212,skeeze,https://pixabay.com/photo-659884/,Machinists,Machine Operators,249072,true,profiles/cbo/7212/
+false,true,#9edae5,Sharpeners and Polishes Metal,false,/static/img/icons/cbo/cbo_7.png,7213,,,false,Metal Polishers,23759,true,profiles/cbo/7213/
+false,true,#9edae5,Machinists CNC Machining,false,/static/img/icons/cbo/cbo_7.png,7214,,,false,CNC Machinists,46908,true,profiles/cbo/7214/
+false,true,#9edae5,Workers Forging of Metals,false,/static/img/icons/cbo/cbo_7.png,7221,,,false,Metal Forging Workers,11858,true,profiles/cbo/7221/
+false,true,#9edae5,Workers Smelting Pure Metals and Metal Alloys,false,/static/img/icons/cbo/cbo_7.png,7222,,,false,Metal Smelting Workers,33623,true,profiles/cbo/7222/
+false,true,#9edae5,Workers Molding of Metals and Alloys,false,/static/img/icons/cbo/cbo_7.png,7223,,,false,Metal Molding Workers,17427,true,profiles/cbo/7223/
+false,true,#9edae5,Workers Wiredrawing and Straightening of Pure Metals and Alloys,false,/static/img/icons/cbo/cbo_7.png,7224,,,false,Metal Straightening Workers,7477,true,profiles/cbo/7224/
+false,true,#9edae5,Workers Heat Treatment of Metals,false,/static/img/icons/cbo/cbo_7.png,7231,,,Heat Treatment,Metal Heat Treatment Workers,5882,true,profiles/cbo/7231/
+false,true,#9edae5,Workers from Surface Treatment of Metals and Composites (Thermochemical),false,/static/img/icons/cbo/cbo_7.png,7232,,,"Surface Treatment, Metals, Composites",Thermochemical Metal Workers,15391,true,profiles/cbo/7232/
+false,true,#9edae5,"Workers Painting Equipment, Vehicles, Metal Structures and Composites",false,/static/img/icons/cbo/cbo_7.png,7233,Glênio Freitas Júnior,https://flic.kr/p/9cjkbp,false,Metal Equipment Painters,90587,true,profiles/cbo/7233/
+false,true,#9edae5,Plumbers and Pipe Fitters,false,/static/img/icons/cbo/cbo_7.png,7241,Diogo Abreu,https://flic.kr/p/ao5Rq4,false,Plumbers,111031,true,profiles/cbo/7241/
+false,true,#9edae5,Workers Plotting and Erection of Steel Structures and Composites,false,/static/img/icons/cbo/cbo_7.png,7242,Serluz,https://flic.kr/p/9Nr4o1,false,Steel Structural Erection Workers,95799,true,profiles/cbo/7242/
+false,true,#9edae5,Workers Welding and Cutting Metal Alloys,false,/static/img/icons/cbo/cbo_7.png,7243,Projeto Antenados,https://flic.kr/p/fv3f7W,Welders,Metal Welders,217848,true,profiles/cbo/7243/
+false,true,#9edae5,Workers Boiler and Locksmiths,false,/static/img/icons/cbo/cbo_7.png,7244,CNI Confederação Nacional da Indústria,https://flic.kr/p/oNwwLz,false,Boiler Workers,144277,true,profiles/cbo/7244/
+false,true,#9edae5,Machine Operators Metal Forming,false,/static/img/icons/cbo/cbo_7.png,7245,Sistema FIEB,https://flic.kr/p/kwNmof,false,Metal Forming Machine Operators,51487,true,profiles/cbo/7245/
+false,true,#9edae5,Tranì¤adores Laceiros and Swr,false,/static/img/icons/cbo/cbo_7.png,7246,,,false,Wire Rope Workers,1047,true,profiles/cbo/7246/
+false,true,#9edae5,Adjusters Mechanical Polyvalent,false,/static/img/icons/cbo/cbo_7.png,7250,,,"Assembler, Fabricator",Other Mechanical Fitters,46086,true,profiles/cbo/7250/
+false,true,#9edae5,"Assemblers of Machines, Equipment and Accessories for Assembly Lines",false,/static/img/icons/cbo/cbo_7.png,7251,,,false,Assembly Line Equipment Assemblers,39129,true,profiles/cbo/7251/
+false,true,#9edae5,Assemblers of Industrial Machines,false,/static/img/icons/cbo/cbo_7.png,7252,,,false,Industrial Machine Assemblers,46798,true,profiles/cbo/7252/
+false,true,#9edae5,Assemblers of Heavy Machinery and Agricultural Equipment,false,/static/img/icons/cbo/cbo_7.png,7253,,,"Equipment, Manufacturers",Heavy Machinery Assemblers,9283,true,profiles/cbo/7253/
+false,true,#9edae5,Mechanical Fitters Engines and Turbochargers,false,/static/img/icons/cbo/cbo_7.png,7254,,,false,Engine Fitters,5785,true,profiles/cbo/7254/
+false,true,#9edae5,Assemblers of Motor Vehicles (Assembly Line),false,/static/img/icons/cbo/cbo_7.png,7255,,,"Car, Producers, Manufacturing",Car Assembly Line Workers,48636,true,profiles/cbo/7255/
+false,true,#9edae5,System Builders and Aircraft Structures,false,/static/img/icons/cbo/cbo_7.png,7256,,,false,Aircraft Assemblers,1955,true,profiles/cbo/7256/
+false,true,#9edae5,Installers of Refrigeration and Ventilation,false,/static/img/icons/cbo/cbo_7.png,7257,,,false,Refrigeration Installers,16093,true,profiles/cbo/7257/
+false,true,#9edae5,Supervisors Assemblies and Electro-Electronic Facilities,false,/static/img/icons/cbo/cbo_7.png,7301,,,false,Electrical Manufacturing Supervisors,10030,true,profiles/cbo/7301/
+false,true,#9edae5,Electrical and Electronic Equipment Assemblers,false,/static/img/icons/cbo/cbo_7.png,7311,Adriano Nishimura,https://flic.kr/p/3G3fah,false,Electrical Equipment Assemblers,153369,true,profiles/cbo/7311/
+false,true,#9edae5,Assemblers of Telecommunications Equipment,false,/static/img/icons/cbo/cbo_7.png,7312,,,"Assembly, Production",Telecom Equipment Assemblers,4575,true,profiles/cbo/7312/
+false,true,#9edae5,"Installers, Repairers Lines and Telecommunications Equipment",false,/static/img/icons/cbo/cbo_7.png,7313,,,"Equipment, Line Repair, Installers",Telecom Equipment Repairmen,44529,true,profiles/cbo/7313/
+false,true,#9edae5,"Installers and Repairers Lines and Electrical Cables, Telephone and Data Communication",false,/static/img/icons/cbo/cbo_7.png,7321,Tribunal Regional do Trabalho da 19ª Região TRT/AL,https://flic.kr/p/xNF5b1,false,Communication Line Repairmen,105295,true,profiles/cbo/7321/
+false,true,#9edae5,Supervisors Precision Mechanics and Musical Instruments,false,/static/img/icons/cbo/cbo_7.png,7401,,,"Music, Mechanics",Instrument Assembly Supervisors,1130,true,profiles/cbo/7401/
+false,true,#9edae5,Mechanical Precision Instruments,false,/static/img/icons/cbo/cbo_7.png,7411,,,false,Precision Instrument Assemblers,9953,true,profiles/cbo/7411/
+false,true,#9edae5,Makers of Musical Instruments,false,/static/img/icons/cbo/cbo_7.png,7421,,,false,Musical Instrument Assemblers,738,true,profiles/cbo/7421/
+false,true,#9edae5,Supervisors of Jewelry and Related,false,/static/img/icons/cbo/cbo_7.png,7501,,,false,Jewelry Supervisors,255,true,profiles/cbo/7501/
+false,true,#9edae5,"Supervisors Glassware, Pottery and the Like",false,/static/img/icons/cbo/cbo_7.png,7502,,,false,Glass and Ceramic Supervisors,1365,true,profiles/cbo/7502/
+false,true,#9edae5,Jewelers and Gem Cutters,false,/static/img/icons/cbo/cbo_7.png,7510,,,"Gems, Metals, Gold",Jewelers,4251,true,profiles/cbo/7510/
+false,true,#9edae5,Artisans of Precious and Semi-Precious,false,/static/img/icons/cbo/cbo_7.png,7511,,,false,Precious Stone Artisans,9337,true,profiles/cbo/7511/
+false,true,#9edae5,"Blowers, Molders and Shapers of Glasses and Related",false,/static/img/icons/cbo/cbo_7.png,7521,,,"Glass Molders, Glass Shapers",Glassblowers,2094,true,profiles/cbo/7521/
+false,true,#9edae5,Workers Processing of Flat Glass,false,/static/img/icons/cbo/cbo_7.png,7522,,,false,Glass Processing Workers,8940,true,profiles/cbo/7522/
+false,true,#9edae5,Potters (Preparation and Manufacturing),false,/static/img/icons/cbo/cbo_7.png,7523,,,"Preparation, Manufacturing",Potters,42057,true,profiles/cbo/7523/
+false,true,#9edae5,Glassware and Ceramics (Art and Decoration),false,/static/img/icons/cbo/cbo_7.png,7524,,,"Art, Decorations, Glassware",Glassware and Ceramic Workers,4069,true,profiles/cbo/7524/
+false,true,#9edae5,Supervisors Textile Industry,false,/static/img/icons/cbo/cbo_7.png,7601,,,false,Textile Supervisors,19593,true,profiles/cbo/7601/
+false,true,#9edae5,Supervisors in the Tanning Industry,false,/static/img/icons/cbo/cbo_7.png,7602,,,false,Tanning Supervisors,196,true,profiles/cbo/7602/
+false,true,#9edae5,Supervisors in Making Clothing,false,/static/img/icons/cbo/cbo_7.png,7603,,,false,Clothing Manufacturing Supervisors,15433,true,profiles/cbo/7603/
+false,true,#9edae5,Supervisors in Making Shoes,false,/static/img/icons/cbo/cbo_7.png,7604,,,"Supervisors, Shoes, Manufacturing",Cobbler Supervisors,8282,true,profiles/cbo/7604/
+false,true,#9edae5,"Supervisors of Manufactured Goods from Fabrics, Leather and Related",false,/static/img/icons/cbo/cbo_7.png,7605,,,"Fabric, Clothing, Garments, Manufacturing",Manufactured Fabrics Supervisors,3674,true,profiles/cbo/7605/
+false,true,#9edae5,Supervisors Graphic Arts,false,/static/img/icons/cbo/cbo_7.png,7606,,,false,Graphic Production Supervisors,5049,true,profiles/cbo/7606/
+false,true,#9edae5,Workers Multipurpose Textile Industries,false,/static/img/icons/cbo/cbo_7.png,7610,,,false,General Textile Workers,32288,true,profiles/cbo/7610/
+false,true,#9edae5,Workers Classification of Textile Fibers and Washing Wool,false,/static/img/icons/cbo/cbo_7.png,7611,,,false,Wool and Fiber Workers,1479,true,profiles/cbo/7611/
+false,true,#9edae5,Operators Wiring,false,/static/img/icons/cbo/cbo_7.png,7612,,,false,Textile Wiring Workers,22374,true,profiles/cbo/7612/
+false,true,#9edae5,Operators Loom and Similar Machines,false,/static/img/icons/cbo/cbo_7.png,7613,,,false,Loom Operators,32167,true,profiles/cbo/7613/
+false,true,#9edae5,"Workers Finishing, Dyeing and Printing of Textiles",false,/static/img/icons/cbo/cbo_7.png,7614,,,false,Textile Dyers,25540,true,profiles/cbo/7614/
+false,true,#9edae5,Inspectors and Reviewers Textile Production,false,/static/img/icons/cbo/cbo_7.png,7618,,,Reviewers,Textile Inspectors,23532,true,profiles/cbo/7618/
+false,true,#9edae5,Workers Polyvalent the Tanning of Hides and Skins,false,/static/img/icons/cbo/cbo_7.png,7620,,,false,Other Leather Treatment Workers,8958,true,profiles/cbo/7620/
+false,true,#9edae5,Workers Preparing the Tanning of Hides and Skins,false,/static/img/icons/cbo/cbo_7.png,7621,,,false,Leather Preparation Workers,2069,true,profiles/cbo/7621/
+false,true,#9edae5,Workers from the Tanning of Hides and Skins,false,/static/img/icons/cbo/cbo_7.png,7622,,,false,Leather Tanners,5385,true,profiles/cbo/7622/
+false,true,#9edae5,Workers Finishing Hides and Skins,false,/static/img/icons/cbo/cbo_7.png,7623,,,false,Leather Finishers,7007,true,profiles/cbo/7623/
+false,true,#9edae5,Professionals Polyvalent Making Clothes,false,/static/img/icons/cbo/cbo_7.png,7630,Arian Giacomet,https://flic.kr/p/7ZUMXZ,"Tailor, Leather, Seamstress",Other Clothing Manufacturing Workers,64843,true,profiles/cbo/7630/
+false,true,#9edae5,Workers Preparing the Clothing Industry,false,/static/img/icons/cbo/cbo_7.png,7631,Nilani Goettems,https://flic.kr/p/6q8CWu,"Clothes, Clothing",Clothing Preparation Workers,106521,true,profiles/cbo/7631/
+false,true,#9edae5,Operators of Machines for Stitching Pieces of Clothing,false,/static/img/icons/cbo/cbo_7.png,7632,João Paulo Corrêa de Carvalho,https://flic.kr/p/6jjSQ8,Garment,Stitching Machine Operators,330157,true,profiles/cbo/7632/
+false,true,#9edae5,Operators of Machines for Embroidery and Finishing of Garments,false,/static/img/icons/cbo/cbo_7.png,7633,Uniformes Premier,https://flic.kr/p/7UMau4,Garments,Embroidery Machine Operators,58623,true,profiles/cbo/7633/
+false,true,#9edae5,Polyvalent Workers Making Shoes,false,/static/img/icons/cbo/cbo_7.png,7640,CNI Confederação Nacional da Indústria,https://flic.kr/p/dtupin,false,Other Footwear Manufacturing Workers,89178,true,profiles/cbo/7640/
+false,true,#9edae5,Workers Preparing the Manufacture of Footwear,false,/static/img/icons/cbo/cbo_7.png,7641,CNI Confederação Nacional da Indústria,https://flic.kr/p/m2MQ6D,Footwear Workers,Footwear Preparation Workers,61283,true,profiles/cbo/7641/
+false,true,#9edae5,Machine Operators Sew and Assemble Shoes,false,/static/img/icons/cbo/cbo_7.png,7642,,,Shoe Assemblers,Footwear Assemblers,41459,true,profiles/cbo/7642/
+false,true,#9edae5,Workers Finishing Footwear,false,/static/img/icons/cbo/cbo_7.png,7643,,,false,Footwear Finishers,21927,true,profiles/cbo/7643/
+false,true,#9edae5,Workers Polyvalent Manufactured Goods Fabrics and Leathers,false,/static/img/icons/cbo/cbo_7.png,7650,,,false,Other Leather Product Workers,1727,true,profiles/cbo/7650/
+false,true,#9edae5,"Workers Preparing Artifacts Fabrics, Leather and Upholstery",false,/static/img/icons/cbo/cbo_7.png,7651,,,false,Leather Upholstery Workers,5404,true,profiles/cbo/7651/
+false,true,#9edae5,Workers in the Manufacturing of Fabrics and Leathers Artifacts,false,/static/img/icons/cbo/cbo_7.png,7652,,,false,Leather Manufacturing Workers,20267,true,profiles/cbo/7652/
+false,true,#9edae5,Machine Operators in Manufacturing of Leather Goods,false,/static/img/icons/cbo/cbo_7.png,7653,,,"Leather, Manufacturing",Leather Machine Operators,5638,true,profiles/cbo/7653/
+false,true,#9edae5,Workers Finishing of Fabrics and Leather Artifacts,false,/static/img/icons/cbo/cbo_7.png,7654,,,"Fabrics, Leather",Leather Product Finishers,5874,true,profiles/cbo/7654/
+false,true,#9edae5,Workers Prepress Graphics,false,/static/img/icons/cbo/cbo_7.png,7661,,,"Photolithography, Calcographic, Serigraphic",Prepress Graphics Workers,28474,true,profiles/cbo/7661/
+false,true,#9edae5,Workers Graphic Printing,false,/static/img/icons/cbo/cbo_7.png,7662,Carol Chmi,https://flic.kr/p/aZGXtX,"Graphic Design, Typography, Designers",Printers,60597,true,profiles/cbo/7662/
+false,true,#9edae5,Workers Finish Chart,false,/static/img/icons/cbo/cbo_7.png,7663,,,Cutters,Print Finishers,47891,true,profiles/cbo/7663/
+false,true,#9edae5,Workers Photo Lab and Radiological,false,/static/img/icons/cbo/cbo_7.png,7664,,,false,Photo Lab Technicians,7177,true,profiles/cbo/7664/
+false,true,#9edae5,"Workers of Handloom Weaving, Knitting, Crochet, Lace and Similar",false,/static/img/icons/cbo/cbo_7.png,7681,,,"Crochet, Lace",Weavers and Knitters,2941,true,profiles/cbo/7681/
+false,true,#9edae5,Workers Craft of Making Parts and Tissues,false,/static/img/icons/cbo/cbo_7.png,7682,,,Craft Workers,Tissue Makers,2579,true,profiles/cbo/7682/
+false,true,#9edae5,Workers of Making Handmade Footwear and Leather and Fur,false,/static/img/icons/cbo/cbo_7.png,7683,,,Footwear,Leather and Fur Footwear Workers,16861,true,profiles/cbo/7683/
+false,true,#9edae5,Typesetters and Related Workers Typographical,false,/static/img/icons/cbo/cbo_7.png,7686,,,Typesetters,Typographers,4517,true,profiles/cbo/7686/
+false,true,#9edae5,Bookbinders and Reclaimers Books (Small Batch or Unit),false,/static/img/icons/cbo/cbo_7.png,7687,,,"Bookbinders, Book Reclaimers",Bookbinders,2242,true,profiles/cbo/7687/
+false,true,#9edae5,"Supervisors in Wood Industry, Furniture and Carpentry Vehicular",false,/static/img/icons/cbo/cbo_7.png,7701,,,false,Carpentry Supervisors,11933,true,profiles/cbo/7701/
+false,true,#9edae5,Cabinetmakers and Related,false,/static/img/icons/cbo/cbo_7.png,7711,Alexandra Proença,https://flic.kr/p/fZj6ZP,false,Cabinetmakers,94056,true,profiles/cbo/7711/
+false,true,#9edae5,Workers Handling and Preparation of Wood,false,/static/img/icons/cbo/cbo_7.png,7721,,,Wood Preparation,Wood Preparation Workers,16346,true,profiles/cbo/7721/
+false,true,#9edae5,Machine Operators Split Wood,false,/static/img/icons/cbo/cbo_7.png,7731,,,false,Wood Cutting Machine Operators,36200,true,profiles/cbo/7731/
+false,true,#9edae5,Machine Operators Agglomeration and Pressing Plate,false,/static/img/icons/cbo/cbo_7.png,7732,,,false,Wood Plate Pressing Operators,2971,true,profiles/cbo/7732/
+false,true,#9edae5,Operators Conventional Machining Wood,false,/static/img/icons/cbo/cbo_7.png,7733,,,false,Other Wood Machining Operators,30776,true,profiles/cbo/7733/
+false,true,#9edae5,Operators Wood Machine to Machine (Series Production),false,/static/img/icons/cbo/cbo_7.png,7734,,,false,Wood Series Machinery Operators,10147,true,profiles/cbo/7734/
+false,true,#9edae5,Machinists CNC Machining Wood,false,/static/img/icons/cbo/cbo_7.png,7735,,,false,CNC Wood Machinists,5006,true,profiles/cbo/7735/
+false,true,#9edae5,Assemblers Furniture and Wooden Artifacts,false,/static/img/icons/cbo/cbo_7.png,7741,Argeu Bernardo de Andrade Montador de Móveis em Recife,https://flic.kr/p/cxAQiL,false,Furniture Assemblers,86207,true,profiles/cbo/7741/
+false,true,#9edae5,Workers Art and Finishing Wood Furniture,false,/static/img/icons/cbo/cbo_7.png,7751,,,"Art, Wood Furniture",Wood Finishers,7329,true,profiles/cbo/7751/
+false,true,#9edae5,"Makers of Wooden Artifacts, Wicker Furniture and Related",false,/static/img/icons/cbo/cbo_7.png,7764,,,"Wicker, Furtiture, Woodwork",Carpenters,3647,true,profiles/cbo/7764/
+false,true,#9edae5,Carpenters Naval,false,/static/img/icons/cbo/cbo_7.png,7771,,,false,Naval Carpenters,612,true,profiles/cbo/7771/
+false,true,#9edae5,Carpenters of Bodies and Trailers,false,/static/img/icons/cbo/cbo_7.png,7772,,,Trailers,Land Vehicle Carpenters,965,true,profiles/cbo/7772/
+false,true,#9edae5,Supervisors of Workers Packing and Labeling,false,/static/img/icons/cbo/cbo_7.png,7801,,,false,Packing and Labeling Supervisors,10993,true,profiles/cbo/7801/
+false,true,#9edae5,Conductors Robotic Processes,false,/static/img/icons/cbo/cbo_7.png,7811,,,false,Robotic Operators,1190,true,profiles/cbo/7811/
+false,true,#9edae5,Operators Remotely Controlled Underwater Vehicles,false,/static/img/icons/cbo/cbo_7.png,7813,,,Underwater Vehicles,Submarine Operators,1031,true,profiles/cbo/7813/
+false,true,#9edae5,Workers Underwater,false,/static/img/icons/cbo/cbo_7.png,7817,,,false,Underwater Workers,2197,true,profiles/cbo/7817/
+false,true,#9edae5,Operators of Machinery and Lifting Equipment,false,/static/img/icons/cbo/cbo_7.png,7821,,,false,Crane Operators,48522,true,profiles/cbo/7821/
+false,true,#9edae5,Operators of Cargo Handling Equipment,false,/static/img/icons/cbo/cbo_7.png,7822,iKumpunen,https://pixabay.com/photo-748152/,false,Cargo Equipment Operators,146189,true,profiles/cbo/7822/
+false,true,#9edae5,Drivers of Vehicles from Small and Medium,false,/static/img/icons/cbo/cbo_7.png,7823,Marcelo Braga,https://flic.kr/p/81eE95,false,Passenger Vehicle Drivers,555580,true,profiles/cbo/7823/
+false,true,#9edae5,"Drivers of Buses, Subways and Road",false,/static/img/icons/cbo/cbo_7.png,7824,422737,https://pixabay.com/photo-1174294/,Conductor,Public Transit Driver,379224,true,profiles/cbo/7824/
+false,true,#9edae5,Drivers of Vehicles of General Cargo,false,/static/img/icons/cbo/cbo_7.png,7825,janeb13,https://pixabay.com/photo-1181063/,Truck Drivers,General Cargo Drivers,997951,true,profiles/cbo/7825/
+false,true,#9edae5,Operators of Vehicles on Rails and Overhead Cables,false,/static/img/icons/cbo/cbo_7.png,7826,,,"Overhead Cables, Rails",Train Operators,13059,true,profiles/cbo/7826/
+false,true,#9edae5,Workers Waterway,false,/static/img/icons/cbo/cbo_7.png,7827,,,false,Waterway Workers,27182,true,profiles/cbo/7827/
+false,true,#9edae5,Conductors of Animals and Animal-Drawn Vehicles and Pedals,false,/static/img/icons/cbo/cbo_7.png,7828,,,false,Animal-Drawn Vehicle Conductors,3232,true,profiles/cbo/7828/
+false,true,#9edae5,Workers Maneuver Transport on Rails,false,/static/img/icons/cbo/cbo_7.png,7831,,,"Transport, Rails",Train Workers,14433,true,profiles/cbo/7831/
+false,true,#9edae5,Workers Loading and Unloading of Goods,false,/static/img/icons/cbo/cbo_7.png,7832,Sunset Removals,https://flic.kr/p/pJLFhq,false,Movers,579840,true,profiles/cbo/7832/
+false,true,#9edae5,Workers Packing and Labeling,false,/static/img/icons/cbo/cbo_7.png,7841,Assembleia Legislativa do Paraná,https://flic.kr/p/a88u55,false,Packing and Labeling Workers,269433,true,profiles/cbo/7841/
+false,true,#9edae5,Feeders Production Lines,false,/static/img/icons/cbo/cbo_7.png,7842,falco,https://pixabay.com/photo-1137993/,false,Production Line Feeders,951338,true,profiles/cbo/7842/
+false,true,#9edae5,Artisans,false,/static/img/icons/cbo/cbo_7.png,7911,,,false,General Artisans,839,true,profiles/cbo/7911/
+false,true,#ffc41c,Production Workers Industrial Goods and Services,false,/static/img/icons/cbo/cbo_8.png,8,chaingam990,https://pixabay.com/photo-722863/,false,Industrial Workers,1641967,true,profiles/cbo/8/
+false,true,#ffc41c,"Production Supervisors in the Chemical, Petrochemical and Related",false,/static/img/icons/cbo/cbo_8.png,8101,,,Petrochemical,Chemical Production Supervisors,7951,true,profiles/cbo/8101/
+false,true,#ffc41c,Production Supervisors in Manufacturing Industries of Plastics and Rubbers,false,/static/img/icons/cbo/cbo_8.png,8102,,,Production,Plastics and Rubber Production Supervisors,7079,true,profiles/cbo/8102/
+false,true,#ffc41c,"Production Supervisors in Industries of Pharmaceuticals, Cosmetics and Related",false,/static/img/icons/cbo/cbo_8.png,8103,,,false,Pharmacuetical Production Supervisors,2485,true,profiles/cbo/8103/
+false,true,#ffc41c,"Operators Multipurpose Equipment for Chemical, Petrochemical and Related",false,/static/img/icons/cbo/cbo_8.png,8110,,,"Petrochemical, Chemists",Generic Chemical Equipment Operators,9782,true,profiles/cbo/8110/
+false,true,#ffc41c,Equipment Operators Grinding and Mixing Materials (and Related Chemical Treatments),false,/static/img/icons/cbo/cbo_8.png,8111,,,false,Grinding and Mixing Machine Operators,16625,true,profiles/cbo/8111/
+false,true,#ffc41c,Operators Roasting and Chemical Treatments of Radioactive Materials,false,/static/img/icons/cbo/cbo_8.png,8112,,,false,Chemical Treatment Workers,1748,true,profiles/cbo/8112/
+false,true,#ffc41c,Operators of Filtration and Separation Equipment,false,/static/img/icons/cbo/cbo_8.png,8113,,,"Seperation, Equipment Operators",Filtration Workers,18330,true,profiles/cbo/8113/
+false,true,#ffc41c,"Equipment Operators Distillation, Evaporation and Reaction",false,/static/img/icons/cbo/cbo_8.png,8114,,,false,Distilling Equipment Operators,6867,true,profiles/cbo/8114/
+false,true,#ffc41c,Operators of Equipment Production and Refining of Oil and Gas,false,/static/img/icons/cbo/cbo_8.png,8115,,,false,Oil and Gas Production Equipment Operators ,2089,true,profiles/cbo/8115/
+false,true,#ffc41c,Equipment Operators Coking,false,/static/img/icons/cbo/cbo_8.png,8116,,,Coke,Coke Equipment Operators,4816,true,profiles/cbo/8116/
+false,true,#ffc41c,"Plant and Machine Operators of Plastic Products, Rubber Molders and Paraffins",false,/static/img/icons/cbo/cbo_8.png,8117,pashminu,https://pixabay.com/photo-852921/,false,Rubber and Plastics Machine Operators,91440,true,profiles/cbo/8117/
+false,true,#ffc41c,"Operators of Plant and Machinery of Pharmaceuticals, Cosmetics and Related",false,/static/img/icons/cbo/cbo_8.png,8118,,,false,Pharmacuetical Machinery Operators,19228,true,profiles/cbo/8118/
+false,true,#ffc41c,Workers in the Manufacturing of Ammunition and Explosive Chemicals,false,/static/img/icons/cbo/cbo_8.png,8121,,,false,Ammunition Manufacturing Workers,2758,true,profiles/cbo/8121/
+false,true,#ffc41c,"Operators of Processes of Processing Industries of Chemicals, Petrochemicals and Related",false,/static/img/icons/cbo/cbo_8.png,8131,UnB Agência,https://flic.kr/p/oy7W9o,Petrochemicals,Chemical Processing Workers,70876,true,profiles/cbo/8131/
+false,true,#ffc41c,Laboratorians Industrial Auxiliary,false,/static/img/icons/cbo/cbo_8.png,8181,,,false,Industrial Lab Operators,22384,true,profiles/cbo/8181/
+false,true,#ffc41c,Production Supervisors in Steel Industries,false,/static/img/icons/cbo/cbo_8.png,8201,,,false,Steel Production Supervisors,2932,true,profiles/cbo/8201/
+false,true,#ffc41c,Supervisors in Manufacturing Building Materials (Glass and Ceramics),false,/static/img/icons/cbo/cbo_8.png,8202,,,"Glass, Ceramics",Building Material Supervisors,6167,true,profiles/cbo/8202/
+false,true,#ffc41c,Operators Sinter,false,/static/img/icons/cbo/cbo_8.png,8211,,,false,Sinter Operators,3993,true,profiles/cbo/8211/
+false,true,#ffc41c,Operators First Fusion Furnaces and Steelworks,false,/static/img/icons/cbo/cbo_8.png,8212,,,false,Furnace Operators,23475,true,profiles/cbo/8212/
+false,true,#ffc41c,Laminating Equipment Operators,false,/static/img/icons/cbo/cbo_8.png,8213,,,false,Laminating Operators,11321,true,profiles/cbo/8213/
+false,true,#ffc41c,Operators Finishing Equipment and Sheet Metal,false,/static/img/icons/cbo/cbo_8.png,8214,JonKline,https://pixabay.com/photo-673559/,false,Metal Finishing Operators,60762,true,profiles/cbo/8214/
+false,true,#ffc41c,Forneiros Metallurgical (Second Melting and Reheating),false,/static/img/icons/cbo/cbo_8.png,8221,,,false,Metal Reheating Operators,5614,true,profiles/cbo/8221/
+false,true,#ffc41c,"Operators in the Preparation of Doughs for Abrasive Glass, Ceramic, Porcelain and Construction Materials",false,/static/img/icons/cbo/cbo_8.png,8231,,,Construction Materials,Glass Preparation Operators,4701,true,profiles/cbo/8231/
+false,true,#ffc41c,"Operators Manufacturing Equipment and Processing Crystals, Glass, Ceramics, Porcelain, Glass Fibers, Abrasives, and the Like",false,/static/img/icons/cbo/cbo_8.png,8232,,,"Processing Equipment, Glass, Ceramics, Porcelain, Glass Fibers",Glass Manufacturing Operators,10445,true,profiles/cbo/8232/
+false,true,#ffc41c,Operators of Facilities and Equipment Manufacturing of Construction Materials,false,/static/img/icons/cbo/cbo_8.png,8233,,,Prefab,Construction Equipment Operators,28067,true,profiles/cbo/8233/
+false,true,#ffc41c,Workers in Manufacturing Structural Ceramics for Construction,false,/static/img/icons/cbo/cbo_8.png,8281,Mario Cesar Bucci,https://flic.kr/p/ruyknr,Construction Materials,Construction Ceramic Manufacturing Workers,48715,true,profiles/cbo/8281/
+false,true,#ffc41c,Supervisors of Pulp &amp; Paper,false,/static/img/icons/cbo/cbo_8.png,8301,,,false,Paper Manufacturing Supervisors,3393,true,profiles/cbo/8301/
+false,true,#ffc41c,Preparers Pulp for Papermaking,false,/static/img/icons/cbo/cbo_8.png,8311,,,false,Paper Pulp Manufacturing Workers,5422,true,profiles/cbo/8311/
+false,true,#ffc41c,Operators of Machinery for Paper and Cardboard,false,/static/img/icons/cbo/cbo_8.png,8321,,,false,Paper and Cardboard Manufacturing Workers,21258,true,profiles/cbo/8321/
+false,true,#ffc41c,Machine Operators in Manufacturing Paper and Cardboard,false,/static/img/icons/cbo/cbo_8.png,8331,,,false,Paper Machinery Operators,13249,true,profiles/cbo/8331/
+false,true,#ffc41c,Workers Handmade Paper Products and Cardboard,false,/static/img/icons/cbo/cbo_8.png,8332,,,false,Handmade Paper Product Workers,3089,true,profiles/cbo/8332/
+false,true,#ffc41c,"Supervisors Manufacture of Food, Beverages and Tobacco",false,/static/img/icons/cbo/cbo_8.png,8401,,,false,Food Manufacturing Supervisors,23720,true,profiles/cbo/8401/
+false,true,#ffc41c,"Workers Processing Industry in Grains, Cereals and Related",false,/static/img/icons/cbo/cbo_8.png,8411,,,false,Grains Processing Workers,10050,true,profiles/cbo/8411/
+false,true,#ffc41c,Workers in the Processing of Salt,false,/static/img/icons/cbo/cbo_8.png,8412,,,Grain,Salt Processing Workers,1770,true,profiles/cbo/8412/
+false,true,#ffc41c,Workers in Manufacturing and Refining Sugar,false,/static/img/icons/cbo/cbo_8.png,8413,,,false,Sugar Processing Workers,14491,true,profiles/cbo/8413/
+false,true,#ffc41c,Workers in Manufacturing and Food Preservation,false,/static/img/icons/cbo/cbo_8.png,8414,Selma Kroehne,https://flic.kr/p/afdEL9,false,Food Preservation Workers,76295,true,profiles/cbo/8414/
+false,true,#ffc41c,Workers in the Pasteurization of Milk and Manufacture of Dairy and Related,false,/static/img/icons/cbo/cbo_8.png,8415,,,false,Dairy Pastuerization Workers,24743,true,profiles/cbo/8415/
+false,true,#ffc41c,"Workers in the Industrialization of Coffee, Cacao, and Mate-Related Products",false,/static/img/icons/cbo/cbo_8.png,8416,,,false,Coffee and Tea Workers,2862,true,profiles/cbo/8416/
+false,true,#ffc41c,"Workers in Manufacturing Rum, Beer, Wine and Other Beverages",false,/static/img/icons/cbo/cbo_8.png,8417,,,"Run, Beer, Wine",Beverage Manufacturing Workers,10306,true,profiles/cbo/8417/
+false,true,#ffc41c,"Equipment Operators in the Manufacture of Bread, Pasta, Sweets, Chocolates and Chocolate",false,/static/img/icons/cbo/cbo_8.png,8418,,,"Bread, Pasta, Sweets, Desserts, Chocolate",Pastry Manufacturing Workers,36050,true,profiles/cbo/8418/
+false,true,#ffc41c,Cigarreiros and Improvers Smoke,false,/static/img/icons/cbo/cbo_8.png,8421,,,false,Other Tobacco Workers,4461,true,profiles/cbo/8421/
+false,true,#ffc41c,Amberjacks,false,/static/img/icons/cbo/cbo_8.png,8422,,,false,Cigar Workers,645,true,profiles/cbo/8422/
+false,true,#ffc41c,Cigarreiros,false,/static/img/icons/cbo/cbo_8.png,8423,,,false,Cigarette Workers,0,true,profiles/cbo/8423/
+false,true,#ffc41c,Craft Workers in Food Preservation,false,/static/img/icons/cbo/cbo_8.png,8481,,,false,Craft Food Preservation Workers,14534,true,profiles/cbo/8481/
+false,true,#ffc41c,Craft Workers in Pasteurization of Milk and Manufacture of Dairy and Related,false,/static/img/icons/cbo/cbo_8.png,8482,,,"Pastuerization, Milk",Craft Dairy Pasteurization Workers,5921,true,profiles/cbo/8482/
+false,true,#ffc41c,"Bakers, Confectioners and Related",false,/static/img/icons/cbo/cbo_8.png,8483,Michele Mastroserio,https://flic.kr/p/oPSCq6,false,Bakers,209424,true,profiles/cbo/8483/
+false,true,#ffc41c,Workers in Tasting and Grading of Grain and Related,false,/static/img/icons/cbo/cbo_8.png,8484,,,false,Food Tasters,5368,true,profiles/cbo/8484/
+false,true,#ffc41c,Butchers and the Like,false,/static/img/icons/cbo/cbo_8.png,8485,Danilo Arenas Ireijo,https://flic.kr/p/9QeFAZ,false,Butchers,394679,true,profiles/cbo/8485/
+false,true,#ffc41c,Craft Workers in the Tobacco Industry,false,/static/img/icons/cbo/cbo_8.png,8486,,,false,Craft Tobacoo Workers,612,true,profiles/cbo/8486/
+false,true,#ffc41c,Supervisors of the Production of Utilities,false,/static/img/icons/cbo/cbo_8.png,8601,,,false,Utility Supervisors,11991,true,profiles/cbo/8601/
+false,true,#ffc41c,"Operators of Generating Facilities and Power Distribution, Hydraulic, Thermal or Nuclear",false,/static/img/icons/cbo/cbo_8.png,8611,,,false,Other Power Distribution Workers,8822,true,profiles/cbo/8611/
+false,true,#ffc41c,Operators of Electricity Distribution,false,/static/img/icons/cbo/cbo_8.png,8612,,,false,Electricity Distrubution Workers,2453,true,profiles/cbo/8612/
+false,true,#ffc41c,Operators of Steam and Utilities,false,/static/img/icons/cbo/cbo_8.png,8621,Daz Bergman,https://flic.kr/p/8BHGz7,false,Steam Utility Workers,199226,true,profiles/cbo/8621/
+false,true,#ffc41c,"Operators of Collection, Treatment and Distribution of Water",false,/static/img/icons/cbo/cbo_8.png,8622,,,"Water Treatment, Water Distribution",Water Utility Workers,22126,true,profiles/cbo/8622/
+false,true,#ffc41c,Operators Abstraction Facilities and Sewage,false,/static/img/icons/cbo/cbo_8.png,8623,,,false,Sewage Workers,17219,true,profiles/cbo/8623/
+false,true,#ffc41c,"Operators of Facilities for Extraction, Processing, Bottling and Distribution of Gases",false,/static/img/icons/cbo/cbo_8.png,8624,,,false,Gas Utility Workers,3029,true,profiles/cbo/8624/
+false,true,#ffc41c,Operators of Refrigeration and Air-Conditioning,false,/static/img/icons/cbo/cbo_8.png,8625,,,false,Refrigeration Workers,4109,true,profiles/cbo/8625/
+false,true,#581f05,Workers in Repair and Maintenance Services,false,/static/img/icons/cbo/cbo_9.png,9,skeeze,https://pixabay.com/photo-857128/,false,Maintenance and Repair Workers,1192122,true,profiles/cbo/9/
+false,true,#581f05,"Supervisors in Repair and Maintenance of Industrial Machinery and Equipment, Commercial and Residential",false,/static/img/icons/cbo/cbo_9.png,9101,,,Machinists,Industrial Machinery Maintenance Supervisors,30751,true,profiles/cbo/9101/
+false,true,#581f05,Supervisors in Repair and Maintenance Vehicle,false,/static/img/icons/cbo/cbo_9.png,9102,,,"Maintenance, Vehicle",Vehicle Maintenance Supervisors,7326,true,profiles/cbo/9102/
+false,true,#581f05,"Supervisors of Other Workers Repair Services, Upkeep and Maintenance",false,/static/img/icons/cbo/cbo_9.png,9109,,,"Upkeep, Staff",Other Maintenance Supervisors,1934,true,profiles/cbo/9109/
+false,true,#581f05,"Mechanical Maintenance of Pumps, Motors, Compressors and Transmission Equipment",false,/static/img/icons/cbo/cbo_9.png,9111,,,Turbines,Pump and Motor Mechanics,21845,true,profiles/cbo/9111/
+false,true,#581f05,Mechanical Maintenance and Installation of HVAC and Refrigeration Equipment,false,/static/img/icons/cbo/cbo_9.png,9112,,,false,HVAC Maintenance Workers,26583,true,profiles/cbo/9112/
+false,true,#581f05,Mechanical Maintenance of Industrial Machines,false,/static/img/icons/cbo/cbo_9.png,9113,Ingeniørforeningen IDA,https://flic.kr/p/iQizwg,false,Industrial Machine Maintenance Workers,211643,true,profiles/cbo/9113/
+false,true,#581f05,Mechanical Maintenance of Heavy Machinery and Agricultural Equipment,false,/static/img/icons/cbo/cbo_9.png,9131,,,false,Heavy Machinery Mechanics,34072,true,profiles/cbo/9131/
+false,true,#581f05,Mechanical Aircraft Maintenance,false,/static/img/icons/cbo/cbo_9.png,9141,,,Maintenance,Aircraft Mechanics,12438,true,profiles/cbo/9141/
+false,true,#581f05,Mechanical Maintenance of Marine Engines and Equipment,false,/static/img/icons/cbo/cbo_9.png,9142,,,"Marine Engines, Mechanical Maintenance",Marine Equipment Maintenance ,1120,true,profiles/cbo/9142/
+false,true,#581f05,Mechanical Maintenance Metroferroviìária,false,/static/img/icons/cbo/cbo_9.png,9143,,,false,Subway Mechanics,9498,true,profiles/cbo/9143/
+false,true,#581f05,Mechanical Maintenance of Automotive Vehicles,false,/static/img/icons/cbo/cbo_9.png,9144,Primeiro Ano Jornalismo UEPG,https://flic.kr/p/8XSqZ1,Car Mechanics,Car Mechanics,241395,true,profiles/cbo/9144/
+false,true,#581f05,Technical Maintenance and Repair of Measuring Instruments and Precision,false,/static/img/icons/cbo/cbo_9.png,9151,,,"Precision, Maintenance",Measuring Instrument Repairmen,3908,true,profiles/cbo/9151/
+false,true,#581f05,Restorers of Musical Instruments,false,/static/img/icons/cbo/cbo_9.png,9152,,,false,Musical Instrument Restoration Workers,187,true,profiles/cbo/9152/
+false,true,#581f05,Technical Maintenance and Repair of Biomedical Equipment,false,/static/img/icons/cbo/cbo_9.png,9153,,,false,Biomedical Equipment Repairmen,2208,true,profiles/cbo/9153/
+false,true,#581f05,Photographic Equipment Repairers,false,/static/img/icons/cbo/cbo_9.png,9154,,,false,Camera Repairmen,120,true,profiles/cbo/9154/
+false,true,#581f05,Lubricators,false,/static/img/icons/cbo/cbo_9.png,9191,,,Oiler,Lubricators,28060,true,profiles/cbo/9191/
+false,true,#581f05,"Maintenance Workers Trimmers, Chainsaws and Similar",false,/static/img/icons/cbo/cbo_9.png,9192,,,false,Landscapers,24152,true,profiles/cbo/9192/
+false,true,#581f05,Mechanical Maintenance of Bicycles and Sports Equipment and Fitness,false,/static/img/icons/cbo/cbo_9.png,9193,,,"Bicycles, Fitness",Sports Equipment Repairmen,7393,true,profiles/cbo/9193/
+false,true,#581f05,"Maintenance Supervisors Electronics Industrial, Commercial and Land",false,/static/img/icons/cbo/cbo_9.png,9501,,,false,Industrial Electrical Maintenance Supervisors,14217,true,profiles/cbo/9501/
+false,true,#581f05,Supervisors Maintenance Vehicle Electronics,false,/static/img/icons/cbo/cbo_9.png,9502,,,"Vehicles, Technicians",Vehicle Electronics Maintenance Supervisors,2579,true,profiles/cbo/9502/
+false,true,#581f05,Supervisors Electromechanical Maintenance,false,/static/img/icons/cbo/cbo_9.png,9503,,,false,Electromechanical Maintenance Supervisors,7212,true,profiles/cbo/9503/
+false,true,#581f05,Electricians Electronics Maintenance,false,/static/img/icons/cbo/cbo_9.png,9511,Potira Souto,https://flic.kr/p/ekrHQE,Electricians,Electrical Maintenance Workers,115000,true,profiles/cbo/9511/
+false,true,#581f05,Installers and Maintainers of Electronic Security Systems,false,/static/img/icons/cbo/cbo_9.png,9513,,,"Installers, Maintainers",Security System Technicians,14129,true,profiles/cbo/9513/
+false,true,#581f05,"Electricians Electronic Maintenance Vehicles (Air, Land and Naval)",false,/static/img/icons/cbo/cbo_9.png,9531,,,"Planes, Cars",Vehicle Maintenance Electricians,32083,true,profiles/cbo/9531/
+false,true,#581f05,"Installers and Maintainers of Electromechanical Elevators, Escalators and Automatic Doors",false,/static/img/icons/cbo/cbo_9.png,9541,,,"Escalators, Automatic Doors, Installers",Elevator Technicians,24080,true,profiles/cbo/9541/
+false,true,#581f05,Repairers of Home Appliances,false,/static/img/icons/cbo/cbo_9.png,9542,,,Maintenance ,Home Appliance Technicians,2897,true,profiles/cbo/9542/
+false,true,#581f05,Repairers of Office Equipment,false,/static/img/icons/cbo/cbo_9.png,9543,,,"Repair, Office Equipment",Office Equipment Technicians,2033,true,profiles/cbo/9543/
+false,true,#581f05,Conservatives Permanent Tracks (Rails),false,/static/img/icons/cbo/cbo_9.png,9911,,,false,Railway Maintenance Workers,9493,true,profiles/cbo/9911/
+false,true,#581f05,Maintainers Equipment Amusement Parks and Similar,false,/static/img/icons/cbo/cbo_9.png,9912,,,"Equipment, Theme Parks, Amusement Rides",Amusement Park Maintenance Workers,1534,true,profiles/cbo/9912/
+false,true,#581f05,Vehicle Bodywork Repairers,false,/static/img/icons/cbo/cbo_9.png,9913,,,false,Vehicle Bodywork Mechanics,43833,true,profiles/cbo/9913/
+false,true,#581f05,Maintainers of Buildings,false,/static/img/icons/cbo/cbo_9.png,9914,,,false,Building Maintenance Workers,0,true,profiles/cbo/9914/
+false,true,#581f05,Workers Elementary Maintenance Vehicular,false,/static/img/icons/cbo/cbo_9.png,9921,,,"Subway, Bus, Supervisors",Basic Vehicle Mechanics,46633,true,profiles/cbo/9921/
+false,true,#581f05,Workers Operating Conservation of Permanent Ways (Except Rails),false,/static/img/icons/cbo/cbo_9.png,9922,DIRETORIA DE COMUNICAÇÃO,https://flic.kr/p/Bsdoxg,false,Road Maintenance Workers,211766,true,profiles/cbo/9922/
+false,true,#C7C7C7,false,false,/static/img/icons/cbo/cbo_x.png,x,Marcos Alves ,https://www.flickr.com/photos/m_alves/5773250586/in/photolist-9Naqgd-CZyDyM-6X6BnX-7sXhRw-9XCv4a-phCdrT-q4rQvJ-kxZAoR-nrBbAc-gQgqRt-nFPGYe-nJkWrn-nrBnAQ-DNHuvV-nL8qGx-puyf3U-nJk5SG-nLN5n6-mXXpgU-8xDsCZ-nJ5crk-CZstRJ-nJkNgd-ntEjhi-nLa6FH-DLxkH7-8n3u1u-DLwVd5-nrBnCo-ejfdXM-oyVRXR-duLfE9-d1XEUy-nJkL2d-nJaUfq-kFRjbi-9uK7Lx-DvWt1A-DpB5UV-5uAFxx-ejkWpu-nrTxxz-nrBbqn-nap5Wx-nJbboN-nL9HDr-ejkUYd-nrSRfn-DuRur7-DuR33f,false,Unreported,817044,true,profiles/cbo/x/
+false,true,#C7C7C7,false,false,/static/img/icons/cbo/cbo_x.png,xxxx,Marcos Alves ,https://www.flickr.com/photos/m_alves/5773250586/in/photolist-9Naqgd-CZyDyM-6X6BnX-7sXhRw-9XCv4a-phCdrT-q4rQvJ-kxZAoR-nrBbAc-gQgqRt-nFPGYe-nJkWrn-nrBnAQ-DNHuvV-nL8qGx-puyf3U-nJk5SG-nLN5n6-mXXpgU-8xDsCZ-nJ5crk-CZstRJ-nJkNgd-ntEjhi-nLa6FH-DLxkH7-8n3u1u-DLwVd5-nrBnCo-ejfdXM-oyVRXR-duLfE9-d1XEUy-nJkL2d-nJaUfq-kFRjbi-9uK7Lx-DvWt1A-DpB5UV-5uAFxx-ejkWpu-nrTxxz-nrBbqn-nap5Wx-nJbboN-nL9HDr-ejkUYd-nrSRfn-DuRur7-DuR33f,false,Unreported,817044,true,profiles/cbo/xxxx/
