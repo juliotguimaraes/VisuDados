@@ -1,0 +1,15 @@
+{
+ "name": "Jobs per area",
+ "children": [
+  {"name": "Administrative Workers", "size": 552570},
+  {"name": "Agriculture Workers", "size": 6996},
+  {"name": "Industrial Workers", "size": 89472},
+  {"name": "Maintenance and Repair Workers", "size": 87605},
+  {"name": "Professionals of Arts and Sciences", "size": 44098},
+  {"name": "Public Sector Officials and Business Managers", "size": 164657},
+  {"name": "Service and Retail Workers", "size": 876903},
+  {"name": "Skilled Workers", "size": 110530},
+  {"name": "Specialized Production Workers", "size": 193908},
+  {"name": "Unreported", "size": 5040}
+  ]
+}
