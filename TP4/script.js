@@ -34,6 +34,194 @@ $( document ).ready(function() {
     });
   });
 
+  //Chart 1
+  var dispatch = d3.dispatch("load", "statechange");
+
+  var groups3 = [
+    {
+      id: 1,
+      name: "Public Sector Officials and Business Managers",
+    },
+    {
+      id: 2,
+      name: "Professionals of Arts and Sciences",
+    },
+    {
+      id: 3,
+      name: "Skilled Workers",
+    },
+    {
+      id: 4,
+      name: "Administrative Workers",
+    },
+    {
+      id: 5,
+      name: "Service and Retail Workers",
+    },
+    {
+      id: 6,
+      name: "Agriculture Workers",
+    },
+    {
+      id: 7,
+      name: "Specialized Production Workers",
+    },
+    {
+      id: 8,
+      name: "Industrial Workers",
+    },
+    {
+      id: 9,
+      name: "Maintenance and Repair Workers",
+    },
+    {
+      id: "x",
+      name: "Unreported",
+    },
+  ];
+
+  var groups = [
+   "1",
+   "2",
+   "3",
+   "4",
+   "5",
+   "6",
+   "7",
+   "8",
+   "9",
+   "x"
+  ];
+
+var format = d3.format(",d"),
+    color = d3.scale.category10();
+
+d3.csv("../dados9.csv", type, function(error, states) {
+  if (error) throw error;
+  var stateById = d3.map();
+  states.forEach(function(d) { stateById.set(d.id, d); });
+  dispatch.load(stateById);
+  dispatch.statechange(stateById.get("2002"));
+});
+
+// A drop-down menu for selecting a state; uses the "menu" namespace.
+dispatch.on("load.menu", function(stateById) {
+  var select = d3.select("#chart1")
+    .append("div")
+    .append("select")
+      .on("change", function() { dispatch.statechange(stateById.get(this.value)); });
+
+  select.selectAll("option")
+      .data(stateById.values())
+    .enter().append("option")
+      .attr("value", function(d) { return d.id; })
+      .text(function(d) { return d.id; });
+
+  dispatch.on("statechange.menu", function(state) {
+    select.property("value", state.id);
+  });
+});
+
+// Bar Chart
+dispatch.on("load.bar", function(stateById) {
+  var margin = {top: 20, right: 20, bottom: 30, left: 40},
+      width = 80 - margin.left - margin.right,
+      height = 460 - margin.top - margin.bottom;
+
+  var y = d3.scale.linear()
+      .domain([0, d3.max(stateById.values(), function(d) { return d.total; })])
+      .rangeRound([height, 0])
+      .nice();
+
+  var yAxis = d3.svg.axis()
+      .scale(y)
+      .orient("left")
+      .tickFormat(d3.format(".2s"));
+
+  var svg = d3.select("#chart1").append("svg")
+      .attr("width", width + margin.left + margin.right)
+      .attr("height", height + margin.top + margin.bottom)
+    .append("g")
+      .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+  svg.append("g")
+      .attr("class", "y axis")
+      .call(yAxis);
+
+  var rect = svg.append("rect")
+      .attr("x", 4)
+      .attr("width", width - 4)
+      .attr("y", height)
+      .attr("height", 0)
+      .style("fill", "#aaa");
+
+  dispatch.on("statechange.bar", function(d) {
+    rect.transition()
+        .attr("y", y(d.total))
+        .attr("height", y(0) - y(d.total));
+  });
+});
+
+// Donut Chart
+dispatch.on("load.pie", function(stateById) {
+  var width = $("#chart1").width() - 100,
+      height = 460,
+      radius = Math.min(width, height) / 2;
+
+  
+  var arc = d3.svg.arc()
+      .outerRadius(radius - 10)
+      .innerRadius(radius - 70);
+
+  var pie = d3.layout.pie()
+      .sort(null);
+
+  var tip = d3.tip()
+    .attr('class', 'd3-tip')
+    .offset([-10, 0])
+    .html(function(d) {
+      return $.grep(groups3, function(e){ return e.id == d.data; })[0].name + "<br >Average wage: " + d.value;
+  })
+
+  var svg = d3.select("#chart1").append("svg")
+      .attr("width", width)
+      .attr("height", height)
+    .append("g")
+      .attr("transform", "translate(" + width / 2 + "," + height / 2 + ")");
+
+  svg.call(tip);
+
+  var path = svg.selectAll("path")
+      .data(groups)
+    .enter().append("path")
+      .attr("id", function(d) { return d.id })
+      .attr("name", function(d) { return d.name })
+      .on('mouseover', tip.show)
+      .on('mouseout', tip.hide) 
+      .style("fill", function(d) {
+        console.log(d);
+        console.log();
+       return color($.grep(groups3, function(e){ return e.id == d; })[0].name); })
+      .each(function() { this._current = {startAngle: 0, endAngle: 0}; });
+
+  dispatch.on("statechange.pie", function(d) {
+    path.data(pie.value(function(g) { return d[g]; })(groups)).transition()
+        .attrTween("d", function(d) {
+          var interpolate = d3.interpolate(this._current, d);
+          this._current = interpolate(0);
+          return function(t) {
+            return arc(interpolate(t));
+          };
+        });
+  });
+});
+
+function type(d) {
+  d.total = d3.sum(groups, function(k) { return d[k] = +d[k]; });
+  return d;
+}
+
+//Chart 2
   var diameter = $("#chart2").width(),
     format = d3.format(",d"),
     color = d3.scale.category10();
@@ -97,4 +285,6 @@ $( document ).ready(function() {
   }
 
   d3.select(self.frameElement).style("height", diameter + "px");
+
+
 });
