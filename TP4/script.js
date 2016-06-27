@@ -96,7 +96,7 @@ $( document ).ready(function() {
 var format = d3.format(",d"),
     color = d3.scale.category10();
 
-d3.csv("../dados9.csv", type, function(error, states) {
+d3.csv("donut.csv", type, function(error, states) {
   if (error) throw error;
   var stateById = d3.map();
   states.forEach(function(d) { stateById.set(d.id, d); });
