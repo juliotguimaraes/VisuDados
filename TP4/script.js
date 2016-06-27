@@ -220,6 +220,38 @@ function type(d) {
   d.total = d3.sum(groups, function(k) { return d[k] = +d[k]; });
   return d;
 }
+var diameter = $("#chart_legend").width();
+var svg = d3.select("#chart_legend").append("svg")
+      .attr("width", diameter)
+      .attr("height", 480)
+      .attr("class", "legenda");
+
+var desl = 0;
+for (g in groups3){
+  if(g < 5){
+    svg.append("circle")
+          .attr("r", 7)
+          .attr("x", 20)
+          .attr("transform", "translate(" + 20 + "," + 2*(g+5) + ")")
+          .style("fill", color(groups3[g].name));
+    svg.append("text")
+          .attr("transform", "translate(" + 30 + "," + 2*(g+8) + ")")
+          .style("fill", color(groups3[g].name))
+          .text(groups3[g].name);
+  }
+  else{
+    svg.append("circle")
+          .attr("r", 7)
+          .attr("x", 60)
+          .attr("y", 0)
+          .attr("transform", "translate(" + diameter/3 + "," + (2*(g) + 5) + ")")
+          .style("fill", color(groups3[g].name));
+    svg.append("text")
+          .attr("transform", "translate(" + (diameter/3 + 10) + "," + 2*(g+8) + ")")
+          .style("fill", color(groups3[g].name))
+          .text(groups3[g].name);
+  }
+}
 
 //Chart 2
   var diameter = $("#chart2").width(),
@@ -228,12 +260,12 @@ function type(d) {
 
   var bubble = d3.layout.pack()
       .sort(null)
-      .size([diameter, diameter])
+      .size([diameter, 480])
       .padding(1.5);
 
   var svg = d3.select("#chart2").append("svg")
       .attr("width", diameter)
-      .attr("height", diameter)
+      .attr("height", 480)
       .attr("class", "bubble");
 
   d3.json("bubble.json", function(error, root) {
