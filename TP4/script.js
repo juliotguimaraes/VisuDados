@@ -435,22 +435,6 @@ function makeKeyFunction(keyName) {
   return key;
 }
 
-/
-function MapColor(d){
-
-  if(d=="#105B10") return 
-  if(d=="#17bcef")
-  if(d=="#581f05")
-  if(d=="#752277")
-  if(d=="#9edae5")
-  if(d=="#A4BD99")
-  if(d=="#b7834b")
-  if(d=="#C7C7C7")
-  if(d=="#cc0000")
-  if(d=="#d66011")
-  if(d=="#ffc41c")
-
-}
 
 
 // Give a key used to give the color (same key = same color)
