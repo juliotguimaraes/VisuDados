@@ -126,7 +126,7 @@ dispatch.on("load.menu", function(stateById) {
 dispatch.on("load.bar", function(stateById) {
   var margin = {top: 20, right: 20, bottom: 30, left: 40},
       width = 80 - margin.left - margin.right,
-      height = 460 - margin.top - margin.bottom;
+      height = 400 - margin.top - margin.bottom;
 
   var y = d3.scale.linear()
       .domain([0, d3.max(stateById.values(), function(d) { return d.total; })])
@@ -148,11 +148,20 @@ dispatch.on("load.bar", function(stateById) {
       .attr("class", "y axis")
       .call(yAxis);
 
+  var tip2 = d3.tip()
+    .attr('class', 'd3-tip')
+    .offset([0, 0])
+    .html(function(d) {
+      return "Total average wage in the year";
+  });
+
   var rect = svg.append("rect")
       .attr("x", 4)
       .attr("width", width - 4)
       .attr("y", height)
       .attr("height", 0)
+      .on('mouseover', tip2.show)
+      .on('mouseout', tip2.hide) 
       .style("fill", "#aaa");
 
   dispatch.on("statechange.bar", function(d) {
@@ -160,12 +169,14 @@ dispatch.on("load.bar", function(stateById) {
         .attr("y", y(d.total))
         .attr("height", y(0) - y(d.total));
   });
+
+  svg.call(tip2);
 });
 
 // Donut Chart
 dispatch.on("load.pie", function(stateById) {
   var width = $("#chart1").width() - 100,
-      height = 460,
+      height = 400,
       radius = Math.min(width, height) / 2;
 
   
@@ -220,10 +231,10 @@ function type(d) {
   d.total = d3.sum(groups, function(k) { return d[k] = +d[k]; });
   return d;
 }
-var diameter = $("#chart_legend").width();
+var largura_legenda = $("#chart_legend").width();
 var svg = d3.select("#chart_legend").append("svg")
-      .attr("width", diameter)
-      .attr("height", 480)
+      .attr("width", largura_legenda)
+      .attr("height", 100)
       .attr("class", "legenda");
 
 var desl = 0;
@@ -244,10 +255,10 @@ for (g in groups3){
           .attr("r", 7)
           .attr("x", 60)
           .attr("y", 0)
-          .attr("transform", "translate(" + diameter/3 + "," + (2*(g) + 5) + ")")
+          .attr("transform", "translate(" + (largura_legenda/2 + 20) + "," + ((g-4.6)*20) + ")")
           .style("fill", color(groups3[g].name));
     svg.append("text")
-          .attr("transform", "translate(" + (diameter/3 + 10) + "," + 2*(g+8) + ")")
+          .attr("transform", "translate(" + (largura_legenda/2 + 30) + "," + ((g-4.3)*20) + ")")
           .style("fill", color(groups3[g].name))
           .text(groups3[g].name);
   }
@@ -260,12 +271,12 @@ for (g in groups3){
 
   var bubble = d3.layout.pack()
       .sort(null)
-      .size([diameter, 480])
+      .size([diameter, 585])
       .padding(1.5);
 
   var svg = d3.select("#chart2").append("svg")
       .attr("width", diameter)
-      .attr("height", 480)
+      .attr("height", 585)
       .attr("class", "bubble");
 
   d3.json("bubble.json", function(error, root) {
@@ -345,7 +356,7 @@ var valueline = d3.svg.line()
     .interpolate("linear");
     
 // Adds the svg canvas
-var svg = d3.select("#chart3")
+var svg_line = d3.select("#chart3")
     .append("svg")
         .attr("width", width + margin.left + margin.right)
         .attr("height", height + margin.top + margin.bottom)
@@ -365,22 +376,22 @@ d3.csv("line.csv", function(error, data) {
     y.domain([0, d3.max(data, function(d) { return d.wage; })]);
 
     // Add the valueline path.
-    svg.append("path")
+    svg_line.append("path")
         .attr("class", "line")
         .attr("d", valueline(data));
 
     // Add the X Axis
-    svg.append("g")
+    svg_line.append("g")
         .attr("class", "x axis")
         .attr("transform", "translate(0," + height + ")")
         .call(xAxis);
 
     // Add the Y Axis
-    svg.append("g")
+    svg_line.append("g")
         .attr("class", "y axis")
         .call(yAxis);
         
-    svg.append('svg:path')
+    svg_line.append('svg:path')
 				.attr('d', valueline(data2))
 				.attr('stroke', 'blue')
 				.attr('stroke-width', 2)
