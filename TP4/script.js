@@ -148,11 +148,20 @@ dispatch.on("load.bar", function(stateById) {
       .attr("class", "y axis")
       .call(yAxis);
 
+  var tip2 = d3.tip()
+    .attr('class', 'd3-tip')
+    .offset([0, 0])
+    .html(function(d) {
+      return "Total average wage in the year";
+  });
+
   var rect = svg.append("rect")
       .attr("x", 4)
       .attr("width", width - 4)
       .attr("y", height)
       .attr("height", 0)
+      .on('mouseover', tip2.show)
+      .on('mouseout', tip2.hide) 
       .style("fill", "#aaa");
 
   dispatch.on("statechange.bar", function(d) {
@@ -160,6 +169,8 @@ dispatch.on("load.bar", function(stateById) {
         .attr("y", y(d.total))
         .attr("height", y(0) - y(d.total));
   });
+
+  svg.call(tip2);
 });
 
 // Donut Chart
