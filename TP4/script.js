@@ -375,15 +375,6 @@ d3.csv("line.csv", function(error, data) {
     x.domain(d3.extent(data, function(d) { return d.date; }));
     y.domain([0, d3.max(data, function(d) { return d.wage; })]);
 
-    var tip3 = d3.tip()
-        .attr('class', 'd3-tip')
-        .offset(function (d) {
-            return [0, 0]
-        })
-        .html(function (d) {
-            console.log(d);
-            return d ;
-        });
 
     // Add the valueline path.
     svg_line.append("path")
@@ -391,8 +382,6 @@ d3.csv("line.csv", function(error, data) {
         .style("fill", "none")
         .style("stroke", color)
         .style('stroke-width',3)
-        .on('mouseenter', tip3.show)
-        .on('mouseleave', tip3.hide)
         .attr("d", valueline(data));
 
 
@@ -413,8 +402,7 @@ d3.csv("line.csv", function(error, data) {
         .call(yAxis)
         .selectAll("text")
           .style({ 'stroke': 'none', 'fill': 'black', 'stroke-width': '0px'});
-        
-    svg.call(tip3);
+    
 
   });
 	
