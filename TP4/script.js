@@ -420,8 +420,8 @@ $.ajax({
 
 var w = $("#chart4").width() - 80,
     h = 800 - 180,
-    x = d3.scale.linear().range([0, w]),
-    y = d3.scale.linear().range([0, h]),
+    x2 = d3.scale.linear().range([0, w]),
+    y2 = d3.scale.linear().range([0, h]),
     color = d3.scale.category10(),
     root,
     node;
@@ -475,8 +475,8 @@ var svg = d3.select("#chart4")
 // Zoom from a state to another
 function zoom(d) {
   var kx = w / d.dx, ky = h / d.dy;
-  x.domain([d.x, d.x + d.dx]);
-  y.domain([d.y, d.y + d.dy]);
+  x.domain([d.x2, d.x2 + d.dx]);
+  y.domain([d.y2, d.y2 + d.dy]);
 
   var t = svg.selectAll("g.cell").transition()
       .duration(d3.event.altKey ? 7500 : 750)
