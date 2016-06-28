@@ -331,8 +331,8 @@ for (g in groups3){
 
 //Line chart
 
-var margin = {top: 20, right: 20, bottom: 50, left: 50},
-    width = 500 - margin.left - margin.right,
+var margin = {top: 20, right: 50, bottom: 50, left: 100},
+    width = $("#chart3").width() - margin.left - margin.right,
     height = 350 - margin.top - margin.bottom;
 
 // Parse the date / time
@@ -375,28 +375,47 @@ d3.csv("line.csv", function(error, data) {
     x.domain(d3.extent(data, function(d) { return d.date; }));
     y.domain([0, d3.max(data, function(d) { return d.wage; })]);
 
+    var tip3 = d3.tip()
+        .attr('class', 'd3-tip')
+        .offset(function (d) {
+            return [0, 0]
+        })
+        .html(function (d) {
+            console.log(d);
+            return d ;
+        });
+
     // Add the valueline path.
     svg_line.append("path")
         .attr("class", "line")
+        .style("fill", "none")
+        .style("stroke", color)
+        .style('stroke-width',3)
+        .on('mouseenter', tip3.show)
+        .on('mouseleave', tip3.hide)
         .attr("d", valueline(data));
+
+
 
     // Add the X Axis
     svg_line.append("g")
         .attr("class", "x axis")
         .attr("transform", "translate(0," + height + ")")
-        .call(xAxis);
+        .style({ 'stroke': 'black', 'fill': 'none', 'stroke-width': '1px'})
+        .call(xAxis)
+        .selectAll("text")
+          .style({ 'stroke': 'none', 'fill': 'black', 'stroke-width': '0px'});
 
     // Add the Y Axis
     svg_line.append("g")
         .attr("class", "y axis")
-        .call(yAxis);
+        .style({ 'stroke': 'black', 'fill': 'none', 'stroke-width': '1px'})
+        .call(yAxis)
+        .selectAll("text")
+          .style({ 'stroke': 'none', 'fill': 'black', 'stroke-width': '0px'});
         
-    svg_line.append('svg:path')
-				.attr('d', valueline(data2))
-				.attr('stroke', 'blue')
-				.attr('stroke-width', 2)
-				.attr('fill', 'none');
+    svg.call(tip3);
 
-});
+  });
 	
 });
