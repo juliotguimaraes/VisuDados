@@ -405,5 +405,196 @@ d3.csv("line.csv", function(error, data) {
     
 
   });
+
+
+//Chart  4 - TreeMap
+
+var config = [];
+$.ajax({
+  type: 'GET',
+  url: "config.json",
+  dataType: 'json',
+  success: function(data) { config = data;},
+  async: false
+});
+
+var w = $("#chart4").width() - 80,
+    h = 800 - 180,
+    x = d3.scale.linear().range([0, w]),
+    y = d3.scale.linear().range([0, h]),
+    color = d3.scale.category20c(),
+    root,
+    node;
+
+// Closure to access members defined as keys
+function makeKeyFunction(keyName) {
+  var localKeyName = keyName;
+  function key(d) {
+    return d[localKeyName];
+  }
+  return key;
+}
+
+/
+function MapColor(d){
+
+  if(d=="#105B10") return 
+  if(d=="#17bcef")
+  if(d=="#581f05")
+  if(d=="#752277")
+  if(d=="#9edae5")
+  if(d=="#A4BD99")
+  if(d=="#b7834b")
+  if(d=="#C7C7C7")
+  if(d=="#cc0000")
+  if(d=="#d66011")
+  if(d=="#ffc41c")
+
+}
+
+
+// Give a key used to give the color (same key = same color)
+function ColorKey(d) {
+  var key = "";
+  for (i in config.hierarchy) {
+    key += "." + d[config.hierarchy[i]]
+  }
+  return key;
+}
+
+// Node to zoom on when click occurs
+function selectNode(d) {
+  return (node == d.parent ? root : d.parent);
+}
+
+updateTreeMap();
+
+function updateTreeMap() {
+
+var treemap = d3.layout.treemap()
+    .round(false)
+    .size([w, h])
+    .sticky(true)
+	.children(function(d) { return d.values; })
+    .value(makeKeyFunction(config.values[0]));
+
+var svg = d3.select("#chart4")
+    .attr("class", "chart")
+    .style("width", w + "px")
+    .style("height", h + "px")
+  .append("svg:svg")
+    .attr("width", w)
+    .attr("height", h)
+  .append("svg:g")
+    .attr("transform", "translate(.5,.5)");
+
+// Zoom from a state to another
+function zoom(d) {
+  var kx = w / d.dx, ky = h / d.dy;
+  x.domain([d.x, d.x + d.dx]);
+  y.domain([d.y, d.y + d.dy]);
+
+  var t = svg.selectAll("g.cell").transition()
+      .duration(d3.event.altKey ? 7500 : 750)
+      .attr("transform", function(d) { return "translate(" + x(d.x) + "," + y(d.y) + ")"; });
+
+  t.select("rect")
+      .attr("width", function(d) { return kx * d.dx - 1; })
+      .attr("height", function(d) { return ky * d.dy - 1; })
+
+  t.select("text")
+      .attr("x", function(d) { return kx * d.dx / 2; })
+      .attr("y", function(d) { return ky * d.dy / 2; })
+      .style("opacity", function(d) { return kx * d.dx > d.w ? 1 : 0; });
+
+  node = d;
+  d3.event.stopPropagation();
+  
+  if (node == root) {
+    document.getElementById("header").innerHTML = "top level";
+  }
+  else {
+    document.getElementById("header").innerHTML = config.hierarchy[0] + ": " + node.key;
+  }
+}
+
+  var parser = d3.dsv(config.separator, "text/plain");
+  parser(config.document, function(data) {
+    // Create a nest objet to convert flat data to a tree structure 
+    var nested = d3.nest();
+
+    // Add the keys to construct the hierarchy
+    for (i in config.hierarchy) {
+      var key = config.hierarchy[i]
+      nested.key(makeKeyFunction(key)).sortKeys(d3.ascending);
+    }
+  
+    // Build the tree structure
+    node = root = {
+      "name": "rootnode",
+      "values": nested.entries(data)
+    };
+
+    // Create all viewable nodes (in this case: leafs)
+    var nodes = treemap.nodes(root)
+        .filter(function(d) { return !d.children; });
+
+    var cell = svg.selectAll("g")
+        .data(nodes)
+      .enter().append("svg:g")
+        .attr("class", "cell")
+        .attr("transform", function(d) { return "translate(" + d.x + "," + d.y + ")"; })
+        .attr("title", makeKeyFunction(config.tooltip))
+        .on("click", function(d) { return zoom(selectNode(d)); });
+
+    cell.append("svg:rect")
+        .attr("width", function(d) { return d.dx - 1; })
+        .attr("height", function(d) { return d.dy - 1; })
+        .style("fill", function(d) { return color(ColorKey(d)); });
+
+    cell.append("svg:text")
+        .attr("x", function(d) { return d.dx / 2; })
+        .attr("y", function(d) { return d.dy / 2; })
+        .attr("dy", ".35em")
+        .attr("text-anchor", "middle")
+        .text(makeKeyFunction(config.label))
+        .style("opacity", function(d) { d.w = this.getComputedTextLength(); return d.dx > d.w ? 1 : 0; });
+
+    // Only if a tooltip column is specified
+    if (config.tooltip) {
+      cell.append("svg:title")
+        .text(makeKeyFunction(config.tooltip));
+    }
+/*
+    // On value source change
+    d3.select("select").on("change", function() {
+      treemap.value(makeKeyFunction(this.value)).nodes(root);
+      zoom(node);
+    }); */
+
+  });
+}
+
+// handle on click event
+d3.select('#opts')
+  .on('change', function() {
+    var index =  eval(d3.select(this).property('value'));
+    if(index=="2002") config.document="dadosTreeMap/dados2002.csv";
+    if(index=="2003") config.document="dadosTreeMap/dados2003.csv";
+    if(index=="2004") config.document="dadosTreeMap/dados2004.csv";
+    if(index=="2005") config.document="dadosTreeMap/dados2005.csv";
+    if(index=="2006") config.document="dadosTreeMap/dados2006.csv";
+    if(index=="2007") config.document="dadosTreeMap/dados2007.csv";
+    if(index=="2008") config.document="dadosTreeMap/dados2008.csv";
+    if(index=="2009") config.document="dadosTreeMap/dados2009.csv";
+    if(index=="2010") config.document="dadosTreeMap/dados2010.csv";
+    if(index=="2011") config.document="dadosTreeMap/dados2011.csv";
+    if(index=="2012") config.document="dadosTreeMap/dados2012.csv";
+    if(index=="2013") config.document="dadosTreeMap/dados2013.csv";
+    if(index=="2014") config.document="dadosTreeMap/dados2014.csv";
+
+    d3.select("#chart4").select("svg").remove();
+    updateTreeMap();
+});
 	
 });
