@@ -1,0 +1,485 @@
+year,num_emp,num_jobs,cbo_id,color,name
+2012,3,3,7640,#9edae5,Other Footwear Manufacturing Workers
+2012,87,87,7241,#9edae5,Plumbers
+2012,9,9,7828,#9edae5,Animal-Drawn Vehicle Conductors
+2012,13,13,6326,#105B10,Coal Workers
+2012,67,67,3751,#d66011,Interior Designers
+2012,41,41,3121,#d66011,Building Construction Technicians
+2012,1,1,7501,#9edae5,Jewelry Supervisors
+2012,11,11,7253,#9edae5,Heavy Machinery Assemblers
+2012,58,58,7214,#9edae5,CNC Machinists
+2012,5,5,7256,#9edae5,Aircraft Assemblers
+2012,305,315,2522,#cc0000,Accountants
+2012,14,14,8332,#ffc41c,Handmade Paper Product Workers
+2012,1,1,8622,#ffc41c,Water Utility Workers
+2012,1216,1219,5132,#17bcef,Cooks
+2012,570,574,4102,#b7834b,Financial Supervisors
+2012,5,5,2211,#cc0000,Biologists
+2012,1235,1236,5199,#17bcef,Other Service Workers
+2012,6,6,8101,#ffc41c,Chemical Production Supervisors
+2012,57,57,8131,#ffc41c,Chemical Processing Workers
+2012,1,1,7612,#9edae5,Textile Wiring Workers
+2012,9,9,8213,#ffc41c,Laminating Operators
+2012,38,38,3543,#d66011,Foreign Trade Analysts
+2012,15,15,6420,#105B10,Forest Mechanization Workers
+2012,4,4,2221,#cc0000,Agricultural Engineers
+2012,11,11,7604,#9edae5,Cobbler Supervisors
+2012,71,71,5101,#17bcef,Hospitality Supervisors
+2012,129,129,8418,#ffc41c,Pastry Manufacturing Workers
+2012,125,125,7213,#9edae5,Metal Polishers
+2012,100,100,7155,#9edae5,Construction Workers
+2012,50,50,3513,#d66011,Administrative Technicians
+2012,14,14,2544,#cc0000,State and Municipal Tax Collectors
+2012,1,1,7610,#9edae5,General Textile Workers
+2012,12,12,7682,#9edae5,Tissue Makers
+2012,111,111,7166,#9edae5,Interior Painters
+2012,88,88,xxxx,#C7C7C7,Unreported
+2012,377,377,2531,#cc0000,Public Relations
+2012,121,121,9513,#581f05,Security System Technicians
+2012,27,27,2149,#cc0000,Production Engineers
+2012,16,16,7521,#9edae5,Glassblowers
+2012,110,110,7252,#9edae5,Industrial Machine Assemblers
+2012,913,913,9913,#581f05,Vehicle Bodywork Mechanics
+2012,5,5,3711,#d66011,Library Technicians
+2012,104,104,7251,#9edae5,Assembly Line Equipment Assemblers
+2012,137,137,7164,#9edae5,Plasterers
+2012,157,157,7633,#9edae5,Embroidery Machine Operators
+2012,7,7,9911,#581f05,Railway Maintenance Workers
+2012,4553,4571,1423,#752277,Marketing Managers
+2012,15,15,3422,#d66011,Customs Brokes
+2012,13,13,8117,#ffc41c,Rubber and Plastics Machine Operators
+2012,136,136,7661,#9edae5,Prepress Graphics Workers
+2012,2,2,7654,#9edae5,Leather Product Finishers
+2012,9,9,7605,#9edae5,Manufactured Fabrics Supervisors
+2012,9,9,7232,#9edae5,Thermochemical Metal Workers
+2012,2,2,6126,#105B10,Fertilizer Farmers
+2012,1,1,1223,#752277,Construction COOs
+2012,1,1,6110,#105B10,General Agricultural Workers
+2012,52,54,3544,#d66011,Auctioneers
+2012,9,9,7732,#9edae5,Wood Plate Pressing Operators
+2012,12,12,8412,#ffc41c,Salt Processing Workers
+2012,133,133,3117,#d66011,Colorists
+2012,11,11,7601,#9edae5,Textile Supervisors
+2012,2,2,7622,#9edae5,Leather Tanners
+2012,565,566,3542,#d66011,Buyers
+2012,1,1,8121,#ffc41c,Ammunition Manufacturing Workers
+2012,31,31,2532,#cc0000,Marketing Consutants
+2012,4,4,7111,#9edae5,Solid Mineral Extraction Workers
+2012,119,119,7522,#9edae5,Glass Processing Workers
+2012,16,16,7510,#9edae5,Jewelers
+2012,847,848,7741,#9edae5,Furniture Assemblers
+2012,110,110,3515,#d66011,Secretarial Technicians
+2012,13,13,2346,#cc0000,Language Professors
+2012,28,28,1413,#752277,Construction Managers
+2012,137,137,9191,#581f05,Lubricators
+2012,99,99,2624,#cc0000,Visual Artists
+2012,15,15,7614,#9edae5,Textile Dyers
+2012,111,111,4121,#b7834b,Data Entry Specialists
+2012,110,110,7245,#9edae5,Metal Forming Machine Operators
+2012,17,17,6210,#105B10,General Agricultural Workers
+2012,47,47,3180,#d66011,Technical Designers
+2012,16871,16892,4211,#b7834b,Non-Bank Tellers
+2012,1154,1157,4131,#b7834b,Accounting Assistants
+2012,139,139,7662,#9edae5,Printers
+2012,166,166,4151,#b7834b,Scribes
+2012,28,28,7201,#9edae5,Metal Machining Supervisors
+2012,126,126,7122,#9edae5,Ornamental Stone Workers
+2012,2,2,2032,#cc0000,Engineering Researchers
+2012,14,14,9542,#581f05,Home Appliance Technicians
+2012,1,1,6325,#105B10,Medicinal Species Cultivation
+2012,15,15,9912,#581f05,Amusement Park Maintenance Workers
+2012,54,54,2123,#cc0000,IT Managers
+2012,137,137,7411,#9edae5,Precision Instrument Assemblers
+2012,9,9,3181,#d66011,Construction Designers
+2012,2,2,6120,#105B10,Other Farmers
+2012,99,99,3421,#d66011,Transport Logistics Technicians
+2012,142,142,7311,#9edae5,Electrical Equipment Assemblers
+2012,70,70,7102,#9edae5,Construction Supervisors
+2012,3,3,2146,#cc0000,Material Science Engineers
+2012,15,15,3764,#d66011,Models
+2012,13,13,1224,#752277,Trade COOs
+2012,62,62,3547,#d66011,Independent Salesmen
+2012,5,5,2122,#cc0000,Computer Engineers
+2012,2,2,3424,#d66011,Public Transporation Technicians
+2012,2,2,8417,#ffc41c,Beverage Manufacturing Workers
+2012,175,175,6201,#105B10,Agricultural Supervisors
+2012,18,18,7642,#9edae5,Footwear Assemblers
+2012,1,1,2631,#cc0000,Religious Professionals
+2012,18,18,7312,#9edae5,Telecom Equipment Assemblers
+2012,15,15,8212,#ffc41c,Furnace Operators
+2012,1,1,2312,#cc0000,General Primary School Teachers
+2012,15,15,8118,#ffc41c,Pharmacuetical Machinery Operators
+2012,1,1,8301,#ffc41c,Paper Manufacturing Supervisors
+2012,16,16,7524,#9edae5,Glassware and Ceramic Workers
+2012,140,140,8214,#ffc41c,Metal Finishing Operators
+2012,2,2,3135,#d66011,Photonics Technicians
+2012,26,26,1426,#752277,R&amp;D Managers
+2012,19,19,7653,#9edae5,Leather Machine Operators
+2012,94,94,9131,#581f05,Heavy Machinery Mechanics
+2012,9,9,8103,#ffc41c,Pharmacuetical Production Supervisors
+2012,1919,1927,5191,#17bcef,Couriers
+2012,2,2,7113,#9edae5,Liquid and Gas Extraction Workers
+2012,2,2,5162,#17bcef,Caregivers
+2012,189,189,8481,#ffc41c,Craft Food Preservation Workers
+2012,111,111,3188,#d66011,Product Design Planners
+2012,18,18,5151,#17bcef,Health Services Workers
+2012,1774,1776,4221,#b7834b,Receptionists
+2012,7,7,9503,#581f05,Electromechanical Maintenance Supervisors
+2012,123,123,3221,#d66011,Alternative Therapy Technicians
+2012,14,14,9151,#581f05,Measuring Instrument Repairmen
+2012,57,57,1210,#752277,CEOs
+2012,18,18,2613,#cc0000,Archivists
+2012,2,2,2313,#cc0000,Specialized Elementary School Teachers
+2012,108,108,3517,#d66011,Insurance Technicians
+2012,6,6,3114,#d66011,Plastic and Rubber Technicians
+2012,18,18,1411,#752277,Agricultural Production Managers
+2012,17,17,3548,#d66011,Tourism and Event Organizers
+2012,144,144,7212,#9edae5,Machine Operators
+2012,1,1,2526,#cc0000,Security Guards
+2012,8,8,7606,#9edae5,Graphic Production Supervisors
+2012,3,3,8231,#ffc41c,Glass Preparation Operators
+2012,9,9,3122,#d66011,Infrastructure Technicians
+2012,18057,18074,4110,#b7834b,Administrative Assistants
+2012,207,207,3251,#d66011,Pharmacy Technicians
+2012,16,16,3142,#d66011,Tool Technicians
+2012,1,1,3546,#d66011,Realtors
+2012,21,21,9143,#581f05,Subway Mechanics
+2012,22,22,7683,#9edae5,Leather and Fur Footwear Workers
+2012,133,133,8401,#ffc41c,Food Manufacturing Supervisors
+2012,242,242,4222,#b7834b,Telephone Operators
+2012,2,2,6301,#105B10,Forestry and Aquaculture Supervisors
+2012,161,161,7822,#9edae5,Cargo Equipment Operators
+2012,1572,1572,7825,#9edae5,General Cargo Drivers
+2012,57,57,2512,#cc0000,Economists
+2012,192,192,8621,#ffc41c,Steam Utility Workers
+2012,207,207,5112,#17bcef,Public Transit Attendants
+2012,228,228,6220,#105B10,Other Agricultural Support Workers
+2012,107,107,3516,#d66011,Work Safety Technicians
+2012,18,18,7121,#9edae5,Ore Workers
+2012,187,188,7711,#9edae5,Cabinetmakers
+2012,36,36,2251,#cc0000,Clinicians
+2012,13,13,3743,#d66011,Projectionists
+2012,1,1,7114,#9edae5,Salt Workers
+2012,163,163,3423,#d66011,Road Transport Technicians
+2012,17,17,3001,#d66011,Mechatronic Technicians
+2012,174,174,3532,#d66011,Bank Technicians
+2012,2,2,8116,#ffc41c,Coke Equipment Operators
+2012,3,3,3146,#d66011,Metallurgy Technicians
+2012,1244,1244,3132,#d66011,Electronics Technicians
+2012,19,19,2533,#cc0000,Stockbrokers
+2012,2565,2566,7832,#9edae5,Movers
+2012,23,23,8331,#ffc41c,Paper Machinery Operators
+2012,2,2,3183,#d66011,Utility Designers
+2012,275,275,5135,#17bcef,Other Food Service Workers
+2012,18,18,7751,#9edae5,Wood Finishers
+2012,28,28,7643,#9edae5,Footwear Finishers
+2012,145,145,3222,#d66011,Nursing Assistants
+2012,1,1,2615,#cc0000,Writers
+2012,12,12,3252,#d66011,Food Production Technicians
+2012,24,24,7651,#9edae5,Leather Upholstery Workers
+2012,2988,2994,5143,#17bcef,Other Building Maintenance Workers
+2012,168,168,5161,#17bcef,Beauty Workers
+2012,1,1,1227,#752277,Financial COOs
+2012,14,14,9502,#581f05,Vehicle Electronics Maintenance Supervisors
+2012,1,1,2012,#cc0000,Metrologist
+2012,18,18,5171,#17bcef,Firefighters and Lifeguards
+2012,18,18,7735,#9edae5,CNC Wood Machinists
+2012,25,25,8311,#ffc41c,Paper Pulp Manufacturing Workers
+2012,4,4,8421,#ffc41c,Other Tobacco Workers
+2012,1,1,2511,#cc0000,Anthropologists
+2012,27,27,3523,#d66011,Tax Agents
+2012,195,196,7242,#9edae5,Steel Structural Erection Workers
+2012,206,206,4213,#b7834b,Billing Collectors
+2012,28,28,3311,#d66011,Early Childhood Teachers
+2012,101,101,9102,#581f05,Vehicle Maintenance Supervisors
+2012,273,278,5141,#17bcef,Building Management
+2012,164,164,9192,#581f05,Landscapers
+2012,3,3,1225,#752277,Hospitality COOs
+2012,27,27,2617,#cc0000,Announcers
+2012,208,209,7250,#9edae5,Other Mechanical Fitters
+2012,2,2,8416,#ffc41c,Coffee and Tea Workers
+2012,13,13,3123,#d66011,Geographic Technicians
+2012,37,37,5172,#17bcef,Police and Civil Guards
+2012,307,307,5193,#17bcef,Veternary Service Workers
+2012,166,166,9511,#581f05,Electrical Maintenance Workers
+2012,3,3,8624,#ffc41c,Gas Utility Workers
+2012,6,6,2616,#cc0000,Editors
+2012,149,150,9111,#581f05,Pump and Motor Mechanics
+2012,20,20,8232,#ffc41c,Glass Manufacturing Operators
+2012,31,31,7211,#9edae5,Toolmakers
+2012,3,3,7764,#9edae5,Carpenters
+2012,164,164,3511,#d66011,Accounting Technicians
+2012,114,114,9101,#581f05,Industrial Machinery Maintenance Supervisors
+2012,25,25,3250,#d66011,Horticulture Technicians
+2012,1,1,8102,#ffc41c,Plastics and Rubber Production Supervisors
+2012,5,5,2132,#cc0000,Chemists
+2012,222,222,5243,#17bcef,Street Vendors
+2012,30,30,7223,#9edae5,Metal Molding Workers
+2012,19,19,4231,#b7834b,Customs Brokers
+2012,50,50,2143,#cc0000,Electrical Engineers
+2012,2,2,2622,#cc0000,Directors
+2012,30,30,7664,#9edae5,Photo Lab Technicians
+2012,249,249,7244,#9edae5,Boiler Workers
+2012,90,90,1427,#752277,Project Managers
+2012,25,25,7733,#9edae5,Other Wood Machining Operators
+2012,82,82,2410,#cc0000,Lawyers
+2012,164,164,3133,#d66011,Telecom Technicians
+2012,11,11,2151,#cc0000,Maritime Officials
+2012,341,341,7631,#9edae5,Clothing Preparation Workers
+2012,32,32,7721,#9edae5,Wood Preparation Workers
+2012,3189,3199,8485,#ffc41c,Butchers
+2012,228,228,5242,#17bcef,Kiosk and Stall Vendors
+2012,15,15,3426,#d66011,Seaport Operations Technicians
+2012,259,259,7152,#9edae5,Masonry Workers
+2012,4,4,7911,#9edae5,General Artisans
+2012,823,823,2124,#cc0000,Information Analysts
+2012,161,161,3144,#d66011,Machinery Technicians
+2012,29,29,3223,#d66011,Optometrists
+2012,4,4,7618,#9edae5,Textile Inspectors
+2012,45,45,2142,#cc0000,Civil Engineers
+2012,4,4,2627,#cc0000,Musicians
+2012,1486,1487,4101,#b7834b,Administrative Supervisors
+2012,6,6,3411,#d66011,Commercial Pilots
+2012,4,4,2145,#cc0000,Chemical Engineers
+2012,1,1,2349,#cc0000,Art Professors
+2012,3,3,7523,#9edae5,Potters
+2012,25,25,9543,#581f05,Office Equipment Technicians
+2012,23,23,7821,#9edae5,Crane Operators
+2012,218,218,1415,#752277,Hospitality Managers
+2012,23,23,7801,#9edae5,Packing and Labeling Supervisors
+2012,3,3,8482,#ffc41c,Craft Dairy Pasteurization Workers
+2012,2906,2910,7823,#9edae5,Passenger Vehicle Drivers
+2012,29,29,9141,#581f05,Aircraft Mechanics
+2012,1032,1045,2234,#cc0000,Pharmacists
+2012,3,3,7421,#9edae5,Musical Instrument Assemblers
+2012,188,189,2525,#cc0000,Financial Analysts
+2012,403,403,8414,#ffc41c,Food Preservation Workers
+2012,4,4,7681,#9edae5,Weavers and Knitters
+2012,3,3,3211,#d66011,Agricultural Technicians
+2012,1,1,2614,#cc0000,Linguists
+2012,37,37,3514,#d66011,Judicial Clerks
+2012,26,26,3184,#d66011,Technical Product Designers
+2012,238,238,9531,#581f05,Vehicle Maintenance Electricians
+2012,280,280,7156,#9edae5,Electrical Workers
+2012,46,46,3224,#d66011,Dental Technicians
+2012,13,13,7202,#9edae5,Metal Processing Supervisors
+2012,2,2,2134,#cc0000,Geologists
+2012,2,2,3147,#d66011,Steel Technicians
+2012,393,393,7632,#9edae5,Stitching Machine Operators
+2012,4,4,5131,#17bcef,Butlers and Maids
+2012,4822,4823,5134,#17bcef,Restaurant Workers
+2012,4011,4022,8483,#ffc41c,Bakers
+2012,139,139,3171,#d66011,System Administrators
+2012,359,360,7630,#9edae5,Other Clothing Manufacturing Workers
+2012,393,393,9921,#581f05,Basic Vehicle Mechanics
+2012,25,25,3185,#d66011,Construction Design Planners
+2012,230,230,3912,#d66011,Production Control Technicians
+2012,17,17,9153,#581f05,Biomedical Equipment Repairmen
+2012,257,257,7243,#9edae5,Metal Welders
+2012,271,271,2523,#cc0000,Executives
+2012,21,21,3241,#d66011,Radiologists
+2012,2,2,5133,#17bcef,Housekeepers
+2012,5,5,7826,#9edae5,Train Operators
+2012,4,4,1237,#752277,R&amp;D Directors
+2012,22,22,7154,#9edae5,Concrete Machine Operators
+2012,8,8,1236,#752277,Computer Service Officers
+2012,2,2,2112,#cc0000,Statisticians
+2012,36,36,7161,#9edae5,Concrete Coaters
+2012,15,15,2236,#cc0000,Physiotherapists
+2012,7,7,1313,#752277,Education Directors
+2012,32,32,7112,#9edae5,Mineral Extraction Machinery Operators
+2012,30,30,2711,#cc0000,Chefs
+2012,1448,1450,5201,#17bcef,Sales Supervisors
+2012,2,2,3714,#d66011,Recruiters
+2012,42,42,7824,#9edae5,Public Transit Driver
+2012,3,3,2621,#cc0000,Producers
+2012,20,20,2515,#cc0000,Psychologists
+2012,4,4,8623,#ffc41c,Sewage Workers
+2012,206,206,2524,#cc0000,Human Resources Professionals
+2012,3124,3125,9144,#581f05,Car Mechanics
+2012,1,1,1234,#752277,Other Directors
+2012,48,48,7663,#9edae5,Print Finishers
+2012,2,2,2239,#cc0000,Physical Therapists
+2012,5,5,5102,#17bcef,Laundry Supervisors
+2012,10,10,7101,#9edae5,Mineral Extraction Supervisors
+2012,3,3,3545,#d66011,Insurance Agents
+2012,553,553,7170,#9edae5,Civil Engineering Assistants
+2012,30,30,7254,#9edae5,Engine Fitters
+2012,21,21,3732,#d66011,Camera Operators
+2012,3,3,3522,#d66011,Health and Environmental Workers
+2012,42,42,8111,#ffc41c,Grinding and Mixing Machine Operators
+2012,30,30,3011,#d66011,Industrial Lab Technicians
+2012,568,568,5152,#17bcef,Medical Lab Assistants
+2012,28,28,3242,#d66011,Clinical Pathology Technicians
+2012,549,549,7842,#9edae5,Production Line Feeders
+2012,18,18,8202,#ffc41c,Building Material Supervisors
+2012,7,7,2148,#cc0000,Cartographers and Surveyers
+2012,49,49,2144,#cc0000,Mechanical Engineers
+2012,5,5,8321,#ffc41c,Paper and Cardboard Manufacturing Workers
+2012,59,59,5192,#17bcef,Recycling Collectors
+2012,2,2,2253,#cc0000,Doctors in Diagnostics and Therapy
+2012,381,381,3911,#d66011,Industrial Planning Technicians
+2012,5,5,4152,#b7834b,Postal Workers
+2012,32,32,9541,#581f05,Elevator Technicians
+2012,44,44,7257,#9edae5,Refrigeration Installers
+2012,5,5,3772,#d66011,Sports Referees
+2012,263,263,3131,#d66011,Electricians and Electrical Engineers
+2012,467,468,7163,#9edae5,Glaziers
+2012,187,187,1416,#752277,Transportation Managers
+2012,43,43,7255,#9edae5,Car Assembly Line Workers
+2012,45,45,7153,#9edae5,Reinforced Concrete Assemblers
+2012,2719,2722,3541,#d66011,Sales Specialist
+2012,332,332,9113,#581f05,Industrial Machine Maintenance Workers
+2012,53,54,1233,#752277,Sales and Marketing Directors
+2012,39,39,7701,#9edae5,Carpentry Supervisors
+2012,43,43,7603,#9edae5,Clothing Manufacturing Supervisors
+2012,1,1,2623,#cc0000,Scenographers
+2012,57,57,4212,#b7834b,Gambling Collectors
+2012,5,5,7686,#9edae5,Typographers
+2012,2,2,2111,#cc0000,Mathematicians
+2012,6,6,7623,#9edae5,Leather Finishers
+2012,2,2,2212,#cc0000,Biomedical Scientists
+2012,20,20,1312,#752277,Health Service Directors
+2012,21,21,8601,#ffc41c,Utility Supervisors
+2012,46,46,7165,#9edae5,Floor Finishers
+2012,56,56,7731,#9edae5,Wood Cutting Machine Operators
+2012,137,138,1231,#752277,Administrative and Financial Officers
+2012,15,15,2232,#cc0000,Dentists
+2012,7,7,5164,#17bcef,Launderers
+2012,51,51,3741,#d66011,Audio Technicians
+2012,42,42,3134,#d66011,Instrumentation Technicians
+2012,6,6,3762,#d66011,Circus Artists
+2012,2,2,3163,#d66011,Mining Technicians
+2012,2,2,7224,#9edae5,Metal Straightening Workers
+2012,47,47,3744,#d66011,Video and Film Editors
+2012,62,62,5111,#17bcef,Transportation Security
+2012,6,6,7734,#9edae5,Wood Series Machinery Operators
+2012,233,233,1424,#752277,Supply Managers
+2012,3,3,1238,#752277,Maintenance Officers
+2012,5,5,7687,#9edae5,Bookbinders
+2012,441,441,4201,#b7834b,Public Service Supervisors
+2012,59,59,7831,#9edae5,Train Workers
+2012,434,434,7233,#9edae5,Metal Equipment Painters
+2012,51,51,7652,#9edae5,Leather Manufacturing Workers
+2012,8,8,8233,#ffc41c,Construction Equipment Operators
+2012,5,5,8625,#ffc41c,Refrigeration Workers
+2012,2,2,3115,#d66011,Water Treatment Technicians
+2012,196,200,1422,#752277,Human Resource Managers
+2012,65,65,3722,#d66011,Teleprocessing Technicians
+2012,4,4,3182,#d66011,Mechanical Designers
+2012,9,9,2241,#cc0000,Gym Teachers
+2012,4,4,8201,#ffc41c,Steel Production Supervisors
+2012,25,25,3143,#d66011,Car Mechanics
+2012,5,5,1226,#752277,Storage and Transport COOs
+2012,11,11,2252,#cc0000,Surgeons
+2012,644,644,9922,#581f05,Road Maintenance Workers
+2012,583,583,5231,#17bcef,Product Installers
+2012,5,5,3713,#d66011,Graphic Designers
+2012,3,3,3113,#d66011,Glass Technicians
+2012,3022,3029,1421,#752277,Financial Managers
+2012,359,359,3141,#d66011,Mechanical Technicians
+2012,1,1,6230,#105B10,Animal Trainers
+2012,54,54,7321,#9edae5,Communication Line Repairmen
+2012,40,40,5103,#17bcef,Security Supervisors
+2012,5,5,6231,#105B10,Large Animal Livestock Workers
+2012,7,7,6321,#105B10,Lumberjacks
+2012,8,8,6322,#105B10,Gums and Resins Extraction Workers
+2012,28,28,2235,#cc0000,Nurses
+2012,29,29,2612,#cc0000,Librarians
+2012,1,1,7650,#9edae5,Other Leather Product Workers
+2012,2,2,1221,#752277,Agricultural COOs
+2012,7196,7200,4141,#b7834b,Stockmen
+2012,30,30,7301,#9edae5,Electrical Manufacturing Supervisors
+2012,85,85,9193,#581f05,Sports Equipment Repairmen
+2012,95,95,8181,#ffc41c,Industrial Lab Operators
+2012,6,6,8411,#ffc41c,Grains Processing Workers
+2012,1,1,3721,#d66011,Cinematography Technicians
+2012,1,1,6233,#105B10,Poultry Workers
+2012,56,56,3111,#d66011,Chemical Technicians
+2012,1,1,6225,#105B10,Fruit Farm Workers
+2012,1,1,6124,#105B10,Flower Farmers
+2012,1,1,3225,#d66011,Orthopedic Prostheses Technicians
+2012,60256,60366,5211,#17bcef,Vendors
+2012,1,1,3763,#d66011,Presenters
+2012,61,61,3331,#d66011,Free Course Instructors
+2012,7,7,9142,#581f05,Marine Equipment Maintenance 
+2012,4,4,3341,#d66011,School Inspectors
+2012,33,33,2233,#cc0000,Veterinarians
+2012,817,817,5173,#17bcef,Security Guards
+2012,1,1,7231,#9edae5,Metal Heat Treatment Workers
+2012,1,1,8422,#ffc41c,Cigar Workers
+2012,391,391,1412,#752277,Mining Production Managers
+2012,448,448,3172,#d66011,Computer Technicians
+2012,1,1,3413,#d66011,Maritime Technicians
+2012,3,3,1115,#752277,Public Managers
+2012,70,70,7222,#9edae5,Metal Smelting Workers
+2012,4,4,3322,#d66011,Vocational Teachers
+2012,8,8,2153,#cc0000,Pilots
+2012,4,4,1232,#752277,Human Resource Directors
+2012,1,1,8486,#ffc41c,Craft Tobacoo Workers
+2012,823,823,4132,#b7834b,Bank Assistants
+2012,7,7,3731,#d66011,Radio Station Technicians
+2012,5,5,3425,#d66011,Air Transport Technicians
+2012,6,6,6410,#105B10,Mechanical Agricultural Workers
+2012,8,8,7221,#9edae5,Metal Forging Workers
+2012,4,4,7401,#9edae5,Instrument Assembly Supervisors
+2012,1,1,9154,#581f05,Camera Repairmen
+2012,711,711,4142,#b7834b,Production Trainers
+2012,54,54,3003,#d66011,Electromechanical Technicians
+2012,97,97,5163,#17bcef,Dry Cleaners
+2012,1,1,7771,#9edae5,Naval Carpenters
+2012,462,463,5241,#17bcef,Door-to-Door Salesmen
+2012,28,28,9501,#581f05,Industrial Electrical Maintenance Supervisors
+2012,1,1,8110,#ffc41c,Generic Chemical Equipment Operators
+2012,3795,3807,1414,#752277,Trade Managers
+2012,14,14,7641,#9edae5,Footwear Preparation Workers
+2012,87,87,5136,#17bcef,Specialty Chefs
+2012,4,4,2147,#cc0000,Mining Engineers
+2012,45,45,2237,#cc0000,Nutritionists
+2012,7,7,3253,#d66011,Biotechnical Technicians
+2012,1,1,8611,#ffc41c,Other Power Distribution Workers
+2012,6,6,2543,#cc0000,Labor Inspectors
+2012,12,12,3212,#d66011,Foresters
+2012,8,8,2628,#cc0000,Other Dancers
+2012,239,241,2521,#cc0000,Administrators
+2012,76,76,7511,#9edae5,Precious Stone Artisans
+2012,9,9,6232,#105B10,Midsize Animal Livestock Workers
+2012,68,68,7157,#9edae5,Insulation Workers
+2012,79,79,7313,#9edae5,Telecom Equipment Repairmen
+2012,61,61,7151,#9edae5,Excavators
+2012,9,9,1144,#752277,Non-Profit Organization Directors
+2012,1169,1169,5142,#17bcef,Garbagemen
+2012,873,874,4223,#b7834b,Telemarketers
+2012,8,8,8113,#ffc41c,Filtration Workers
+2012,82,83,9112,#581f05,HVAC Maintenance Workers
+2012,31,31,2629,#cc0000,Interior Designer
+2012,55,55,2332,#cc0000,Vocational Instructors
+2012,1,1,6125,#105B10,Fruit Farmers
+2012,5,5,7246,#9edae5,Wire Rope Workers
+2012,1,1,5153,#17bcef,High Risk Care Workers
+2012,1,1,6314,#105B10,Fishing Support Workers
+2012,1248,1248,7841,#9edae5,Packing and Labeling Workers
+2012,1,1,1222,#752277,Mining and Quarrying COOs
+2012,27,27,1311,#752277,Social Services Directors
+2012,10,10,6224,#105B10,Flower Culivators
+2012,1,1,9152,#581f05,Musical Instrument Restoration Workers
+2012,1,1,7621,#9edae5,Leather Preparation Workers
+2012,13,13,2618,#cc0000,Photographers
+2012,1,1,7502,#9edae5,Glass and Ceramic Supervisors
+2012,1,1,3951,#d66011,Technical Support in Research and Development
+2012,977,978,5174,#17bcef,Doormen
+2012,4,4,3186,#d66011,Mechanical Design Planners
+2012,39,39,2238,#cc0000,Audiologists
+2012,172,172,1425,#752277,IT Managers
+2012,37,37,3187,#d66011,Electronical Design Planners
+2012,4,4,4241,#b7834b,Interviewers and Census Takers
+2012,41,41,2394,#cc0000,Other Educators
+2012,25,25,2141,#cc0000,Architects and Planners
+2012,1,1,2626,#cc0000,Musicians
+2012,49,49,2611,#cc0000,Journalists
+2012,1321,1321,4122,#b7834b,Secretaries
+2012,2,2,6128,#105B10,Spice Farmers
+2012,1,1,2321,#cc0000,High School Teachers
+2012,37,37,1417,#752277,Financial Institution Managers
+2012,4,4,8484,#ffc41c,Food Tasters
+2012,1,1,2516,#cc0000,Social Workers

@@ -1,0 +1,484 @@
+year,num_emp,num_jobs,cbo_id,color,name
+2008,16,16,7721,#9edae5,Wood Preparation Workers
+2008,192,193,7633,#9edae5,Embroidery Machine Operators
+2008,22,22,7642,#9edae5,Footwear Assemblers
+2008,47,47,3547,#d66011,Independent Salesmen
+2008,2,2,2331,#cc0000,Vocational Teachers
+2008,8,8,3187,#d66011,Electronical Design Planners
+2008,2,2,8421,#ffc41c,Other Tobacco Workers
+2008,163,163,7631,#9edae5,Clothing Preparation Workers
+2008,9,9,9503,#581f05,Electromechanical Maintenance Supervisors
+2008,22,22,2512,#cc0000,Economists
+2008,2,2,7826,#9edae5,Train Operators
+2008,1,1,2621,#cc0000,Producers
+2008,19,19,8118,#ffc41c,Pharmacuetical Machinery Operators
+2008,1,1,2422,#cc0000,Public Ministry
+2008,213,213,6220,#105B10,Other Agricultural Support Workers
+2008,128,128,7212,#9edae5,Machine Operators
+2008,4,4,7401,#9edae5,Instrument Assembly Supervisors
+2008,120,122,9112,#581f05,HVAC Maintenance Workers
+2008,2,2,5133,#17bcef,Housekeepers
+2008,2,2,6420,#105B10,Forest Mechanization Workers
+2008,12,12,8411,#ffc41c,Grains Processing Workers
+2008,1706,1712,4221,#b7834b,Receptionists
+2008,1,1,3763,#d66011,Presenters
+2008,17,17,9543,#581f05,Office Equipment Technicians
+2008,161,161,7662,#9edae5,Printers
+2008,15925,15963,4110,#b7834b,Administrative Assistants
+2008,3,3,2148,#cc0000,Cartographers and Surveyers
+2008,220,220,5193,#17bcef,Veternary Service Workers
+2008,86,87,9101,#581f05,Industrial Machinery Maintenance Supervisors
+2008,17,17,7828,#9edae5,Animal-Drawn Vehicle Conductors
+2008,18,18,1111,#752277,Legislators
+2008,15,15,3311,#d66011,Early Childhood Teachers
+2008,2,2,8211,#ffc41c,Sinter Operators
+2008,1,1,7772,#9edae5,Land Vehicle Carpenters
+2008,23,23,3422,#d66011,Customs Brokes
+2008,18,18,2613,#cc0000,Archivists
+2008,22,22,7687,#9edae5,Bookbinders
+2008,101,101,3133,#d66011,Telecom Technicians
+2008,2035,2038,5191,#17bcef,Couriers
+2008,15,15,7601,#9edae5,Textile Supervisors
+2008,17,17,7232,#9edae5,Thermochemical Metal Workers
+2008,7,7,2235,#cc0000,Nurses
+2008,145,145,3532,#d66011,Bank Technicians
+2008,1268,1268,3132,#d66011,Electronics Technicians
+2008,1,1,2516,#cc0000,Social Workers
+2008,14,14,7701,#9edae5,Carpentry Supervisors
+2008,2,2,7421,#9edae5,Musical Instrument Assemblers
+2008,180,180,5161,#17bcef,Beauty Workers
+2008,165,165,7156,#9edae5,Electrical Workers
+2008,12,12,8202,#ffc41c,Building Material Supervisors
+2008,5,5,2236,#cc0000,Physiotherapists
+2008,168,168,7311,#9edae5,Electrical Equipment Assemblers
+2008,198,198,3251,#d66011,Pharmacy Technicians
+2008,24,24,7312,#9edae5,Telecom Equipment Assemblers
+2008,17,17,8111,#ffc41c,Grinding and Mixing Machine Operators
+2008,1483,1487,7825,#9edae5,General Cargo Drivers
+2008,22,22,4152,#b7834b,Postal Workers
+2008,169,169,7122,#9edae5,Ornamental Stone Workers
+2008,9,9,3241,#d66011,Radiologists
+2008,33,34,1233,#752277,Sales and Marketing Directors
+2008,22,22,9542,#581f05,Home Appliance Technicians
+2008,1,1,1221,#752277,Agricultural COOs
+2008,1,1,2146,#cc0000,Material Science Engineers
+2008,2191,2192,7832,#9edae5,Movers
+2008,23,23,8232,#ffc41c,Glass Manufacturing Operators
+2008,8,8,8103,#ffc41c,Pharmacuetical Production Supervisors
+2008,23,23,6224,#105B10,Flower Culivators
+2008,199,199,7152,#9edae5,Masonry Workers
+2008,181,183,7711,#9edae5,Cabinetmakers
+2008,3,3,2543,#cc0000,Labor Inspectors
+2008,25,25,7614,#9edae5,Textile Dyers
+2008,274,274,5112,#17bcef,Public Transit Attendants
+2008,25,25,4241,#b7834b,Interviewers and Census Takers
+2008,10,10,3252,#d66011,Food Production Technicians
+2008,27,27,7751,#9edae5,Wood Finishers
+2008,2444,2449,8485,#ffc41c,Butchers
+2008,23,23,7253,#9edae5,Heavy Machinery Assemblers
+2008,28,28,7683,#9edae5,Leather and Fur Footwear Workers
+2008,26,26,9143,#581f05,Subway Mechanics
+2008,2,2,5131,#17bcef,Butlers and Maids
+2008,13,13,7801,#9edae5,Packing and Labeling Supervisors
+2008,2,2,2622,#cc0000,Directors
+2008,15,15,2151,#cc0000,Maritime Officials
+2008,29,29,7653,#9edae5,Leather Machine Operators
+2008,55,55,2231,#cc0000,Doctors
+2008,3241,3257,5143,#17bcef,Other Building Maintenance Workers
+2008,152,152,9111,#581f05,Pump and Motor Mechanics
+2008,104,104,9131,#581f05,Heavy Machinery Mechanics
+2008,26,26,3523,#d66011,Tax Agents
+2008,86,86,9102,#581f05,Vehicle Maintenance Supervisors
+2008,163,163,3912,#d66011,Production Control Technicians
+2008,3,3,8416,#ffc41c,Coffee and Tea Workers
+2008,3,3,1313,#752277,Education Directors
+2008,207,208,7244,#9edae5,Boiler Workers
+2008,27,27,7682,#9edae5,Tissue Makers
+2008,1070,1071,4101,#b7834b,Administrative Supervisors
+2008,171,171,3423,#d66011,Road Transport Technicians
+2008,23,23,3011,#d66011,Industrial Lab Technicians
+2008,14,14,3242,#d66011,Clinical Pathology Technicians
+2008,20,20,2617,#cc0000,Announcers
+2008,22,22,xxxx,#C7C7C7,Unreported
+2008,6,6,2221,#cc0000,Agricultural Engineers
+2008,21,21,3180,#d66011,Technical Designers
+2008,18,18,1411,#752277,Agricultural Production Managers
+2008,3,3,6223,#105B10,Horticulture Farm Workers
+2008,23,24,7733,#9edae5,Other Wood Machining Operators
+2008,17,17,9141,#581f05,Aircraft Mechanics
+2008,176,176,7822,#9edae5,Cargo Equipment Operators
+2008,216,216,4213,#b7834b,Billing Collectors
+2008,18,18,5171,#17bcef,Firefighters and Lifeguards
+2008,32,32,3514,#d66011,Judicial Clerks
+2008,9,9,7606,#9edae5,Graphic Production Supervisors
+2008,1,1,2132,#cc0000,Chemists
+2008,20,20,3331,#d66011,Free Course Instructors
+2008,3,3,8624,#ffc41c,Gas Utility Workers
+2008,76,76,1425,#752277,IT Managers
+2008,4,4,7827,#9edae5,Waterway Workers
+2008,16,16,9153,#581f05,Biomedical Equipment Repairmen
+2008,1,1,2211,#cc0000,Biologists
+2008,158,158,7151,#9edae5,Excavators
+2008,7,10,2631,#cc0000,Religious Professionals
+2008,3264,3272,8483,#ffc41c,Bakers
+2008,3,3,7502,#9edae5,Glass and Ceramic Supervisors
+2008,172,172,9192,#581f05,Landscapers
+2008,3,3,3213,#d66011,Aquafarmers
+2008,2493,2496,7823,#9edae5,Passenger Vehicle Drivers
+2008,166,166,9511,#581f05,Electrical Maintenance Workers
+2008,29,29,2533,#cc0000,Stockbrokers
+2008,1,1,1236,#752277,Computer Service Officers
+2008,1,1,1238,#752277,Maintenance Officers
+2008,190,190,1415,#752277,Hospitality Managers
+2008,111,111,2524,#cc0000,Human Resources Professionals
+2008,332,332,7842,#9edae5,Production Line Feeders
+2008,20,20,5103,#17bcef,Security Supervisors
+2008,4,4,8321,#ffc41c,Paper and Cardboard Manufacturing Workers
+2008,831,848,2234,#cc0000,Pharmacists
+2008,79,79,2410,#cc0000,Lawyers
+2008,32,32,7510,#9edae5,Jewelers
+2008,17,17,9541,#581f05,Elevator Technicians
+2008,242,242,7250,#9edae5,Other Mechanical Fitters
+2008,4,4,6225,#105B10,Fruit Farm Workers
+2008,15,15,3001,#d66011,Mechatronic Technicians
+2008,29,29,2142,#cc0000,Civil Engineers
+2008,2,2,3135,#d66011,Photonics Technicians
+2008,17,17,3732,#d66011,Camera Operators
+2008,67,68,1210,#752277,CEOs
+2008,10,10,1413,#752277,Construction Managers
+2008,4158,4160,5134,#17bcef,Restaurant Workers
+2008,18,18,7214,#9edae5,CNC Machinists
+2008,5,5,6233,#105B10,Poultry Workers
+2008,4,4,2346,#cc0000,Language Professors
+2008,226,227,9531,#581f05,Vehicle Maintenance Electricians
+2008,35,35,8131,#ffc41c,Chemical Processing Workers
+2008,22,22,3743,#d66011,Projectionists
+2008,6,6,1426,#752277,R&amp;D Managers
+2008,71,71,2532,#cc0000,Marketing Consutants
+2008,108,110,1416,#752277,Transportation Managers
+2008,5,5,2392,#cc0000,Special Education Teachers
+2008,39,39,7222,#9edae5,Metal Smelting Workers
+2008,9,9,1312,#752277,Health Service Directors
+2008,204,204,3511,#d66011,Accounting Technicians
+2008,17,17,9502,#581f05,Vehicle Electronics Maintenance Supervisors
+2008,413,413,5242,#17bcef,Kiosk and Stall Vendors
+2008,47,47,5192,#17bcef,Recycling Collectors
+2008,31,31,2332,#cc0000,Vocational Instructors
+2008,252,252,4121,#b7834b,Data Entry Specialists
+2008,22,22,7101,#9edae5,Mineral Extraction Supervisors
+2008,17,17,5151,#17bcef,Health Services Workers
+2008,41,41,3224,#d66011,Dental Technicians
+2008,32,32,7824,#9edae5,Public Transit Driver
+2008,28,28,7112,#9edae5,Mineral Extraction Machinery Operators
+2008,5,5,2544,#cc0000,State and Municipal Tax Collectors
+2008,32,32,7161,#9edae5,Concrete Coaters
+2008,33,33,7603,#9edae5,Clothing Manufacturing Supervisors
+2008,3,3,3250,#d66011,Horticulture Technicians
+2008,2,2,7610,#9edae5,General Textile Workers
+2008,147,148,1422,#752277,Human Resource Managers
+2008,29,29,7121,#9edae5,Ore Workers
+2008,1,1,7256,#9edae5,Aircraft Assemblers
+2008,1282,1295,5201,#17bcef,Sales Supervisors
+2008,41,41,8331,#ffc41c,Paper Machinery Operators
+2008,16,16,8601,#ffc41c,Utility Supervisors
+2008,2862,2867,9144,#581f05,Car Mechanics
+2008,4,4,9142,#581f05,Marine Equipment Maintenance 
+2008,149,149,3171,#d66011,System Administrators
+2008,4,4,6232,#105B10,Midsize Animal Livestock Workers
+2008,14,14,2238,#cc0000,Audiologists
+2008,3,3,6124,#105B10,Flower Farmers
+2008,28,28,2629,#cc0000,Interior Designer
+2008,484,485,7170,#9edae5,Civil Engineering Assistants
+2008,445,445,7632,#9edae5,Stitching Machine Operators
+2008,35,35,3134,#d66011,Instrumentation Technicians
+2008,250,250,3172,#d66011,Computer Technicians
+2008,19,19,3121,#d66011,Building Construction Technicians
+2008,550,551,5121,#17bcef,Domestic Service Workers
+2008,2040,2043,3541,#d66011,Sales Specialist
+2008,3,3,1226,#752277,Storage and Transport COOs
+2008,429,429,5243,#17bcef,Street Vendors
+2008,22,22,7201,#9edae5,Metal Machining Supervisors
+2008,294,294,2523,#cc0000,Executives
+2008,29,29,3184,#d66011,Technical Product Designers
+2008,5,5,6230,#105B10,Animal Trainers
+2008,38,38,7663,#9edae5,Print Finishers
+2008,376,376,7163,#9edae5,Glaziers
+2008,328,328,9113,#581f05,Industrial Machine Maintenance Workers
+2008,38,38,7651,#9edae5,Leather Upholstery Workers
+2008,265,265,7243,#9edae5,Metal Welders
+2008,38,38,3741,#d66011,Audio Technicians
+2008,31,31,7524,#9edae5,Glassware and Ceramic Workers
+2008,441,441,9921,#581f05,Basic Vehicle Mechanics
+2008,4,4,2626,#cc0000,Musicians
+2008,6,6,7764,#9edae5,Carpenters
+2008,186,186,1424,#752277,Supply Managers
+2008,5,5,7623,#9edae5,Leather Finishers
+2008,13,13,7111,#9edae5,Solid Mineral Extraction Workers
+2008,2,2,1227,#752277,Financial COOs
+2008,390,391,7630,#9edae5,Other Clothing Manufacturing Workers
+2008,19,19,2515,#cc0000,Psychologists
+2008,127,137,1231,#752277,Administrative and Financial Officers
+2008,20,20,9501,#581f05,Industrial Electrical Maintenance Supervisors
+2008,4,4,5136,#17bcef,Specialty Chefs
+2008,6,6,6322,#105B10,Gums and Resins Extraction Workers
+2008,2,2,3714,#d66011,Recruiters
+2008,12,12,7202,#9edae5,Metal Processing Supervisors
+2008,6,6,7618,#9edae5,Textile Inspectors
+2008,2,2,2239,#cc0000,Physical Therapists
+2008,127,129,2521,#cc0000,Administrators
+2008,37,37,3003,#d66011,Electromechanical Technicians
+2008,63,63,5135,#17bcef,Other Food Service Workers
+2008,1,1,2012,#cc0000,Metrologist
+2008,299,299,3911,#d66011,Industrial Planning Technicians
+2008,541,541,5152,#17bcef,Medical Lab Assistants
+2008,48,50,7831,#9edae5,Train Workers
+2008,1,1,9152,#581f05,Musical Instrument Restoration Workers
+2008,3,3,6323,#105B10,Fiber and Wax and Oil Extraction Workers
+2008,364,364,7233,#9edae5,Metal Equipment Painters
+2008,47,47,7165,#9edae5,Floor Finishers
+2008,64,64,2143,#cc0000,Electrical Engineers
+2008,26,26,2237,#cc0000,Nutritionists
+2008,51,51,9513,#581f05,Security System Technicians
+2008,5,5,1225,#752277,Hospitality COOs
+2008,5,5,2153,#cc0000,Pilots
+2008,51,51,6321,#105B10,Lumberjacks
+2008,54,54,3722,#d66011,Teleprocessing Technicians
+2008,6,6,3951,#d66011,Technical Support in Research and Development
+2008,8,8,2241,#cc0000,Gym Teachers
+2008,7,7,7640,#9edae5,Other Footwear Manufacturing Workers
+2008,57,57,7664,#9edae5,Photo Lab Technicians
+2008,7,7,5162,#17bcef,Caregivers
+2008,2,2,1237,#752277,R&amp;D Directors
+2008,3,3,7224,#9edae5,Metal Straightening Workers
+2008,7,7,7681,#9edae5,Weavers and Knitters
+2008,5,5,7612,#9edae5,Textile Wiring Workers
+2008,277,277,3131,#d66011,Electricians and Electrical Engineers
+2008,2371,2380,1421,#752277,Financial Managers
+2008,4,4,3425,#d66011,Air Transport Technicians
+2008,1,1,7811,#9edae5,Robotic Operators
+2008,2,2,3182,#d66011,Mechanical Designers
+2008,51,51,5111,#17bcef,Transportation Security
+2008,5384,5401,4141,#b7834b,Stockmen
+2008,6,7,3411,#d66011,Commercial Pilots
+2008,29,31,2233,#cc0000,Veterinarians
+2008,551,551,5173,#17bcef,Security Guards
+2008,42,42,7257,#9edae5,Refrigeration Installers
+2008,45,45,7157,#9edae5,Insulation Workers
+2008,559,559,5231,#17bcef,Product Installers
+2008,591,592,4132,#b7834b,Bank Assistants
+2008,403,403,4201,#b7834b,Public Service Supervisors
+2008,35,35,7301,#9edae5,Electrical Manufacturing Supervisors
+2008,297,298,5241,#17bcef,Door-to-Door Salesmen
+2008,23,23,3143,#d66011,Car Mechanics
+2008,6,6,8231,#ffc41c,Glass Preparation Operators
+2008,48,48,3223,#d66011,Optometrists
+2008,35,35,3111,#d66011,Chemical Technicians
+2008,4,4,2122,#cc0000,Computer Engineers
+2008,230,231,2531,#cc0000,Public Relations
+2008,11,11,2145,#cc0000,Chemical Engineers
+2008,6,6,8484,#ffc41c,Food Tasters
+2008,262,262,1412,#752277,Mining Production Managers
+2008,5,5,7732,#9edae5,Wood Plate Pressing Operators
+2008,51,51,7255,#9edae5,Car Assembly Line Workers
+2008,50490,50686,5211,#17bcef,Vendors
+2008,1,1,2412,#cc0000,Attorneys
+2008,43,43,3751,#d66011,Interior Designers
+2008,7,7,3711,#d66011,Library Technicians
+2008,62,62,7245,#9edae5,Metal Forming Machine Operators
+2008,4,4,5102,#17bcef,Laundry Supervisors
+2008,65,65,7211,#9edae5,Toolmakers
+2008,14,14,1311,#752277,Social Services Directors
+2008,7,7,4231,#b7834b,Customs Brokers
+2008,1,1,3518,#d66011,Investigative Technicians
+2008,64,64,7643,#9edae5,Footwear Finishers
+2008,6,6,9911,#581f05,Railway Maintenance Workers
+2008,18,18,2232,#cc0000,Dentists
+2008,1,1,6313,#105B10,Fish Breeders
+2008,338,338,3141,#d66011,Mechanical Technicians
+2008,5,5,3731,#d66011,Radio Station Technicians
+2008,212,214,2522,#cc0000,Accountants
+2008,1,1,6325,#105B10,Medicinal Species Cultivation
+2008,74,74,7166,#9edae5,Interior Painters
+2008,1,1,8611,#ffc41c,Other Power Distribution Workers
+2008,1,1,8301,#ffc41c,Paper Manufacturing Supervisors
+2008,1,1,8622,#ffc41c,Water Utility Workers
+2008,27,27,1417,#752277,Financial Institution Managers
+2008,6,6,6410,#105B10,Mechanical Agricultural Workers
+2008,3,3,7622,#9edae5,Leather Tanners
+2008,76,76,7731,#9edae5,Wood Cutting Machine Operators
+2008,7,7,3146,#d66011,Metallurgy Technicians
+2008,9,9,1224,#752277,Trade COOs
+2008,1,1,2152,#cc0000,Marine Engineers
+2008,9,9,7686,#9edae5,Typographers
+2008,6,6,3253,#d66011,Biotechnical Technicians
+2008,3,3,2616,#cc0000,Editors
+2008,1,1,3413,#d66011,Maritime Technicians
+2008,5,5,8101,#ffc41c,Chemical Production Supervisors
+2008,1,1,2625,#cc0000,Actors
+2008,1,1,2345,#cc0000,Education Professors
+2008,1,1,3225,#d66011,Orthopedic Prostheses Technicians
+2008,8,8,3183,#d66011,Utility Designers
+2008,38,38,7254,#9edae5,Engine Fitters
+2008,7,7,1112,#752277,Heads of Government
+2008,6,6,2035,#cc0000,Social Sciences Researchers
+2008,826,832,9922,#581f05,Road Maintenance Workers
+2008,89,89,9193,#581f05,Sports Equipment Repairmen
+2008,5,5,6210,#105B10,General Agricultural Workers
+2008,8,8,8113,#ffc41c,Filtration Workers
+2008,21,21,3543,#d66011,Foreign Trade Analysts
+2008,6,6,3713,#d66011,Graphic Designers
+2008,70,70,7652,#9edae5,Leather Manufacturing Workers
+2008,1,1,6130,#105B10,Other Livestock Breeders
+2008,88,88,7213,#9edae5,Metal Polishers
+2008,5,5,7735,#9edae5,CNC Wood Machinists
+2008,56,56,2624,#cc0000,Visual Artists
+2008,1,1,3112,#d66011,Gas Technicians
+2008,5,5,7246,#9edae5,Wire Rope Workers
+2008,58,59,3744,#d66011,Video and Film Editors
+2008,76,76,7313,#9edae5,Telecom Equipment Repairmen
+2008,64,64,7241,#9edae5,Plumbers
+2008,1,1,6222,#105B10,Fibrous Plant Workers
+2008,10,10,4212,#b7834b,Gambling Collectors
+2008,15,15,2149,#cc0000,Production Engineers
+2008,742,742,4142,#b7834b,Production Trainers
+2008,6,6,3181,#d66011,Construction Designers
+2008,11,11,3771,#d66011,Professional Athletes
+2008,106,106,5163,#17bcef,Dry Cleaners
+2008,574,575,7741,#9edae5,Furniture Assemblers
+2008,74,74,7155,#9edae5,Construction Workers
+2008,85,85,7164,#9edae5,Plasterers
+2008,1132,1133,5142,#17bcef,Garbagemen
+2008,45,45,3513,#d66011,Administrative Technicians
+2008,82,82,7411,#9edae5,Precision Instrument Assemblers
+2008,3229,3245,1423,#752277,Marketing Managers
+2008,3,3,2615,#cc0000,Writers
+2008,58,58,3221,#d66011,Alternative Therapy Technicians
+2008,1,1,7523,#9edae5,Potters
+2008,45,45,7102,#9edae5,Construction Supervisors
+2008,1,1,3426,#d66011,Seaport Operations Technicians
+2008,11,11,8233,#ffc41c,Construction Equipment Operators
+2008,1,1,8482,#ffc41c,Craft Dairy Pasteurization Workers
+2008,1,1,3123,#d66011,Geographic Technicians
+2008,3,3,3186,#d66011,Mechanical Design Planners
+2008,6,6,7605,#9edae5,Manufactured Fabrics Supervisors
+2008,11,11,7221,#9edae5,Metal Forging Workers
+2008,1,1,2021,#cc0000,Electromachanical Engineers
+2008,1,1,3424,#d66011,Public Transporation Technicians
+2008,1056,1057,5199,#17bcef,Other Service Workers
+2008,1257,1260,7841,#9edae5,Packing and Labeling Workers
+2008,12,12,5164,#17bcef,Launderers
+2008,1,1,2032,#cc0000,Engineering Researchers
+2008,5566,5596,1414,#752277,Trade Managers
+2008,93,93,7522,#9edae5,Glass Processing Workers
+2008,977,980,5174,#17bcef,Doormen
+2008,1,1,7613,#9edae5,Loom Operators
+2008,112,113,8181,#ffc41c,Industrial Lab Operators
+2008,2,2,3191,#d66011,Clothing Technicians
+2008,1157,1157,5132,#17bcef,Cooks
+2008,15,15,8415,#ffc41c,Dairy Pastuerization Workers
+2008,430,430,3542,#d66011,Buyers
+2008,1,1,6125,#105B10,Fruit Farmers
+2008,1,1,3313,#d66011,Vocational Middle School Teachers
+2008,6,6,3142,#d66011,Tool Technicians
+2008,9,9,3114,#d66011,Plastic and Rubber Technicians
+2008,86,86,6201,#105B10,Agricultural Supervisors
+2008,74,74,8214,#ffc41c,Metal Finishing Operators
+2008,13,13,6231,#105B10,Large Animal Livestock Workers
+2008,1,1,2313,#cc0000,Specialized Elementary School Teachers
+2008,1,1,7231,#9edae5,Metal Heat Treatment Workers
+2008,12,12,2628,#cc0000,Other Dancers
+2008,95,95,7321,#9edae5,Communication Line Repairmen
+2008,1,1,1114,#752277,Public Service Leaders
+2008,30,30,2394,#cc0000,Other Educators
+2008,902,903,4223,#b7834b,Telemarketers
+2008,88,88,7251,#9edae5,Assembly Line Equipment Assemblers
+2008,14,14,7654,#9edae5,Leather Product Finishers
+2008,108,109,7661,#9edae5,Prepress Graphics Workers
+2008,81,81,5101,#17bcef,Hospitality Supervisors
+2008,114,114,7242,#9edae5,Steel Structural Erection Workers
+2008,42,42,3421,#d66011,Transport Logistics Technicians
+2008,4,4,2111,#cc0000,Mathematicians
+2008,107,107,7511,#9edae5,Precious Stone Artisans
+2008,35,35,9151,#581f05,Measuring Instrument Repairmen
+2008,1,1,3772,#d66011,Sports Referees
+2008,37,37,1427,#752277,Project Managers
+2008,4,4,7154,#9edae5,Concrete Machine Operators
+2008,7,7,3341,#d66011,School Inspectors
+2008,32,32,2612,#cc0000,Librarians
+2008,12,12,7223,#9edae5,Metal Molding Workers
+2008,1,1,6131,#105B10,Larger Livestock Breeders
+2008,10,10,6430,#105B10,Irrigation and Drainage Workers
+2008,11,11,3212,#d66011,Foresters
+2008,114,114,7252,#9edae5,Industrial Machine Assemblers
+2008,1,1,2321,#cc0000,High School Teachers
+2008,12792,12843,4211,#b7834b,Non-Bank Tellers
+2008,3,3,8102,#ffc41c,Plastics and Rubber Production Supervisors
+2008,873,874,4131,#b7834b,Accounting Assistants
+2008,44,44,2123,#cc0000,IT Managers
+2008,74,74,3188,#d66011,Product Design Planners
+2008,114,114,3117,#d66011,Colorists
+2008,4,4,7501,#9edae5,Jewelry Supervisors
+2008,638,640,4102,#b7834b,Financial Supervisors
+2008,31,32,2141,#cc0000,Architects and Planners
+2008,145,145,8414,#ffc41c,Food Preservation Workers
+2008,1,1,8413,#ffc41c,Sugar Processing Workers
+2008,880,888,9913,#581f05,Vehicle Bodywork Mechanics
+2008,1,1,3012,#d66011,Bioengineer Technicians
+2008,35,35,3544,#d66011,Auctioneers
+2008,2,2,2344,#cc0000,Health Science Professors
+2008,15,15,8117,#ffc41c,Rubber and Plastics Machine Operators
+2008,1,1,3322,#d66011,Vocational Teachers
+2008,1,1,2131,#cc0000,Physicists
+2008,20,20,7641,#9edae5,Footwear Preparation Workers
+2008,11,11,8417,#ffc41c,Beverage Manufacturing Workers
+2008,127,127,9191,#581f05,Lubricators
+2008,14,14,8212,#ffc41c,Furnace Operators
+2008,10,10,3548,#d66011,Tourism and Event Organizers
+2008,1727,1730,4122,#b7834b,Secretaries
+2008,17,17,2144,#cc0000,Mechanical Engineers
+2008,2,2,2511,#cc0000,Anthropologists
+2008,394,394,2124,#cc0000,Information Analysts
+2008,1,1,3412,#d66011,Fishermen
+2008,162,163,8418,#ffc41c,Pastry Manufacturing Workers
+2008,13,13,3764,#d66011,Models
+2008,5,5,3211,#d66011,Agricultural Technicians
+2008,1,1,6126,#105B10,Fertilizer Farmers
+2008,15,15,7521,#9edae5,Glassblowers
+2008,87,87,3517,#d66011,Insurance Technicians
+2008,15,15,2618,#cc0000,Photographers
+2008,1,1,3201,#d66011,Biological Technicians
+2008,80,80,2525,#cc0000,Financial Analysts
+2008,18,18,8332,#ffc41c,Handmade Paper Product Workers
+2008,7,7,8110,#ffc41c,Generic Chemical Equipment Operators
+2008,64,64,3516,#d66011,Work Safety Technicians
+2008,99,99,3144,#d66011,Machinery Technicians
+2008,1,1,2614,#cc0000,Linguists
+2008,170,170,4151,#b7834b,Scribes
+2008,2,2,7162,#9edae5,Roofers
+2008,13,13,8213,#ffc41c,Laminating Operators
+2008,10,10,3185,#d66011,Construction Design Planners
+2008,10,10,8625,#ffc41c,Refrigeration Workers
+2008,1,1,8121,#ffc41c,Ammunition Manufacturing Workers
+2008,7,7,2627,#cc0000,Musicians
+2008,1,1,3522,#d66011,Health and Environmental Workers
+2008,11,11,7604,#9edae5,Cobbler Supervisors
+2008,14,14,7734,#9edae5,Wood Series Machinery Operators
+2008,175,175,5141,#17bcef,Building Management
+2008,1,1,3163,#d66011,Mining Technicians
+2008,1,1,1113,#752277,Magistrates
+2008,2,2,3192,#d66011,Furniture Technicians
+2008,141,141,8621,#ffc41c,Steam Utility Workers
+2008,17,17,6326,#105B10,Coal Workers
+2008,1,1,3113,#d66011,Glass Technicians
+2008,10,10,3115,#d66011,Water Treatment Technicians
+2008,95,95,3222,#d66011,Nursing Assistants
+2008,17,17,7153,#9edae5,Reinforced Concrete Assemblers
+2008,15,15,3762,#d66011,Circus Artists
+2008,110,111,3515,#d66011,Secretarial Technicians
+2008,2,2,2147,#cc0000,Mining Engineers
+2008,157,157,8481,#ffc41c,Craft Food Preservation Workers
+2008,12,12,7821,#9edae5,Crane Operators
+2008,1,1,6301,#105B10,Forestry and Aquaculture Supervisors
+2008,163,163,4222,#b7834b,Telephone Operators
+2008,97,97,8401,#ffc41c,Food Manufacturing Supervisors
+2008,36,36,2611,#cc0000,Journalists

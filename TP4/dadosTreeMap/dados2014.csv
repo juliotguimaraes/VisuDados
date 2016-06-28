@@ -1,0 +1,489 @@
+year,num_emp,num_jobs,cbo_id,color,name
+2014,1,1,2146,#cc0000,Material Science Engineers
+2014,5,5,3122,#d66011,Infrastructure Technicians
+2014,44,44,5101,#17bcef,Hospitality Supervisors
+2014,2,2,2222,#cc0000,Food Engineers
+2014,1,1,3201,#d66011,Biological Technicians
+2014,8,8,3731,#d66011,Radio Station Technicians
+2014,268,268,2521,#cc0000,Administrators
+2014,1,1,6233,#105B10,Poultry Workers
+2014,1,1,7610,#9edae5,General Textile Workers
+2014,3,3,1234,#752277,Other Directors
+2014,1,1,7771,#9edae5,Naval Carpenters
+2014,8,8,8233,#ffc41c,Construction Equipment Operators
+2014,111,111,8418,#ffc41c,Pastry Manufacturing Workers
+2014,1,1,8415,#ffc41c,Dairy Pastuerization Workers
+2014,44,44,2123,#cc0000,IT Managers
+2014,25,25,1413,#752277,Construction Managers
+2014,10,10,2618,#cc0000,Photographers
+2014,1,1,7650,#9edae5,Other Leather Product Workers
+2014,37,37,3143,#d66011,Car Mechanics
+2014,24,24,2141,#cc0000,Architects and Planners
+2014,1,1,6125,#105B10,Fruit Farmers
+2014,78,78,7411,#9edae5,Precision Instrument Assemblers
+2014,103,103,7662,#9edae5,Printers
+2014,19,19,2149,#cc0000,Production Engineers
+2014,11,11,2346,#cc0000,Language Professors
+2014,1084,1086,5132,#17bcef,Cooks
+2014,948,948,4223,#b7834b,Telemarketers
+2014,1,1,8624,#ffc41c,Gas Utility Workers
+2014,46,46,2612,#cc0000,Librarians
+2014,42,42,2238,#cc0000,Audiologists
+2014,1,1,2321,#cc0000,High School Teachers
+2014,1,1,6131,#105B10,Larger Livestock Breeders
+2014,100,100,7166,#9edae5,Interior Painters
+2014,1,1,9152,#581f05,Musical Instrument Restoration Workers
+2014,25,25,3147,#d66011,Steel Technicians
+2014,5,5,3522,#d66011,Health and Environmental Workers
+2014,118,118,7661,#9edae5,Prepress Graphics Workers
+2014,83,83,9513,#581f05,Security System Technicians
+2014,39,39,2532,#cc0000,Marketing Consutants
+2014,134,134,7633,#9edae5,Embroidery Machine Operators
+2014,1,1,2012,#cc0000,Metrologist
+2014,84,84,7251,#9edae5,Assembly Line Equipment Assemblers
+2014,80,80,3515,#d66011,Secretarial Technicians
+2014,357,361,2522,#cc0000,Accountants
+2014,11,11,6210,#105B10,General Agricultural Workers
+2014,15,15,5172,#17bcef,Police and Civil Guards
+2014,1204,1206,5199,#17bcef,Other Service Workers
+2014,773,774,9913,#581f05,Vehicle Bodywork Mechanics
+2014,1,1,8112,#ffc41c,Chemical Treatment Workers
+2014,10,10,6232,#105B10,Midsize Animal Livestock Workers
+2014,2,2,7523,#9edae5,Potters
+2014,1,1,7621,#9edae5,Leather Preparation Workers
+2014,1,1,5102,#17bcef,Laundry Supervisors
+2014,13,13,6224,#105B10,Flower Culivators
+2014,1,1,2312,#cc0000,General Primary School Teachers
+2014,1136,1138,5174,#17bcef,Doormen
+2014,40,40,3187,#d66011,Electronical Design Planners
+2014,39,39,3543,#d66011,Foreign Trade Analysts
+2014,1,1,2625,#cc0000,Actors
+2014,7,7,7224,#9edae5,Metal Straightening Workers
+2014,80,80,3111,#d66011,Chemical Technicians
+2014,598,599,4102,#b7834b,Financial Supervisors
+2014,43,43,2394,#cc0000,Other Educators
+2014,118,118,7213,#9edae5,Metal Polishers
+2014,80,80,4121,#b7834b,Data Entry Specialists
+2014,9,9,8232,#ffc41c,Glass Manufacturing Operators
+2014,766,766,7741,#9edae5,Furniture Assemblers
+2014,103,103,7522,#9edae5,Glass Processing Workers
+2014,1021,1022,4142,#b7834b,Production Trainers
+2014,1,1,8121,#ffc41c,Ammunition Manufacturing Workers
+2014,1,1,3424,#d66011,Public Transporation Technicians
+2014,77,77,2624,#cc0000,Visual Artists
+2014,4695,4700,1423,#752277,Marketing Managers
+2014,13,13,7223,#9edae5,Metal Molding Workers
+2014,86,86,3188,#d66011,Product Design Planners
+2014,13,13,5151,#17bcef,Health Services Workers
+2014,5,5,3743,#d66011,Projectionists
+2014,9,9,7735,#9edae5,CNC Wood Machinists
+2014,72,72,7102,#9edae5,Construction Supervisors
+2014,2,2,5131,#17bcef,Butlers and Maids
+2014,12,12,2613,#cc0000,Archivists
+2014,107,107,7252,#9edae5,Industrial Machine Assemblers
+2014,108,108,8621,#ffc41c,Steam Utility Workers
+2014,146,146,4151,#b7834b,Scribes
+2014,2,2,6126,#105B10,Fertilizer Farmers
+2014,121,121,7311,#9edae5,Electrical Equipment Assemblers
+2014,2,2,6231,#105B10,Large Animal Livestock Workers
+2014,67,67,9131,#581f05,Heavy Machinery Mechanics
+2014,10,10,5171,#17bcef,Firefighters and Lifeguards
+2014,53,53,3121,#d66011,Building Construction Technicians
+2014,107,107,7245,#9edae5,Metal Forming Machine Operators
+2014,14,14,7253,#9edae5,Heavy Machinery Assemblers
+2014,1,1,7501,#9edae5,Jewelry Supervisors
+2014,604,607,3542,#d66011,Buyers
+2014,117,117,7122,#9edae5,Ornamental Stone Workers
+2014,2,2,7421,#9edae5,Musical Instrument Assemblers
+2014,16742,16767,4211,#b7834b,Non-Bank Tellers
+2014,2,2,9154,#581f05,Camera Repairmen
+2014,16,16,7682,#9edae5,Tissue Makers
+2014,4,4,2122,#cc0000,Computer Engineers
+2014,1,1,6325,#105B10,Medicinal Species Cultivation
+2014,2,2,3212,#d66011,Foresters
+2014,96,96,9511,#581f05,Electrical Maintenance Workers
+2014,1576,1577,4221,#b7834b,Receptionists
+2014,2,2,8213,#ffc41c,Laminating Operators
+2014,137,137,3117,#d66011,Colorists
+2014,4,4,2021,#cc0000,Electromachanical Engineers
+2014,11,11,7732,#9edae5,Wood Plate Pressing Operators
+2014,7,7,3241,#d66011,Radiologists
+2014,158,158,8481,#ffc41c,Craft Food Preservation Workers
+2014,137,137,9191,#581f05,Lubricators
+2014,18,18,6420,#105B10,Forest Mechanization Workers
+2014,2,2,3135,#d66011,Photonics Technicians
+2014,2,2,2347,#cc0000,Humanities Professors
+2014,9,9,3548,#d66011,Tourism and Event Organizers
+2014,15,15,7651,#9edae5,Leather Upholstery Workers
+2014,18,18,2617,#cc0000,Announcers
+2014,2,2,1227,#752277,Financial COOs
+2014,70,70,3544,#d66011,Auctioneers
+2014,1148,1151,4131,#b7834b,Accounting Assistants
+2014,1,1,3114,#d66011,Plastic and Rubber Technicians
+2014,19,19,9143,#581f05,Subway Mechanics
+2014,9,9,3426,#d66011,Seaport Operations Technicians
+2014,1,1,1223,#752277,Construction COOs
+2014,19,19,1426,#752277,R&amp;D Managers
+2014,18,18,7510,#9edae5,Jewelers
+2014,6,6,8484,#ffc41c,Food Tasters
+2014,19,20,1224,#752277,Trade COOs
+2014,68,68,3513,#d66011,Administrative Technicians
+2014,5,5,2616,#cc0000,Editors
+2014,12,12,3250,#d66011,Horticulture Technicians
+2014,2,2,7826,#9edae5,Train Operators
+2014,2,2,5114,#17bcef,Tour Guides
+2014,5,5,2212,#cc0000,Biomedical Scientists
+2014,1620,1624,5191,#17bcef,Couriers
+2014,1748,1748,7832,#9edae5,Movers
+2014,119,119,5243,#17bcef,Street Vendors
+2014,115,115,3751,#d66011,Interior Designers
+2014,5,5,7101,#9edae5,Mineral Extraction Supervisors
+2014,2,2,7111,#9edae5,Solid Mineral Extraction Workers
+2014,1104,1104,3132,#d66011,Electronics Technicians
+2014,19,19,7642,#9edae5,Footwear Assemblers
+2014,22,22,7643,#9edae5,Footwear Finishers
+2014,132,132,7212,#9edae5,Machine Operators
+2014,1,1,2511,#cc0000,Anthropologists
+2014,143,143,8214,#ffc41c,Metal Finishing Operators
+2014,96,96,3516,#d66011,Work Safety Technicians
+2014,133,133,9192,#581f05,Landscapers
+2014,2,2,3714,#d66011,Recruiters
+2014,1,1,3012,#d66011,Bioengineer Technicians
+2014,1,1,6323,#105B10,Fiber and Wax and Oil Extraction Workers
+2014,8,8,8103,#ffc41c,Pharmacuetical Production Supervisors
+2014,2,2,2211,#cc0000,Biologists
+2014,210,210,6220,#105B10,Other Agricultural Support Workers
+2014,5,5,2111,#cc0000,Mathematicians
+2014,18,18,9542,#581f05,Home Appliance Technicians
+2014,17598,17611,4110,#b7834b,Administrative Assistants
+2014,66,66,2512,#cc0000,Economists
+2014,162,162,5242,#17bcef,Kiosk and Stall Vendors
+2014,13,13,3311,#d66011,Early Childhood Teachers
+2014,1,1,7827,#9edae5,Waterway Workers
+2014,123,123,8401,#ffc41c,Food Manufacturing Supervisors
+2014,20,20,7683,#9edae5,Leather and Fur Footwear Workers
+2014,171,171,7242,#9edae5,Steel Structural Erection Workers
+2014,108,108,3133,#d66011,Telecom Technicians
+2014,2,2,2145,#cc0000,Chemical Engineers
+2014,5,5,2526,#cc0000,Security Guards
+2014,23,23,7911,#9edae5,General Artisans
+2014,1546,1546,7825,#9edae5,General Cargo Drivers
+2014,243,243,4222,#b7834b,Telephone Operators
+2014,166,166,7152,#9edae5,Masonry Workers
+2014,33,33,2251,#cc0000,Clinicians
+2014,13,13,3181,#d66011,Construction Designers
+2014,18,18,2544,#cc0000,State and Municipal Tax Collectors
+2014,2,2,7734,#9edae5,Wood Series Machinery Operators
+2014,2,2,6314,#105B10,Fishing Support Workers
+2014,4,4,2253,#cc0000,Doctors in Diagnostics and Therapy
+2014,10,10,7154,#9edae5,Concrete Machine Operators
+2014,8,8,3123,#d66011,Geographic Technicians
+2014,210,210,6201,#105B10,Agricultural Supervisors
+2014,17,17,3142,#d66011,Tool Technicians
+2014,187,187,7250,#9edae5,Other Mechanical Fitters
+2014,3,3,2140,#cc0000,Environmental Engineers
+2014,1,1,1313,#752277,Education Directors
+2014,22,22,7614,#9edae5,Textile Dyers
+2014,12,12,7601,#9edae5,Textile Supervisors
+2014,208,208,3251,#d66011,Pharmacy Technicians
+2014,777,777,2124,#cc0000,Information Analysts
+2014,23,23,8331,#ffc41c,Paper Machinery Operators
+2014,3,3,6225,#105B10,Fruit Farm Workers
+2014,2,2,7811,#9edae5,Robotic Operators
+2014,34,34,2142,#cc0000,Civil Engineers
+2014,3,3,8421,#ffc41c,Other Tobacco Workers
+2014,180,181,3532,#d66011,Bank Technicians
+2014,13,13,2151,#cc0000,Maritime Officials
+2014,2,2,7622,#9edae5,Leather Tanners
+2014,57,57,3547,#d66011,Independent Salesmen
+2014,139,139,3144,#d66011,Machinery Technicians
+2014,198,198,7711,#9edae5,Cabinetmakers
+2014,21,21,7153,#9edae5,Reinforced Concrete Assemblers
+2014,85,85,9102,#581f05,Vehicle Maintenance Supervisors
+2014,12,12,7606,#9edae5,Graphic Production Supervisors
+2014,2,2,3425,#d66011,Air Transport Technicians
+2014,3,3,6430,#105B10,Irrigation and Drainage Workers
+2014,226,226,5141,#17bcef,Building Management
+2014,24,24,7521,#9edae5,Glassblowers
+2014,169,169,7156,#9edae5,Electrical Workers
+2014,2,2,2331,#cc0000,Vocational Teachers
+2014,198,198,5136,#17bcef,Specialty Chefs
+2014,2,2,3711,#d66011,Library Technicians
+2014,3,3,8332,#ffc41c,Handmade Paper Product Workers
+2014,21,21,8117,#ffc41c,Rubber and Plastics Machine Operators
+2014,125,125,3421,#d66011,Transport Logistics Technicians
+2014,19,19,3252,#d66011,Food Production Technicians
+2014,20,20,8111,#ffc41c,Grinding and Mixing Machine Operators
+2014,201,201,3423,#d66011,Road Transport Technicians
+2014,22,22,9141,#581f05,Aircraft Mechanics
+2014,1,1,2112,#cc0000,Statisticians
+2014,16,16,7801,#9edae5,Packing and Labeling Supervisors
+2014,10,10,9503,#581f05,Electromechanical Maintenance Supervisors
+2014,2,2,3253,#d66011,Biotechnical Technicians
+2014,184,184,4213,#b7834b,Billing Collectors
+2014,249,249,5112,#17bcef,Public Transit Attendants
+2014,13,13,3186,#d66011,Mechanical Design Planners
+2014,15,15,3001,#d66011,Mechatronic Technicians
+2014,135,135,3511,#d66011,Accounting Technicians
+2014,3178,3189,5143,#17bcef,Other Building Maintenance Workers
+2014,21,21,7828,#9edae5,Animal-Drawn Vehicle Conductors
+2014,24,24,7653,#9edae5,Leather Machine Operators
+2014,27,27,7664,#9edae5,Photo Lab Technicians
+2014,31,31,3224,#d66011,Dental Technicians
+2014,312,312,7170,#9edae5,Civil Engineering Assistants
+2014,18,18,3242,#d66011,Clinical Pathology Technicians
+2014,1,1,2239,#cc0000,Physical Therapists
+2014,16,16,8202,#ffc41c,Building Material Supervisors
+2014,20,20,7121,#9edae5,Ore Workers
+2014,117,117,9101,#581f05,Industrial Machinery Maintenance Supervisors
+2014,3,3,6120,#105B10,Other Farmers
+2014,2,2,8201,#ffc41c,Steel Production Supervisors
+2014,3,3,7618,#9edae5,Textile Inspectors
+2014,1,1,1232,#752277,Human Resource Directors
+2014,190,190,3221,#d66011,Alternative Therapy Technicians
+2014,14,14,1411,#752277,Agricultural Production Managers
+2014,94,95,2410,#cc0000,Lawyers
+2014,21,21,7721,#9edae5,Wood Preparation Workers
+2014,47,47,2143,#cc0000,Electrical Engineers
+2014,2,2,6230,#105B10,Animal Trainers
+2014,31,31,7211,#9edae5,Toolmakers
+2014,19,19,9151,#581f05,Measuring Instrument Repairmen
+2014,5,5,2147,#cc0000,Mining Engineers
+2014,300,300,7631,#9edae5,Clothing Preparation Workers
+2014,78,78,1427,#752277,Project Managers
+2014,28,28,7751,#9edae5,Wood Finishers
+2014,19,19,7524,#9edae5,Glassware and Ceramic Workers
+2014,322,322,5193,#17bcef,Veternary Service Workers
+2014,5,5,3411,#d66011,Commercial Pilots
+2014,18,18,4231,#b7834b,Customs Brokers
+2014,21,21,3732,#d66011,Camera Operators
+2014,153,155,9111,#581f05,Pump and Motor Mechanics
+2014,199,199,7243,#9edae5,Metal Welders
+2014,22,22,7821,#9edae5,Crane Operators
+2014,13,13,9502,#581f05,Vehicle Electronics Maintenance Supervisors
+2014,31,32,3523,#d66011,Tax Agents
+2014,95,95,2531,#cc0000,Public Relations
+2014,254,254,7241,#9edae5,Plumbers
+2014,18,18,8118,#ffc41c,Pharmacuetical Machinery Operators
+2014,4,4,7231,#9edae5,Metal Heat Treatment Workers
+2014,1389,1391,4101,#b7834b,Administrative Supervisors
+2014,195,195,3222,#d66011,Nursing Assistants
+2014,1,1,1221,#752277,Agricultural COOs
+2014,263,263,7244,#9edae5,Boiler Workers
+2014,342,342,8414,#ffc41c,Food Preservation Workers
+2014,2697,2699,7823,#9edae5,Passenger Vehicle Drivers
+2014,213,213,9531,#581f05,Vehicle Maintenance Electricians
+2014,1019,1034,2234,#cc0000,Pharmacists
+2014,4,4,4152,#b7834b,Postal Workers
+2014,336,336,7632,#9edae5,Stitching Machine Operators
+2014,2,2,3313,#d66011,Vocational Middle School Teachers
+2014,1,1,2631,#cc0000,Religious Professionals
+2014,2,2,3771,#d66011,Professional Athletes
+2014,121,121,3171,#d66011,System Administrators
+2014,35,35,4212,#b7834b,Gambling Collectors
+2014,30,30,2711,#cc0000,Chefs
+2014,1,1,3163,#d66011,Mining Technicians
+2014,6,6,2032,#cc0000,Engineering Researchers
+2014,16,16,1115,#752277,Public Managers
+2014,405,405,5152,#17bcef,Medical Lab Assistants
+2014,5,5,2148,#cc0000,Cartographers and Surveyers
+2014,4366,4369,5134,#17bcef,Restaurant Workers
+2014,3503,3517,8485,#ffc41c,Butchers
+2014,20,20,3185,#d66011,Construction Design Planners
+2014,3,3,6110,#105B10,General Agricultural Workers
+2014,241,241,7822,#9edae5,Cargo Equipment Operators
+2014,442,442,5135,#17bcef,Other Food Service Workers
+2014,10,10,2221,#cc0000,Agricultural Engineers
+2014,4,4,1225,#752277,Hospitality COOs
+2014,3,3,3116,#d66011,Textile Technicians
+2014,29,29,7161,#9edae5,Concrete Coaters
+2014,2,2,2516,#cc0000,Social Workers
+2014,4,4,5164,#17bcef,Launderers
+2014,3811,3826,8483,#ffc41c,Bakers
+2014,44,44,2533,#cc0000,Stockbrokers
+2014,24,24,3011,#d66011,Industrial Lab Technicians
+2014,4,4,8625,#ffc41c,Refrigeration Workers
+2014,331,332,7630,#9edae5,Other Clothing Manufacturing Workers
+2014,3,3,3183,#d66011,Utility Designers
+2014,241,241,2523,#cc0000,Executives
+2014,32,32,3223,#d66011,Optometrists
+2014,43,43,3341,#d66011,School Inspectors
+2014,3,3,8221,#ffc41c,Metal Reheating Operators
+2014,3,3,6223,#105B10,Horticulture Farm Workers
+2014,261,263,3911,#d66011,Industrial Planning Technicians
+2014,4,4,7681,#9edae5,Weavers and Knitters
+2014,3,3,8116,#ffc41c,Coke Equipment Operators
+2014,5,5,8622,#ffc41c,Water Utility Workers
+2014,4,4,7686,#9edae5,Typographers
+2014,404,404,9921,#581f05,Basic Vehicle Mechanics
+2014,17,17,7202,#9edae5,Metal Processing Supervisors
+2014,2,2,3146,#d66011,Metallurgy Technicians
+2014,31,31,7652,#9edae5,Leather Manufacturing Workers
+2014,4,4,8212,#ffc41c,Furnace Operators
+2014,41,41,3514,#d66011,Judicial Clerks
+2014,4,4,8311,#ffc41c,Paper Pulp Manufacturing Workers
+2014,53,53,1210,#752277,CEOs
+2014,3022,3029,9144,#581f05,Car Mechanics
+2014,3,3,3951,#d66011,Technical Support in Research and Development
+2014,42,42,2144,#cc0000,Mechanical Engineers
+2014,38,38,3744,#d66011,Video and Film Editors
+2014,31,31,7112,#9edae5,Mineral Extraction Machinery Operators
+2014,3,3,7401,#9edae5,Instrument Assembly Supervisors
+2014,453,453,9922,#581f05,Road Maintenance Workers
+2014,4,4,7113,#9edae5,Liquid and Gas Extraction Workers
+2014,208,210,2524,#cc0000,Human Resources Professionals
+2014,6,6,3772,#d66011,Sports Referees
+2014,258,259,3912,#d66011,Production Control Technicians
+2014,14,14,2236,#cc0000,Physiotherapists
+2014,6,6,1144,#752277,Non-Profit Organization Directors
+2014,29,29,3184,#d66011,Technical Product Designers
+2014,4,4,8417,#ffc41c,Beverage Manufacturing Workers
+2014,269,269,1415,#752277,Hospitality Managers
+2014,6,6,7654,#9edae5,Leather Product Finishers
+2014,56,56,3722,#d66011,Teleprocessing Technicians
+2014,18,18,9153,#581f05,Biomedical Equipment Repairmen
+2014,204,204,2525,#cc0000,Financial Analysts
+2014,1619,1625,5201,#17bcef,Sales Supervisors
+2014,37,37,7733,#9edae5,Other Wood Machining Operators
+2014,417,417,3517,#d66011,Insurance Technicians
+2014,47,47,7313,#9edae5,Telecom Equipment Repairmen
+2014,22,22,2515,#cc0000,Psychologists
+2014,44,44,7255,#9edae5,Car Assembly Line Workers
+2014,5,5,2628,#cc0000,Other Dancers
+2014,9,9,2252,#cc0000,Surgeons
+2014,14,14,2232,#cc0000,Dentists
+2014,6,6,8231,#ffc41c,Glass Preparation Operators
+2014,50,50,7663,#9edae5,Print Finishers
+2014,313,314,3131,#d66011,Electricians and Electrical Engineers
+2014,325,325,9113,#581f05,Industrial Machine Maintenance Workers
+2014,6,6,8321,#ffc41c,Paper and Cardboard Manufacturing Workers
+2014,4,4,7612,#9edae5,Textile Wiring Workers
+2014,5,5,7232,#9edae5,Thermochemical Metal Workers
+2014,3034,3034,3541,#d66011,Sales Specialist
+2014,1,1,2623,#cc0000,Scenographers
+2014,5,5,3721,#d66011,Cinematography Technicians
+2014,15,15,1312,#752277,Health Service Directors
+2014,444,444,7163,#9edae5,Glaziers
+2014,23,23,7301,#9edae5,Electrical Manufacturing Supervisors
+2014,3,3,1237,#752277,R&amp;D Directors
+2014,55,55,5111,#17bcef,Transportation Security
+2014,23,23,8601,#ffc41c,Utility Supervisors
+2014,32,32,7254,#9edae5,Engine Fitters
+2014,5,5,5153,#17bcef,High Risk Care Workers
+2014,52,52,3741,#d66011,Audio Technicians
+2014,3,3,7502,#9edae5,Glass and Ceramic Supervisors
+2014,41,41,7603,#9edae5,Clothing Manufacturing Supervisors
+2014,3,3,8102,#ffc41c,Plastics and Rubber Production Supervisors
+2014,620,620,4132,#b7834b,Bank Assistants
+2014,6,6,8113,#ffc41c,Filtration Workers
+2014,400,403,7233,#9edae5,Metal Equipment Painters
+2014,5,5,5165,#17bcef,Funeral Service Workers
+2014,17,17,1311,#752277,Social Services Directors
+2014,9,9,6321,#105B10,Lumberjacks
+2014,4,4,9911,#581f05,Railway Maintenance Workers
+2014,36,36,9541,#581f05,Elevator Technicians
+2014,118,118,1425,#752277,IT Managers
+2014,105,106,1231,#752277,Administrative and Financial Officers
+2014,11,11,1236,#752277,Computer Service Officers
+2014,28,28,3180,#d66011,Technical Designers
+2014,49,49,9543,#581f05,Office Equipment Technicians
+2014,35,35,2611,#cc0000,Journalists
+2014,66,66,5192,#17bcef,Recycling Collectors
+2014,5,5,3211,#d66011,Agricultural Technicians
+2014,28,28,9501,#581f05,Industrial Electrical Maintenance Supervisors
+2014,720,720,7842,#9edae5,Production Line Feeders
+2014,352,353,3141,#d66011,Mechanical Technicians
+2014,6,6,6124,#105B10,Flower Farmers
+2014,544,544,5231,#17bcef,Product Installers
+2014,61,64,1233,#752277,Sales and Marketing Directors
+2014,62,62,7731,#9edae5,Wood Cutting Machine Operators
+2014,435,435,4201,#b7834b,Public Service Supervisors
+2014,3,3,3322,#d66011,Vocational Teachers
+2014,22,23,2235,#cc0000,Nurses
+2014,5,5,3764,#d66011,Models
+2014,251,251,1416,#752277,Transportation Managers
+2014,46,46,8131,#ffc41c,Chemical Processing Workers
+2014,4,4,3182,#d66011,Mechanical Designers
+2014,85,85,8181,#ffc41c,Industrial Lab Operators
+2014,45,45,7165,#9edae5,Floor Finishers
+2014,67,67,5163,#17bcef,Dry Cleaners
+2014,8,8,7604,#9edae5,Cobbler Supervisors
+2014,8,8,6326,#105B10,Coal Workers
+2014,253,253,1424,#752277,Supply Managers
+2014,5,5,8623,#ffc41c,Sewage Workers
+2014,8,8,5162,#17bcef,Caregivers
+2014,6,6,7312,#9edae5,Telecom Equipment Assemblers
+2014,6,6,7687,#9edae5,Bookbinders
+2014,3064,3069,1421,#752277,Financial Managers
+2014,236,239,1422,#752277,Human Resource Managers
+2014,55,55,7157,#9edae5,Insulation Workers
+2014,4,4,9142,#581f05,Marine Equipment Maintenance 
+2014,52,52,7257,#9edae5,Refrigeration Installers
+2014,7,7,6322,#105B10,Gums and Resins Extraction Workers
+2014,3,3,8110,#ffc41c,Generic Chemical Equipment Operators
+2014,4,4,3545,#d66011,Insurance Agents
+2014,2,2,7256,#9edae5,Aircraft Assemblers
+2014,444,444,3172,#d66011,Computer Technicians
+2014,5,5,6410,#105B10,Mechanical Agricultural Workers
+2014,7,7,3422,#d66011,Customs Brokes
+2014,14,14,7641,#9edae5,Footwear Preparation Workers
+2014,38,38,2332,#cc0000,Vocational Instructors
+2014,3,3,7602,#9edae5,Tanning Supervisors
+2014,63,64,7831,#9edae5,Train Workers
+2014,7220,7229,4141,#b7834b,Stockmen
+2014,1,1,6221,#105B10,Landscapers
+2014,60133,60241,5211,#17bcef,Vendors
+2014,65,65,7321,#9edae5,Communication Line Repairmen
+2014,1,1,6128,#105B10,Spice Farmers
+2014,1,1,3413,#d66011,Maritime Technicians
+2014,4,4,6301,#105B10,Forestry and Aquaculture Supervisors
+2014,3,3,2132,#cc0000,Chemists
+2014,62,62,7824,#9edae5,Public Transit Driver
+2014,770,772,5173,#17bcef,Security Guards
+2014,32,32,7201,#9edae5,Metal Machining Supervisors
+2014,6,6,8411,#ffc41c,Grains Processing Workers
+2014,50,50,3134,#d66011,Instrumentation Technicians
+2014,6,6,1226,#752277,Storage and Transport COOs
+2014,983,983,4122,#b7834b,Secretaries
+2014,67,68,9112,#581f05,HVAC Maintenance Workers
+2014,989,990,5142,#17bcef,Garbagemen
+2014,1,1,3524,#d66011,Copyright Specialists
+2014,1,1,8416,#ffc41c,Coffee and Tea Workers
+2014,72,72,7222,#9edae5,Metal Smelting Workers
+2014,59,59,xxxx,#C7C7C7,Unreported
+2014,90,90,9193,#581f05,Sports Equipment Repairmen
+2014,4,4,1238,#752277,Maintenance Officers
+2014,48,48,7214,#9edae5,CNC Machinists
+2014,33,33,2629,#cc0000,Interior Designer
+2014,7,7,7221,#9edae5,Metal Forging Workers
+2014,80,80,7164,#9edae5,Plasterers
+2014,73,73,5161,#17bcef,Beauty Workers
+2014,54,54,7701,#9edae5,Carpentry Supervisors
+2014,9,9,2153,#cc0000,Pilots
+2014,1,1,8482,#ffc41c,Craft Dairy Pasteurization Workers
+2014,1,1,8611,#ffc41c,Other Power Distribution Workers
+2014,43,43,2237,#cc0000,Nutritionists
+2014,11,11,2241,#cc0000,Gym Teachers
+2014,8,8,7623,#9edae5,Leather Finishers
+2014,7,7,7605,#9edae5,Manufactured Fabrics Supervisors
+2014,40,40,5103,#17bcef,Security Supervisors
+2014,403,403,1412,#752277,Mining Production Managers
+2014,68,68,7155,#9edae5,Construction Workers
+2014,67,67,3331,#d66011,Free Course Instructors
+2014,1,1,5133,#17bcef,Housekeepers
+2014,522,522,5241,#17bcef,Door-to-Door Salesmen
+2014,5,5,7640,#9edae5,Other Footwear Manufacturing Workers
+2014,41,41,2233,#cc0000,Veterinarians
+2014,6,6,4241,#b7834b,Interviewers and Census Takers
+2014,2,2,1222,#752277,Mining and Quarrying COOs
+2014,5,5,8101,#ffc41c,Chemical Production Supervisors
+2014,54,54,3003,#d66011,Electromechanical Technicians
+2014,72,72,7511,#9edae5,Precious Stone Artisans
+2014,31,31,1417,#752277,Financial Institution Managers
+2014,65,65,7151,#9edae5,Excavators
+2014,3991,4032,1414,#752277,Trade Managers
+2014,4,4,3115,#d66011,Water Treatment Technicians
+2014,6,6,3713,#d66011,Graphic Designers
+2014,5,5,7246,#9edae5,Wire Rope Workers
+2014,1173,1176,7841,#9edae5,Packing and Labeling Workers
+2014,9,9,2543,#cc0000,Labor Inspectors

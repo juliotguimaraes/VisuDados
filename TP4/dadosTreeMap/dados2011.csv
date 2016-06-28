@@ -1,0 +1,485 @@
+year,num_emp,num_jobs,cbo_id,color,name
+2011,1,1,8415,#ffc41c,Dairy Pastuerization Workers
+2011,4190,4197,1423,#752277,Marketing Managers
+2011,5,5,3186,#d66011,Mechanical Design Planners
+2011,12,12,7682,#9edae5,Tissue Makers
+2011,77,77,5101,#17bcef,Hospitality Supervisors
+2011,108,108,7252,#9edae5,Industrial Machine Assemblers
+2011,504,504,3542,#d66011,Buyers
+2011,45,45,3121,#d66011,Building Construction Technicians
+2011,40,40,3544,#d66011,Auctioneers
+2011,797,798,7741,#9edae5,Furniture Assemblers
+2011,10,10,6410,#105B10,Mechanical Agricultural Workers
+2011,14,14,7734,#9edae5,Wood Series Machinery Operators
+2011,157,157,5135,#17bcef,Other Food Service Workers
+2011,48,48,2123,#cc0000,IT Managers
+2011,912,915,9913,#581f05,Vehicle Bodywork Mechanics
+2011,94,94,2624,#cc0000,Visual Artists
+2011,46,46,3180,#d66011,Technical Designers
+2011,2,2,2032,#cc0000,Engineering Researchers
+2011,128,128,3117,#d66011,Colorists
+2011,68,68,7214,#9edae5,CNC Machinists
+2011,120,120,7411,#9edae5,Precision Instrument Assemblers
+2011,49,49,3513,#d66011,Administrative Technicians
+2011,15448,15472,4211,#b7834b,Non-Bank Tellers
+2011,151,151,4151,#b7834b,Scribes
+2011,129,129,9191,#581f05,Lubricators
+2011,34,34,xxxx,#C7C7C7,Unreported
+2011,122,122,7522,#9edae5,Glass Processing Workers
+2011,11,11,8213,#ffc41c,Laminating Operators
+2011,151,151,7164,#9edae5,Plasterers
+2011,4,4,9503,#581f05,Electromechanical Maintenance Supervisors
+2011,2,2,3524,#d66011,Copyright Specialists
+2011,1,1,8116,#ffc41c,Coke Equipment Operators
+2011,1,1,6325,#105B10,Medicinal Species Cultivation
+2011,26,26,7201,#9edae5,Metal Machining Supervisors
+2011,2,2,9914,#581f05,Building Maintenance Workers
+2011,2,2,6225,#105B10,Fruit Farm Workers
+2011,14,14,6210,#105B10,General Agricultural Workers
+2011,12,12,8117,#ffc41c,Rubber and Plastics Machine Operators
+2011,7,8,3426,#d66011,Seaport Operations Technicians
+2011,12,12,1224,#752277,Trade COOs
+2011,151,151,8481,#ffc41c,Craft Food Preservation Workers
+2011,1,1,8301,#ffc41c,Paper Manufacturing Supervisors
+2011,1146,1148,4131,#b7834b,Accounting Assistants
+2011,78,78,3421,#d66011,Transport Logistics Technicians
+2011,10,10,7732,#9edae5,Wood Plate Pressing Operators
+2011,42,42,2512,#cc0000,Economists
+2011,12,12,7604,#9edae5,Cobbler Supervisors
+2011,16,16,3762,#d66011,Circus Artists
+2011,108,108,4121,#b7834b,Data Entry Specialists
+2011,561,561,2124,#cc0000,Information Analysts
+2011,8,8,8103,#ffc41c,Pharmacuetical Production Supervisors
+2011,6,6,3114,#d66011,Plastic and Rubber Technicians
+2011,130,130,7245,#9edae5,Metal Forming Machine Operators
+2011,2,2,3413,#d66011,Maritime Technicians
+2011,70,70,7102,#9edae5,Construction Supervisors
+2011,1,1,3546,#d66011,Realtors
+2011,1,1,2011,#cc0000,Biotechnologist
+2011,96,96,3188,#d66011,Product Design Planners
+2011,16,16,3250,#d66011,Horticulture Technicians
+2011,15,15,8118,#ffc41c,Pharmacuetical Machinery Operators
+2011,2,2,6120,#105B10,Other Farmers
+2011,115,115,3221,#d66011,Alternative Therapy Technicians
+2011,15,15,2544,#cc0000,State and Municipal Tax Collectors
+2011,65,65,2611,#cc0000,Journalists
+2011,109,109,3515,#d66011,Secretarial Technicians
+2011,7,7,3743,#d66011,Projectionists
+2011,15,15,6314,#105B10,Fishing Support Workers
+2011,222,222,5121,#17bcef,Domestic Service Workers
+2011,19,19,7721,#9edae5,Wood Preparation Workers
+2011,11,11,9151,#581f05,Measuring Instrument Repairmen
+2011,18,18,7642,#9edae5,Footwear Assemblers
+2011,135,135,8214,#ffc41c,Metal Finishing Operators
+2011,15,15,7253,#9edae5,Heavy Machinery Assemblers
+2011,140,140,7122,#9edae5,Ornamental Stone Workers
+2011,209,209,7633,#9edae5,Embroidery Machine Operators
+2011,78,78,3547,#d66011,Independent Salesmen
+2011,1,1,3771,#d66011,Professional Athletes
+2011,8,8,3241,#d66011,Radiologists
+2011,1720,1721,4221,#b7834b,Receptionists
+2011,19,19,7521,#9edae5,Glassblowers
+2011,2,2,2321,#cc0000,High School Teachers
+2011,206,206,6220,#105B10,Other Agricultural Support Workers
+2011,20,20,9542,#581f05,Home Appliance Technicians
+2011,13,13,3142,#d66011,Tool Technicians
+2011,1,1,2422,#cc0000,Public Ministry
+2011,1,1,2631,#cc0000,Religious Professionals
+2011,2140,2145,7832,#9edae5,Movers
+2011,26,26,5133,#17bcef,Housekeepers
+2011,20,20,6321,#105B10,Lumberjacks
+2011,17,17,8212,#ffc41c,Furnace Operators
+2011,2015,2019,5191,#17bcef,Couriers
+2011,94,94,9131,#581f05,Heavy Machinery Mechanics
+2011,44,44,2532,#cc0000,Marketing Consutants
+2011,23,23,7683,#9edae5,Leather and Fur Footwear Workers
+2011,162,162,7711,#9edae5,Cabinetmakers
+2011,19,19,8331,#ffc41c,Paper Machinery Operators
+2011,153,153,7311,#9edae5,Electrical Equipment Assemblers
+2011,1,1,3545,#d66011,Insurance Agents
+2011,98,98,3517,#d66011,Insurance Technicians
+2011,17216,17251,4110,#b7834b,Administrative Assistants
+2011,1234,1236,3132,#d66011,Electronics Technicians
+2011,1474,1475,7825,#9edae5,General Cargo Drivers
+2011,117,117,8401,#ffc41c,Food Manufacturing Supervisors
+2011,240,241,5112,#17bcef,Public Transit Attendants
+2011,18,18,8113,#ffc41c,Filtration Workers
+2011,205,205,3251,#d66011,Pharmacy Technicians
+2011,4,4,9109,#581f05,Other Maintenance Supervisors
+2011,5,5,2147,#cc0000,Mining Engineers
+2011,201,201,8621,#ffc41c,Steam Utility Workers
+2011,144,144,7212,#9edae5,Machine Operators
+2011,20,20,7510,#9edae5,Jewelers
+2011,14,14,7605,#9edae5,Manufactured Fabrics Supervisors
+2011,23,23,3514,#d66011,Judicial Clerks
+2011,2,2,8624,#ffc41c,Gas Utility Workers
+2011,20,20,7828,#9edae5,Animal-Drawn Vehicle Conductors
+2011,18,18,2533,#cc0000,Stockbrokers
+2011,106,107,3516,#d66011,Work Safety Technicians
+2011,21,21,2617,#cc0000,Announcers
+2011,21,21,1411,#752277,Agricultural Production Managers
+2011,7,7,2122,#cc0000,Computer Engineers
+2011,187,187,5161,#17bcef,Beauty Workers
+2011,2785,2794,5143,#17bcef,Other Building Maintenance Workers
+2011,3,3,7622,#9edae5,Leather Tanners
+2011,8,8,3211,#d66011,Agricultural Technicians
+2011,1,1,6323,#105B10,Fiber and Wax and Oil Extraction Workers
+2011,166,166,3423,#d66011,Road Transport Technicians
+2011,17,17,3184,#d66011,Technical Product Designers
+2011,166,166,7822,#9edae5,Cargo Equipment Operators
+2011,11,11,3181,#d66011,Construction Designers
+2011,3,3,2543,#cc0000,Labor Inspectors
+2011,178,178,3532,#d66011,Bank Technicians
+2011,6,6,2616,#cc0000,Editors
+2011,3,3,9142,#581f05,Marine Equipment Maintenance 
+2011,2,2,9912,#581f05,Amusement Park Maintenance Workers
+2011,3,3,7623,#9edae5,Leather Finishers
+2011,23,23,7614,#9edae5,Textile Dyers
+2011,130,130,3133,#d66011,Telecom Technicians
+2011,22,22,7653,#9edae5,Leather Machine Operators
+2011,14,15,3001,#d66011,Mechatronic Technicians
+2011,22,22,2613,#cc0000,Archivists
+2011,2,2,7612,#9edae5,Textile Wiring Workers
+2011,17,17,4231,#b7834b,Customs Brokers
+2011,23,23,8311,#ffc41c,Paper Pulp Manufacturing Workers
+2011,65,65,2410,#cc0000,Lawyers
+2011,146,146,3222,#d66011,Nursing Assistants
+2011,3,3,3424,#d66011,Public Transporation Technicians
+2011,43,44,2251,#cc0000,Clinicians
+2011,292,293,8414,#ffc41c,Food Preservation Workers
+2011,17,17,7524,#9edae5,Glassware and Ceramic Workers
+2011,2,2,8416,#ffc41c,Coffee and Tea Workers
+2011,258,258,5141,#17bcef,Building Management
+2011,86,86,9102,#581f05,Vehicle Maintenance Supervisors
+2011,17,17,8411,#ffc41c,Grains Processing Workers
+2011,12,12,3252,#d66011,Food Production Technicians
+2011,282,282,5193,#17bcef,Veternary Service Workers
+2011,1,1,3012,#d66011,Bioengineer Technicians
+2011,26,26,7651,#9edae5,Leather Upholstery Workers
+2011,11,11,1236,#752277,Computer Service Officers
+2011,26,26,8111,#ffc41c,Grinding and Mixing Machine Operators
+2011,219,219,7152,#9edae5,Masonry Workers
+2011,18,18,8232,#ffc41c,Glass Manufacturing Operators
+2011,270,270,4222,#b7834b,Telephone Operators
+2011,3,3,5131,#17bcef,Butlers and Maids
+2011,48,48,2143,#cc0000,Electrical Engineers
+2011,3,3,2132,#cc0000,Chemists
+2011,22,22,7121,#9edae5,Ore Workers
+2011,220,220,7156,#9edae5,Electrical Workers
+2011,26,26,7824,#9edae5,Public Transit Driver
+2011,147,147,2525,#cc0000,Financial Analysts
+2011,1,1,1144,#752277,Non-Profit Organization Directors
+2011,3,3,1313,#752277,Education Directors
+2011,2,2,1232,#752277,Human Resource Directors
+2011,2,2,6124,#105B10,Flower Farmers
+2011,5,5,7681,#9edae5,Weavers and Knitters
+2011,3,3,7764,#9edae5,Carpenters
+2011,2848,2853,8485,#ffc41c,Butchers
+2011,3,3,8622,#ffc41c,Water Utility Workers
+2011,41,41,2142,#cc0000,Civil Engineers
+2011,156,157,3511,#d66011,Accounting Technicians
+2011,106,106,9101,#581f05,Industrial Machinery Maintenance Supervisors
+2011,4,4,5162,#17bcef,Caregivers
+2011,217,218,7250,#9edae5,Other Mechanical Fitters
+2011,3,3,7613,#9edae5,Loom Operators
+2011,23,23,7751,#9edae5,Wood Finishers
+2011,162,162,9111,#581f05,Pump and Motor Mechanics
+2011,3,3,5102,#17bcef,Laundry Supervisors
+2011,5,5,2148,#cc0000,Cartographers and Surveyers
+2011,22,22,5171,#17bcef,Firefighters and Lifeguards
+2011,1,1,8102,#ffc41c,Plastics and Rubber Production Supervisors
+2011,93,93,1427,#752277,Project Managers
+2011,3,3,2623,#cc0000,Scenographers
+2011,244,244,7244,#9edae5,Boiler Workers
+2011,24,24,7211,#9edae5,Toolmakers
+2011,1,1,1234,#752277,Other Directors
+2011,33,33,7643,#9edae5,Footwear Finishers
+2011,1,1,2349,#cc0000,Art Professors
+2011,38,38,5192,#17bcef,Recycling Collectors
+2011,175,175,9511,#581f05,Electrical Maintenance Workers
+2011,20,20,7821,#9edae5,Crane Operators
+2011,158,158,3144,#d66011,Machinery Technicians
+2011,34,34,7664,#9edae5,Photo Lab Technicians
+2011,24,24,7735,#9edae5,CNC Wood Machinists
+2011,902,915,2234,#cc0000,Pharmacists
+2011,3,3,6223,#105B10,Horticulture Farm Workers
+2011,223,223,4213,#b7834b,Billing Collectors
+2011,194,194,1415,#752277,Hospitality Managers
+2011,148,148,3171,#d66011,System Administrators
+2011,4,4,2145,#cc0000,Chemical Engineers
+2011,26,26,9143,#581f05,Subway Mechanics
+2011,1,1,6125,#105B10,Fruit Farmers
+2011,27,27,9141,#581f05,Aircraft Mechanics
+2011,314,314,5243,#17bcef,Street Vendors
+2011,8,8,2221,#cc0000,Agricultural Engineers
+2011,1378,1381,4101,#b7834b,Administrative Supervisors
+2011,233,233,7242,#9edae5,Steel Structural Erection Workers
+2011,183,183,9192,#581f05,Landscapers
+2011,39,39,3224,#d66011,Dental Technicians
+2011,27,27,9543,#581f05,Office Equipment Technicians
+2011,12,12,7606,#9edae5,Graphic Production Supervisors
+2011,2712,2718,7823,#9edae5,Passenger Vehicle Drivers
+2011,4,4,8611,#ffc41c,Other Power Distribution Workers
+2011,234,236,5242,#17bcef,Kiosk and Stall Vendors
+2011,35,35,7223,#9edae5,Metal Molding Workers
+2011,35,35,3523,#d66011,Tax Agents
+2011,30,30,3311,#d66011,Early Childhood Teachers
+2011,19,19,7154,#9edae5,Concrete Machine Operators
+2011,5,5,6230,#105B10,Animal Trainers
+2011,369,372,7631,#9edae5,Clothing Preparation Workers
+2011,3,3,8417,#ffc41c,Beverage Manufacturing Workers
+2011,27,27,3011,#d66011,Industrial Lab Technicians
+2011,3,3,7523,#9edae5,Potters
+2011,4492,4495,5134,#17bcef,Restaurant Workers
+2011,15,15,2515,#cc0000,Psychologists
+2011,19,19,3185,#d66011,Construction Design Planners
+2011,227,227,9531,#581f05,Vehicle Maintenance Electricians
+2011,10,10,7111,#9edae5,Solid Mineral Extraction Workers
+2011,24,24,7801,#9edae5,Packing and Labeling Supervisors
+2011,1,1,2614,#cc0000,Linguists
+2011,4,4,1225,#752277,Hospitality COOs
+2011,231,231,3912,#d66011,Production Control Technicians
+2011,26,26,7112,#9edae5,Mineral Extraction Machinery Operators
+2011,21,21,3732,#d66011,Camera Operators
+2011,3862,3872,8483,#ffc41c,Bakers
+2011,1,1,2012,#cc0000,Metrologist
+2011,2,2,3147,#d66011,Steel Technicians
+2011,30,30,3741,#d66011,Audio Technicians
+2011,15,15,2151,#cc0000,Maritime Officials
+2011,15,15,9502,#581f05,Vehicle Electronics Maintenance Supervisors
+2011,14,14,2236,#cc0000,Physiotherapists
+2011,31,31,7153,#9edae5,Reinforced Concrete Assemblers
+2011,3,3,2615,#cc0000,Writers
+2011,2,2,3183,#d66011,Utility Designers
+2011,15,15,7202,#9edae5,Metal Processing Supervisors
+2011,19,19,3242,#d66011,Clinical Pathology Technicians
+2011,258,258,2523,#cc0000,Executives
+2011,417,417,9921,#581f05,Basic Vehicle Mechanics
+2011,473,473,7170,#9edae5,Civil Engineering Assistants
+2011,185,185,2524,#cc0000,Human Resources Professionals
+2011,373,374,7630,#9edae5,Other Clothing Manufacturing Workers
+2011,30,30,5103,#17bcef,Security Supervisors
+2011,272,272,7243,#9edae5,Metal Welders
+2011,18,18,3123,#d66011,Geographic Technicians
+2011,36,36,2144,#cc0000,Mechanical Engineers
+2011,429,430,7632,#9edae5,Stitching Machine Operators
+2011,4,4,3951,#d66011,Technical Support in Research and Development
+2011,44,44,1233,#752277,Sales and Marketing Directors
+2011,153,153,1416,#752277,Transportation Managers
+2011,1390,1395,5201,#17bcef,Sales Supervisors
+2011,5,5,3115,#d66011,Water Treatment Technicians
+2011,3055,3061,9144,#581f05,Car Mechanics
+2011,15,15,3122,#d66011,Infrastructure Technicians
+2011,123,123,1210,#752277,CEOs
+2011,5,5,1237,#752277,R&amp;D Directors
+2011,312,312,3172,#d66011,Computer Technicians
+2011,34,34,7733,#9edae5,Other Wood Machining Operators
+2011,512,512,7842,#9edae5,Production Line Feeders
+2011,39,39,7165,#9edae5,Floor Finishers
+2011,39,39,7161,#9edae5,Concrete Coaters
+2011,38,38,3134,#d66011,Instrumentation Technicians
+2011,6,6,8233,#ffc41c,Construction Equipment Operators
+2011,37,37,7652,#9edae5,Leather Manufacturing Workers
+2011,2460,2463,3541,#d66011,Sales Specialist
+2011,37,37,7603,#9edae5,Clothing Manufacturing Supervisors
+2011,2,2,2239,#cc0000,Physical Therapists
+2011,51,51,5111,#17bcef,Transportation Security
+2011,422,422,7163,#9edae5,Glaziers
+2011,6,6,6420,#105B10,Forest Mechanization Workers
+2011,33,33,7701,#9edae5,Carpentry Supervisors
+2011,345,345,3911,#d66011,Industrial Planning Technicians
+2011,30,30,7254,#9edae5,Engine Fitters
+2011,49,49,7731,#9edae5,Wood Cutting Machine Operators
+2011,6,6,7654,#9edae5,Leather Product Finishers
+2011,114,115,1425,#752277,IT Managers
+2011,2,2,2511,#cc0000,Anthropologists
+2011,47,47,7257,#9edae5,Refrigeration Installers
+2011,23,23,2629,#cc0000,Interior Designer
+2011,5,7,3411,#d66011,Commercial Pilots
+2011,6,6,6430,#105B10,Irrigation and Drainage Workers
+2011,6,6,3146,#d66011,Metallurgy Technicians
+2011,4,4,6231,#105B10,Large Animal Livestock Workers
+2011,7,7,7618,#9edae5,Textile Inspectors
+2011,4,4,2621,#cc0000,Producers
+2011,49,49,7831,#9edae5,Train Workers
+2011,615,615,5152,#17bcef,Medical Lab Assistants
+2011,2,2,2253,#cc0000,Doctors in Diagnostics and Therapy
+2011,7,7,6322,#105B10,Gums and Resins Extraction Workers
+2011,1,1,3112,#d66011,Gas Technicians
+2011,21,21,8601,#ffc41c,Utility Supervisors
+2011,278,278,3131,#d66011,Electricians and Electrical Engineers
+2011,44,44,3223,#d66011,Optometrists
+2011,3,3,7401,#9edae5,Instrument Assembly Supervisors
+2011,45,45,7321,#9edae5,Communication Line Repairmen
+2011,194,197,1422,#752277,Human Resource Managers
+2011,51,51,7663,#9edae5,Print Finishers
+2011,8,8,2241,#cc0000,Gym Teachers
+2011,354,354,9113,#581f05,Industrial Machine Maintenance Workers
+2011,27,27,2332,#cc0000,Vocational Instructors
+2011,2,2,2212,#cc0000,Biomedical Scientists
+2011,22,22,1312,#752277,Health Service Directors
+2011,22,22,2235,#cc0000,Nurses
+2011,11,11,7101,#9edae5,Mineral Extraction Supervisors
+2011,1,1,8421,#ffc41c,Other Tobacco Workers
+2011,25,25,2612,#cc0000,Librarians
+2011,6,6,8482,#ffc41c,Craft Dairy Pasteurization Workers
+2011,5,5,7827,#9edae5,Waterway Workers
+2011,16,16,2232,#cc0000,Dentists
+2011,26,27,2233,#cc0000,Veterinarians
+2011,220,220,1424,#752277,Supply Managers
+2011,6,6,2153,#cc0000,Pilots
+2011,8,8,8332,#ffc41c,Handmade Paper Product Workers
+2011,417,418,7233,#9edae5,Metal Equipment Painters
+2011,8,8,6326,#105B10,Coal Workers
+2011,17,17,1311,#752277,Social Services Directors
+2011,2,2,7224,#9edae5,Metal Straightening Workers
+2011,449,449,4201,#b7834b,Public Service Supervisors
+2011,3,3,2346,#cc0000,Language Professors
+2011,1,1,3161,#d66011,Geology Workers
+2011,4,4,8101,#ffc41c,Chemical Production Supervisors
+2011,5,5,2628,#cc0000,Other Dancers
+2011,5,5,8201,#ffc41c,Steel Production Supervisors
+2011,40,40,9541,#581f05,Elevator Technicians
+2011,321,321,1412,#752277,Mining Production Managers
+2011,27,27,9501,#581f05,Industrial Electrical Maintenance Supervisors
+2011,2831,2844,1421,#752277,Financial Managers
+2011,600,601,5231,#17bcef,Product Installers
+2011,53,53,7255,#9edae5,Car Assembly Line Workers
+2011,15,15,2141,#cc0000,Architects and Planners
+2011,3,3,3191,#d66011,Clothing Technicians
+2011,9,9,3422,#d66011,Customs Brokes
+2011,7,7,7686,#9edae5,Typographers
+2011,5,5,8211,#ffc41c,Sinter Operators
+2011,12,12,2252,#cc0000,Surgeons
+2011,1,1,6221,#105B10,Landscapers
+2011,54,54,3744,#d66011,Video and Film Editors
+2011,1,1,7421,#9edae5,Musical Instrument Assemblers
+2011,3,3,3113,#d66011,Glass Technicians
+2011,33,33,7301,#9edae5,Electrical Manufacturing Supervisors
+2011,354,354,3141,#d66011,Mechanical Technicians
+2011,61,61,7222,#9edae5,Metal Smelting Workers
+2011,26,26,3143,#d66011,Car Mechanics
+2011,7018,7026,4141,#b7834b,Stockmen
+2011,754,755,5173,#17bcef,Security Guards
+2011,2,2,2211,#cc0000,Biologists
+2011,1,1,2392,#cc0000,Special Education Teachers
+2011,211,214,2521,#cc0000,Administrators
+2011,6,6,3731,#d66011,Radio Station Technicians
+2011,72,72,5136,#17bcef,Specialty Chefs
+2011,1,1,7231,#9edae5,Metal Heat Treatment Workers
+2011,1,1,7911,#9edae5,General Artisans
+2011,7,7,7221,#9edae5,Metal Forging Workers
+2011,50,50,3003,#d66011,Electromechanical Technicians
+2011,45,45,3111,#d66011,Chemical Technicians
+2011,37,37,2237,#cc0000,Nutritionists
+2011,28,28,1413,#752277,Construction Managers
+2011,57996,58101,5211,#17bcef,Vendors
+2011,7,7,3548,#d66011,Tourism and Event Organizers
+2011,1,1,6126,#105B10,Fertilizer Farmers
+2011,1,1,3225,#d66011,Orthopedic Prostheses Technicians
+2011,1,1,6128,#105B10,Spice Farmers
+2011,4,4,7640,#9edae5,Other Footwear Manufacturing Workers
+2011,27,27,1417,#752277,Financial Institution Managers
+2011,7,7,9911,#581f05,Railway Maintenance Workers
+2011,8,8,3212,#d66011,Foresters
+2011,755,757,9922,#581f05,Road Maintenance Workers
+2011,9,9,6232,#105B10,Midsize Animal Livestock Workers
+2011,419,420,5241,#17bcef,Door-to-Door Salesmen
+2011,1,1,7826,#9edae5,Train Operators
+2011,5,5,8484,#ffc41c,Food Tasters
+2011,673,673,4223,#b7834b,Telemarketers
+2011,5,5,1227,#752277,Financial COOs
+2011,4,4,3341,#d66011,School Inspectors
+2011,1,1,3763,#d66011,Presenters
+2011,6,6,3713,#d66011,Graphic Designers
+2011,3329,3349,1414,#752277,Trade Managers
+2011,71,71,7157,#9edae5,Insulation Workers
+2011,102,102,8181,#ffc41c,Industrial Lab Operators
+2011,6,6,3711,#d66011,Library Technicians
+2011,2,2,3522,#d66011,Health and Environmental Workers
+2011,1,1,9154,#581f05,Camera Repairmen
+2011,1,1,3714,#d66011,Recruiters
+2011,81,81,3722,#d66011,Teleprocessing Technicians
+2011,1,1,7611,#9edae5,Wool and Fiber Workers
+2011,34,34,2238,#cc0000,Audiologists
+2011,9,9,7687,#9edae5,Bookbinders
+2011,10,10,5164,#17bcef,Launderers
+2011,30,30,8202,#ffc41c,Building Material Supervisors
+2011,4,4,3182,#d66011,Mechanical Designers
+2011,154,155,1231,#752277,Administrative and Financial Officers
+2011,3,3,7256,#9edae5,Aircraft Assemblers
+2011,17,17,2149,#cc0000,Production Engineers
+2011,855,855,4132,#b7834b,Bank Assistants
+2011,11,11,5172,#17bcef,Police and Civil Guards
+2011,9,9,6224,#105B10,Flower Culivators
+2011,6,6,1226,#752277,Storage and Transport COOs
+2011,862,867,5174,#17bcef,Doormen
+2011,34,34,9153,#581f05,Biomedical Equipment Repairmen
+2011,9,9,8231,#ffc41c,Glass Preparation Operators
+2011,89,89,6201,#105B10,Agricultural Supervisors
+2011,1,1,7502,#9edae5,Glass and Ceramic Supervisors
+2011,32,32,2394,#cc0000,Other Educators
+2011,2,2,8281,#ffc41c,Construction Ceramic Manufacturing Workers
+2011,80,80,7241,#9edae5,Plumbers
+2011,5,5,7246,#9edae5,Wire Rope Workers
+2011,755,755,4142,#b7834b,Production Trainers
+2011,58,58,7151,#9edae5,Excavators
+2011,77,77,7511,#9edae5,Precious Stone Artisans
+2011,63,63,3751,#d66011,Interior Designers
+2011,74,74,7313,#9edae5,Telecom Equipment Repairmen
+2011,1,1,7602,#9edae5,Tanning Supervisors
+2011,7,7,7232,#9edae5,Thermochemical Metal Workers
+2011,7,7,8625,#ffc41c,Refrigeration Workers
+2011,1,1,1222,#752277,Mining and Quarrying COOs
+2011,4,4,1238,#752277,Maintenance Officers
+2011,1,1,3721,#d66011,Cinematography Technicians
+2011,11,11,4212,#b7834b,Gambling Collectors
+2011,101,101,9193,#581f05,Sports Equipment Repairmen
+2011,4,4,3322,#d66011,Vocational Teachers
+2011,1,1,2626,#cc0000,Musicians
+2011,10,10,7312,#9edae5,Telecom Equipment Assemblers
+2011,87,87,7166,#9edae5,Interior Painters
+2011,56,56,3331,#d66011,Free Course Instructors
+2011,6,6,4241,#b7834b,Interviewers and Census Takers
+2011,109,109,8418,#ffc41c,Pastry Manufacturing Workers
+2011,55,55,8131,#ffc41c,Chemical Processing Workers
+2011,17,17,7641,#9edae5,Footwear Preparation Workers
+2011,116,116,5163,#17bcef,Dry Cleaners
+2011,1,1,7621,#9edae5,Leather Preparation Workers
+2011,12,12,6233,#105B10,Poultry Workers
+2011,3,3,1115,#752277,Public Managers
+2011,10,10,3764,#d66011,Models
+2011,1303,1304,5142,#17bcef,Garbagemen
+2011,1,1,2331,#cc0000,Vocational Teachers
+2011,1351,1353,7841,#9edae5,Packing and Labeling Workers
+2011,107,107,9513,#581f05,Security System Technicians
+2011,89,90,9112,#581f05,HVAC Maintenance Workers
+2011,286,291,2522,#cc0000,Accountants
+2011,1,1,7113,#9edae5,Liquid and Gas Extraction Workers
+2011,6,6,3425,#d66011,Air Transport Technicians
+2011,1317,1317,4122,#b7834b,Secretaries
+2011,35,35,3187,#d66011,Electronical Design Planners
+2011,1,1,7501,#9edae5,Jewelry Supervisors
+2011,515,518,4102,#b7834b,Financial Supervisors
+2011,81,81,7251,#9edae5,Assembly Line Equipment Assemblers
+2011,10,10,8321,#ffc41c,Paper and Cardboard Manufacturing Workers
+2011,1192,1194,5132,#17bcef,Cooks
+2011,6,6,2112,#cc0000,Statisticians
+2011,1226,1229,5199,#17bcef,Other Service Workers
+2011,4,4,3163,#d66011,Mining Technicians
+2011,1,1,3201,#d66011,Biological Technicians
+2011,20,20,1426,#752277,R&amp;D Managers
+2011,11,11,2711,#cc0000,Chefs
+2011,37,38,3543,#d66011,Foreign Trade Analysts
+2011,9,9,3253,#d66011,Biotechnical Technicians
+2011,4,4,2111,#cc0000,Mathematicians
+2011,1,1,2622,#cc0000,Directors
+2011,9,9,5151,#17bcef,Health Services Workers
+2011,101,101,7155,#9edae5,Construction Workers
+2011,116,116,7661,#9edae5,Prepress Graphics Workers
+2011,396,397,2531,#cc0000,Public Relations
+2011,125,125,7213,#9edae5,Metal Polishers
+2011,11,11,4152,#b7834b,Postal Workers
+2011,13,13,2618,#cc0000,Photographers
+2011,103,103,7662,#9edae5,Printers
+2011,8,8,7601,#9edae5,Textile Supervisors

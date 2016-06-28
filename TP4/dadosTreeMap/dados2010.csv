@@ -1,0 +1,482 @@
+year,num_emp,num_jobs,cbo_id,color,name
+2010,1,1,7231,#9edae5,Metal Heat Treatment Workers
+2010,11,11,7732,#9edae5,Wood Plate Pressing Operators
+2010,14,14,4152,#b7834b,Postal Workers
+2010,71,71,7214,#9edae5,CNC Machinists
+2010,66,66,3331,#d66011,Free Course Instructors
+2010,14,14,7734,#9edae5,Wood Series Machinery Operators
+2010,86,86,3517,#d66011,Insurance Technicians
+2010,1045,1048,4131,#b7834b,Accounting Assistants
+2010,14,14,8117,#ffc41c,Rubber and Plastics Machine Operators
+2010,15488,15703,4211,#b7834b,Non-Bank Tellers
+2010,7,7,3186,#d66011,Mechanical Design Planners
+2010,13,13,3764,#d66011,Models
+2010,14,14,3762,#d66011,Circus Artists
+2010,1,1,8121,#ffc41c,Ammunition Manufacturing Workers
+2010,2,2,3413,#d66011,Maritime Technicians
+2010,17,17,4241,#b7834b,Interviewers and Census Takers
+2010,7,7,3341,#d66011,School Inspectors
+2010,64,64,3421,#d66011,Transport Logistics Technicians
+2010,14,14,7253,#9edae5,Heavy Machinery Assemblers
+2010,7,8,1236,#752277,Computer Service Officers
+2010,45,45,3544,#d66011,Auctioneers
+2010,45,45,2394,#cc0000,Other Educators
+2010,2,2,1222,#752277,Mining and Quarrying COOs
+2010,13,13,8213,#ffc41c,Laminating Operators
+2010,1,1,8416,#ffc41c,Coffee and Tea Workers
+2010,8,8,3426,#d66011,Seaport Operations Technicians
+2010,181,182,7633,#9edae5,Embroidery Machine Operators
+2010,104,104,7222,#9edae5,Metal Smelting Workers
+2010,175,175,4151,#b7834b,Scribes
+2010,14,14,9911,#581f05,Railway Maintenance Workers
+2010,12,12,1411,#752277,Agricultural Production Managers
+2010,91,91,3188,#d66011,Product Design Planners
+2010,16,16,7223,#9edae5,Metal Molding Workers
+2010,113,113,3515,#d66011,Secretarial Technicians
+2010,132,133,7313,#9edae5,Telecom Equipment Repairmen
+2010,12,12,3115,#d66011,Water Treatment Technicians
+2010,7,7,3211,#d66011,Agricultural Technicians
+2010,85,85,8401,#ffc41c,Food Manufacturing Supervisors
+2010,2,2,7826,#9edae5,Train Operators
+2010,59,59,3547,#d66011,Independent Salesmen
+2010,109,109,7251,#9edae5,Assembly Line Equipment Assemblers
+2010,34,34,2512,#cc0000,Economists
+2010,209,211,5112,#17bcef,Public Transit Attendants
+2010,5,5,3163,#d66011,Mining Technicians
+2010,3,3,2631,#cc0000,Religious Professionals
+2010,1,1,1234,#752277,Other Directors
+2010,18,18,8113,#ffc41c,Filtration Workers
+2010,20,20,9542,#581f05,Home Appliance Technicians
+2010,159,159,7522,#9edae5,Glass Processing Workers
+2010,2,2,2543,#cc0000,Labor Inspectors
+2010,67,67,3513,#d66011,Administrative Technicians
+2010,9,9,2151,#cc0000,Maritime Officials
+2010,172,172,8481,#ffc41c,Craft Food Preservation Workers
+2010,3,3,2312,#cc0000,General Primary School Teachers
+2010,11,11,3425,#d66011,Air Transport Technicians
+2010,66,68,7102,#9edae5,Construction Supervisors
+2010,16,16,7682,#9edae5,Tissue Makers
+2010,17,17,8321,#ffc41c,Paper and Cardboard Manufacturing Workers
+2010,1736,1740,4221,#b7834b,Receptionists
+2010,1,1,2422,#cc0000,Public Ministry
+2010,68,68,2611,#cc0000,Journalists
+2010,3,3,7640,#9edae5,Other Footwear Manufacturing Workers
+2010,2,2,2341,#cc0000,Math Professors
+2010,20,20,7614,#9edae5,Textile Dyers
+2010,10,10,3142,#d66011,Tool Technicians
+2010,8,8,9503,#581f05,Electromechanical Maintenance Supervisors
+2010,17,17,1224,#752277,Trade COOs
+2010,51,51,2532,#cc0000,Marketing Consutants
+2010,17190,17222,4110,#b7834b,Administrative Assistants
+2010,4,4,2253,#cc0000,Doctors in Diagnostics and Therapy
+2010,20,20,8118,#ffc41c,Pharmacuetical Machinery Operators
+2010,229,229,6220,#105B10,Other Agricultural Support Workers
+2010,21,21,8331,#ffc41c,Paper Machinery Operators
+2010,12,12,3011,#d66011,Industrial Lab Technicians
+2010,182,182,7711,#9edae5,Cabinetmakers
+2010,13,13,7601,#9edae5,Textile Supervisors
+2010,199,199,8621,#ffc41c,Steam Utility Workers
+2010,1,1,3545,#d66011,Insurance Agents
+2010,175,175,7311,#9edae5,Electrical Equipment Assemblers
+2010,17,17,9543,#581f05,Office Equipment Technicians
+2010,10,10,3252,#d66011,Food Production Technicians
+2010,111,111,2525,#cc0000,Financial Analysts
+2010,2189,2195,5191,#17bcef,Couriers
+2010,1,1,2615,#cc0000,Writers
+2010,16,16,8202,#ffc41c,Building Material Supervisors
+2010,1325,1325,3132,#d66011,Electronics Technicians
+2010,13,13,5171,#17bcef,Firefighters and Lifeguards
+2010,149,150,9112,#581f05,HVAC Maintenance Workers
+2010,32,32,1233,#752277,Sales and Marketing Directors
+2010,208,208,3251,#d66011,Pharmacy Technicians
+2010,164,164,7122,#9edae5,Ornamental Stone Workers
+2010,40,40,2251,#cc0000,Clinicians
+2010,22,22,7828,#9edae5,Animal-Drawn Vehicle Conductors
+2010,102,103,3516,#d66011,Work Safety Technicians
+2010,253,253,5193,#17bcef,Veternary Service Workers
+2010,27,27,7683,#9edae5,Leather and Fur Footwear Workers
+2010,11,11,3181,#d66011,Construction Designers
+2010,1,1,3147,#d66011,Steel Technicians
+2010,10,10,3241,#d66011,Radiologists
+2010,3,3,3524,#d66011,Copyright Specialists
+2010,140,140,3222,#d66011,Nursing Assistants
+2010,10,10,8103,#ffc41c,Pharmacuetical Production Supervisors
+2010,20,20,8111,#ffc41c,Grinding and Mixing Machine Operators
+2010,2,2,3518,#d66011,Investigative Technicians
+2010,77,77,1427,#752277,Project Managers
+2010,2,2,2711,#cc0000,Chefs
+2010,18,18,7154,#9edae5,Concrete Machine Operators
+2010,26,26,6224,#105B10,Flower Culivators
+2010,163,163,7212,#9edae5,Machine Operators
+2010,2916,2954,5143,#17bcef,Other Building Maintenance Workers
+2010,24,24,3311,#d66011,Early Childhood Teachers
+2010,4,4,2147,#cc0000,Mining Engineers
+2010,3,3,7622,#9edae5,Leather Tanners
+2010,290,290,8414,#ffc41c,Food Preservation Workers
+2010,213,214,5161,#17bcef,Beauty Workers
+2010,2,2,8623,#ffc41c,Sewage Workers
+2010,1707,1707,7825,#9edae5,General Cargo Drivers
+2010,26,26,3514,#d66011,Judicial Clerks
+2010,3,3,8611,#ffc41c,Other Power Distribution Workers
+2010,10,10,2236,#cc0000,Physiotherapists
+2010,206,206,7152,#9edae5,Masonry Workers
+2010,139,139,3133,#d66011,Telecom Technicians
+2010,3,3,1313,#752277,Education Directors
+2010,6,6,2221,#cc0000,Agricultural Engineers
+2010,2522,2525,7832,#9edae5,Movers
+2010,34,34,5133,#17bcef,Housekeepers
+2010,181,198,3532,#d66011,Bank Technicians
+2010,125,126,3171,#d66011,System Administrators
+2010,179,192,3423,#d66011,Road Transport Technicians
+2010,22,24,7121,#9edae5,Ore Workers
+2010,222,222,4121,#b7834b,Data Entry Specialists
+2010,53,54,2143,#cc0000,Electrical Engineers
+2010,190,190,8214,#ffc41c,Metal Finishing Operators
+2010,132,132,9101,#581f05,Industrial Machinery Maintenance Supervisors
+2010,23,23,2617,#cc0000,Announcers
+2010,15,16,3001,#d66011,Mechatronic Technicians
+2010,19,19,4231,#b7834b,Customs Brokers
+2010,5,5,2148,#cc0000,Cartographers and Surveyers
+2010,22,22,9143,#581f05,Subway Mechanics
+2010,220,220,7156,#9edae5,Electrical Workers
+2010,1,1,1238,#752277,Maintenance Officers
+2010,24,24,7751,#9edae5,Wood Finishers
+2010,84,84,2410,#cc0000,Lawyers
+2010,25,25,2613,#cc0000,Archivists
+2010,19,19,7735,#9edae5,CNC Wood Machinists
+2010,2777,2837,8485,#ffc41c,Butchers
+2010,160,161,9192,#581f05,Landscapers
+2010,34,34,5192,#17bcef,Recycling Collectors
+2010,72,72,1210,#752277,CEOs
+2010,40,40,2142,#cc0000,Civil Engineers
+2010,2,2,2623,#cc0000,Scenographers
+2010,3,3,7827,#9edae5,Waterway Workers
+2010,4,4,6230,#105B10,Animal Trainers
+2010,29,29,7510,#9edae5,Jewelers
+2010,31,31,7664,#9edae5,Photo Lab Technicians
+2010,3,3,3951,#d66011,Technical Support in Research and Development
+2010,168,168,7151,#9edae5,Excavators
+2010,156,156,9111,#581f05,Pump and Motor Mechanics
+2010,1,1,2146,#cc0000,Material Science Engineers
+2010,192,192,1415,#752277,Hospitality Managers
+2010,1263,1263,4101,#b7834b,Administrative Supervisors
+2010,8,8,7606,#9edae5,Graphic Production Supervisors
+2010,20,20,9151,#581f05,Measuring Instrument Repairmen
+2010,3,3,6124,#105B10,Flower Farmers
+2010,148,148,3144,#d66011,Machinery Technicians
+2010,241,241,7244,#9edae5,Boiler Workers
+2010,24,24,7733,#9edae5,Other Wood Machining Operators
+2010,29,29,7232,#9edae5,Thermochemical Metal Workers
+2010,239,239,4213,#b7834b,Billing Collectors
+2010,25,25,3741,#d66011,Audio Technicians
+2010,2,2,1112,#752277,Heads of Government
+2010,99,99,9102,#581f05,Vehicle Maintenance Supervisors
+2010,882,896,2234,#cc0000,Pharmacists
+2010,16,16,7524,#9edae5,Glassware and Ceramic Workers
+2010,25,25,8232,#ffc41c,Glass Manufacturing Operators
+2010,19,19,3732,#d66011,Camera Operators
+2010,1,1,8102,#ffc41c,Plastics and Rubber Production Supervisors
+2010,6,6,7111,#9edae5,Solid Mineral Extraction Workers
+2010,2732,2736,7823,#9edae5,Passenger Vehicle Drivers
+2010,21,21,3185,#d66011,Construction Design Planners
+2010,363,363,7631,#9edae5,Clothing Preparation Workers
+2010,212,212,7822,#9edae5,Cargo Equipment Operators
+2010,23,23,7112,#9edae5,Mineral Extraction Machinery Operators
+2010,2,2,6132,#105B10,Midsize Livestock Breeders
+2010,3,3,3191,#d66011,Clothing Technicians
+2010,19,19,3242,#d66011,Clinical Pathology Technicians
+2010,31,31,7257,#9edae5,Refrigeration Installers
+2010,4,4,7618,#9edae5,Textile Inspectors
+2010,3,3,7162,#9edae5,Roofers
+2010,23,23,7701,#9edae5,Carpentry Supervisors
+2010,34,34,7651,#9edae5,Leather Upholstery Workers
+2010,40,40,3224,#d66011,Dental Technicians
+2010,142,142,2524,#cc0000,Human Resources Professionals
+2010,201,202,3511,#d66011,Accounting Technicians
+2010,2,2,2626,#cc0000,Musicians
+2010,5,5,2145,#cc0000,Chemical Engineers
+2010,193,193,9511,#581f05,Electrical Maintenance Workers
+2010,3,3,7612,#9edae5,Textile Wiring Workers
+2010,6,6,7681,#9edae5,Weavers and Knitters
+2010,5,5,5162,#17bcef,Caregivers
+2010,4,4,5131,#17bcef,Butlers and Maids
+2010,2,2,2511,#cc0000,Anthropologists
+2010,34,34,7824,#9edae5,Public Transit Driver
+2010,5,5,6326,#105B10,Coal Workers
+2010,4,4,9142,#581f05,Marine Equipment Maintenance 
+2010,24,24,7801,#9edae5,Packing and Labeling Supervisors
+2010,33,33,xxxx,#C7C7C7,Unreported
+2010,14,14,9502,#581f05,Vehicle Electronics Maintenance Supervisors
+2010,227,227,9531,#581f05,Vehicle Maintenance Electricians
+2010,33,33,7161,#9edae5,Concrete Coaters
+2010,44,44,2144,#cc0000,Mechanical Engineers
+2010,7,7,2132,#cc0000,Chemists
+2010,3888,3913,8483,#ffc41c,Bakers
+2010,7,8,1311,#752277,Social Services Directors
+2010,22,22,5103,#17bcef,Security Supervisors
+2010,403,403,9921,#581f05,Basic Vehicle Mechanics
+2010,226,226,3912,#d66011,Production Control Technicians
+2010,4751,4761,5134,#17bcef,Restaurant Workers
+2010,1,1,2614,#cc0000,Linguists
+2010,14,14,7202,#9edae5,Metal Processing Supervisors
+2010,272,272,7250,#9edae5,Other Mechanical Fitters
+2010,3,3,8201,#ffc41c,Steel Production Supervisors
+2010,4,4,5102,#17bcef,Laundry Supervisors
+2010,5,5,7623,#9edae5,Leather Finishers
+2010,13,13,2235,#cc0000,Nurses
+2010,421,421,5243,#17bcef,Street Vendors
+2010,250,250,2523,#cc0000,Executives
+2010,42,42,7653,#9edae5,Leather Machine Operators
+2010,1,1,1114,#752277,Public Service Leaders
+2010,13,13,9501,#581f05,Industrial Electrical Maintenance Supervisors
+2010,31,31,3184,#d66011,Technical Product Designers
+2010,17,17,2332,#cc0000,Vocational Instructors
+2010,5,6,3411,#d66011,Commercial Pilots
+2010,3,3,3771,#d66011,Professional Athletes
+2010,18,18,2515,#cc0000,Psychologists
+2010,139,140,1416,#752277,Transportation Managers
+2010,4,4,8281,#ffc41c,Construction Ceramic Manufacturing Workers
+2010,4,4,9154,#581f05,Camera Repairmen
+2010,39,39,7663,#9edae5,Print Finishers
+2010,103,103,1425,#752277,IT Managers
+2010,18,18,8601,#ffc41c,Utility Supervisors
+2010,6,6,7764,#9edae5,Carpenters
+2010,2978,2981,9144,#581f05,Car Mechanics
+2010,6,6,6322,#105B10,Gums and Resins Extraction Workers
+2010,27,27,5151,#17bcef,Health Services Workers
+2010,41,41,3523,#d66011,Tax Agents
+2010,1378,1385,5201,#17bcef,Sales Supervisors
+2010,279,279,7242,#9edae5,Steel Structural Erection Workers
+2010,17,17,1312,#752277,Health Service Directors
+2010,2,2,3322,#d66011,Vocational Teachers
+2010,390,390,7630,#9edae5,Other Clothing Manufacturing Workers
+2010,3,3,1237,#752277,R&amp;D Directors
+2010,36,36,7652,#9edae5,Leather Manufacturing Workers
+2010,509,509,7842,#9edae5,Production Line Feeders
+2010,19,19,9153,#581f05,Biomedical Equipment Repairmen
+2010,301,301,3172,#d66011,Computer Technicians
+2010,4,4,8484,#ffc41c,Food Tasters
+2010,4,4,3212,#d66011,Foresters
+2010,296,296,7243,#9edae5,Metal Welders
+2010,560,561,7170,#9edae5,Civil Engineering Assistants
+2010,482,483,7632,#9edae5,Stitching Machine Operators
+2010,306,306,3911,#d66011,Industrial Planning Technicians
+2010,4,4,6231,#105B10,Large Animal Livestock Workers
+2010,2462,2467,3541,#d66011,Sales Specialist
+2010,25,25,2629,#cc0000,Interior Designer
+2010,3,3,2153,#cc0000,Pilots
+2010,2,2,2239,#cc0000,Physical Therapists
+2010,2,2,7256,#9edae5,Aircraft Assemblers
+2010,45,45,7831,#9edae5,Train Workers
+2010,2,2,7523,#9edae5,Potters
+2010,48,48,7165,#9edae5,Floor Finishers
+2010,5,5,8624,#ffc41c,Gas Utility Workers
+2010,4,4,8101,#ffc41c,Chemical Production Supervisors
+2010,357,357,7233,#9edae5,Metal Equipment Painters
+2010,166,170,1422,#752277,Human Resource Managers
+2010,455,456,7163,#9edae5,Glaziers
+2010,11,11,7101,#9edae5,Mineral Extraction Supervisors
+2010,30,30,7301,#9edae5,Electrical Manufacturing Supervisors
+2010,39,39,3134,#d66011,Instrumentation Technicians
+2010,41,41,8131,#ffc41c,Chemical Processing Workers
+2010,6,6,3711,#d66011,Library Technicians
+2010,521,521,5242,#17bcef,Kiosk and Stall Vendors
+2010,50,50,5136,#17bcef,Specialty Chefs
+2010,52,52,7211,#9edae5,Toolmakers
+2010,1,1,3112,#d66011,Gas Technicians
+2010,6,6,8421,#ffc41c,Other Tobacco Workers
+2010,63,63,6321,#105B10,Lumberjacks
+2010,5,5,1225,#752277,Hospitality COOs
+2010,588,588,5152,#17bcef,Medical Lab Assistants
+2010,280,280,3131,#d66011,Electricians and Electrical Engineers
+2010,2,2,3113,#d66011,Glass Technicians
+2010,1,1,1113,#752277,Magistrates
+2010,382,382,9113,#581f05,Industrial Machine Maintenance Workers
+2010,35,36,3003,#d66011,Electromechanical Technicians
+2010,59,59,5111,#17bcef,Transportation Security
+2010,43,43,7321,#9edae5,Communication Line Repairmen
+2010,24,25,2233,#cc0000,Veterinarians
+2010,5,5,6430,#105B10,Irrigation and Drainage Workers
+2010,12,12,2252,#cc0000,Surgeons
+2010,7,7,6420,#105B10,Forest Mechanization Workers
+2010,3,3,3182,#d66011,Mechanical Designers
+2010,51,51,7643,#9edae5,Footwear Finishers
+2010,7,7,7686,#9edae5,Typographers
+2010,161,162,2521,#cc0000,Administrators
+2010,60,60,7731,#9edae5,Wood Cutting Machine Operators
+2010,39,39,9141,#581f05,Aircraft Mechanics
+2010,7,7,5164,#17bcef,Launderers
+2010,429,429,4201,#b7834b,Public Service Supervisors
+2010,552,553,5231,#17bcef,Product Installers
+2010,55,55,7255,#9edae5,Car Assembly Line Workers
+2010,55,55,3223,#d66011,Optometrists
+2010,2,2,7224,#9edae5,Metal Straightening Workers
+2010,7,7,4212,#b7834b,Gambling Collectors
+2010,4,4,3122,#d66011,Infrastructure Technicians
+2010,223,223,1424,#752277,Supply Managers
+2010,6,6,8211,#ffc41c,Sinter Operators
+2010,5,5,3731,#d66011,Radio Station Technicians
+2010,53,53,7157,#9edae5,Insulation Workers
+2010,2790,2802,1421,#752277,Financial Managers
+2010,17,17,2232,#cc0000,Dentists
+2010,49,49,3111,#d66011,Chemical Technicians
+2010,25,25,3187,#d66011,Electronical Design Planners
+2010,308,308,1412,#752277,Mining Production Managers
+2010,6670,6681,4141,#b7834b,Stockmen
+2010,33,33,7254,#9edae5,Engine Fitters
+2010,7,7,3146,#d66011,Metallurgy Technicians
+2010,66,78,3722,#d66011,Teleprocessing Technicians
+2010,3,3,2627,#cc0000,Musicians
+2010,5,5,7401,#9edae5,Instrument Assembly Supervisors
+2010,34,34,2237,#cc0000,Nutritionists
+2010,347,347,3141,#d66011,Mechanical Technicians
+2010,5,5,2035,#cc0000,Social Sciences Researchers
+2010,2,2,8301,#ffc41c,Paper Manufacturing Supervisors
+2010,1,1,2345,#cc0000,Education Professors
+2010,89,89,5135,#17bcef,Other Food Service Workers
+2010,33,33,3123,#d66011,Geographic Technicians
+2010,58,58,7603,#9edae5,Clothing Manufacturing Supervisors
+2010,47,47,9541,#581f05,Elevator Technicians
+2010,2,2,2211,#cc0000,Biologists
+2010,1,1,3424,#d66011,Public Transporation Technicians
+2010,1,1,6128,#105B10,Spice Farmers
+2010,1,1,7911,#9edae5,General Artisans
+2010,1,1,3135,#d66011,Photonics Technicians
+2010,1,1,3225,#d66011,Orthopedic Prostheses Technicians
+2010,9,9,7221,#9edae5,Metal Forging Workers
+2010,943,944,5141,#17bcef,Building Management
+2010,28,28,2238,#cc0000,Audiologists
+2010,1,1,6325,#105B10,Medicinal Species Cultivation
+2010,2,2,2412,#cc0000,Attorneys
+2010,58298,58663,5211,#17bcef,Vendors
+2010,98,98,2533,#cc0000,Stockbrokers
+2010,9,9,8332,#ffc41c,Handmade Paper Product Workers
+2010,30,30,3143,#d66011,Car Mechanics
+2010,55,55,3744,#d66011,Video and Film Editors
+2010,7,7,6232,#105B10,Midsize Animal Livestock Workers
+2010,10,10,2241,#cc0000,Gym Teachers
+2010,5,5,3713,#d66011,Graphic Designers
+2010,46,46,7821,#9edae5,Crane Operators
+2010,7,7,8417,#ffc41c,Beverage Manufacturing Workers
+2010,93,93,9193,#581f05,Sports Equipment Repairmen
+2010,1,1,6120,#105B10,Other Farmers
+2010,1,1,3763,#d66011,Presenters
+2010,789,836,5173,#17bcef,Security Guards
+2010,1,1,6314,#105B10,Fishing Support Workers
+2010,394,394,5241,#17bcef,Door-to-Door Salesmen
+2010,777,779,4132,#b7834b,Bank Assistants
+2010,4,4,7246,#9edae5,Wire Rope Workers
+2010,5,5,1226,#752277,Storage and Transport COOs
+2010,7,7,2346,#cc0000,Language Professors
+2010,1,1,3714,#d66011,Recruiters
+2010,35,35,3121,#d66011,Building Construction Technicians
+2010,720,720,4223,#b7834b,Telemarketers
+2010,7,7,7650,#9edae5,Other Leather Product Workers
+2010,113,113,5121,#17bcef,Domestic Service Workers
+2010,11,11,3422,#d66011,Customs Brokes
+2010,24,24,1413,#752277,Construction Managers
+2010,30,30,2612,#cc0000,Librarians
+2010,5,5,2621,#cc0000,Producers
+2010,29,29,1417,#752277,Financial Institution Managers
+2010,3494,3536,1414,#752277,Trade Managers
+2010,7,7,1227,#752277,Financial COOs
+2010,258,262,2522,#cc0000,Accountants
+2010,894,900,9922,#581f05,Road Maintenance Workers
+2010,83,83,7166,#9edae5,Interior Painters
+2010,11,11,6233,#105B10,Poultry Workers
+2010,6,6,2628,#cc0000,Other Dancers
+2010,73,73,7153,#9edae5,Reinforced Concrete Assemblers
+2010,88,88,7661,#9edae5,Prepress Graphics Workers
+2010,8,8,3253,#d66011,Biotechnical Technicians
+2010,10,10,8415,#ffc41c,Dairy Pastuerization Workers
+2010,10,10,8212,#ffc41c,Furnace Operators
+2010,159,161,1231,#752277,Administrative and Financial Officers
+2010,1,1,2542,#cc0000,Welfare Inspectors
+2010,41,41,2123,#cc0000,IT Managers
+2010,8,8,7521,#9edae5,Glassblowers
+2010,1,1,8482,#ffc41c,Craft Dairy Pasteurization Workers
+2010,1,1,2347,#cc0000,Humanities Professors
+2010,3,3,2616,#cc0000,Editors
+2010,13,13,8233,#ffc41c,Construction Equipment Operators
+2010,1,1,7421,#9edae5,Musical Instrument Assemblers
+2010,10,10,8231,#ffc41c,Glass Preparation Operators
+2010,4,4,2112,#cc0000,Statisticians
+2010,31,31,3543,#d66011,Foreign Trade Analysts
+2010,115,117,8181,#ffc41c,Industrial Lab Operators
+2010,1,1,7502,#9edae5,Glass and Ceramic Supervisors
+2010,92,92,7511,#9edae5,Precious Stone Artisans
+2010,90,90,7155,#9edae5,Construction Workers
+2010,1089,1095,5132,#17bcef,Cooks
+2010,94,94,7241,#9edae5,Plumbers
+2010,110,110,5163,#17bcef,Dry Cleaners
+2010,1,1,2331,#cc0000,Vocational Teachers
+2010,1,1,2032,#cc0000,Engineering Researchers
+2010,349,350,2531,#cc0000,Public Relations
+2010,17,17,1426,#752277,R&amp;D Managers
+2010,998,999,5174,#17bcef,Doormen
+2010,19,19,2149,#cc0000,Production Engineers
+2010,21,21,2141,#cc0000,Architects and Planners
+2010,826,828,4142,#b7834b,Production Trainers
+2010,669,670,7741,#9edae5,Furniture Assemblers
+2010,12,12,7687,#9edae5,Bookbinders
+2010,1,1,7621,#9edae5,Leather Preparation Workers
+2010,1,1,1232,#752277,Human Resource Directors
+2010,11,11,7721,#9edae5,Wood Preparation Workers
+2010,1,1,2011,#cc0000,Biotechnologist
+2010,3,3,2122,#cc0000,Computer Engineers
+2010,10,10,7312,#9edae5,Telecom Equipment Assemblers
+2010,117,117,8418,#ffc41c,Pastry Manufacturing Workers
+2010,1,1,6223,#105B10,Horticulture Farm Workers
+2010,73,73,3751,#d66011,Interior Designers
+2010,3802,3817,1423,#752277,Marketing Managers
+2010,113,113,7164,#9edae5,Plasterers
+2010,1,1,2622,#cc0000,Directors
+2010,8,8,6410,#105B10,Mechanical Agricultural Workers
+2010,1213,1213,5199,#17bcef,Other Service Workers
+2010,6,6,3114,#d66011,Plastic and Rubber Technicians
+2010,542,550,4102,#b7834b,Financial Supervisors
+2010,1446,1473,7841,#9edae5,Packing and Labeling Workers
+2010,1,1,2321,#cc0000,High School Teachers
+2010,7,7,3548,#d66011,Tourism and Event Organizers
+2010,93,93,7662,#9edae5,Printers
+2010,1423,1427,5142,#17bcef,Garbagemen
+2010,84,84,2624,#cc0000,Visual Artists
+2010,16,16,7641,#9edae5,Footwear Preparation Workers
+2010,110,110,9513,#581f05,Security System Technicians
+2010,67,67,9131,#581f05,Heavy Machinery Mechanics
+2010,66,66,3221,#d66011,Alternative Therapy Technicians
+2010,1,1,7771,#9edae5,Naval Carpenters
+2010,393,393,2124,#cc0000,Information Analysts
+2010,13,13,7654,#9edae5,Leather Product Finishers
+2010,39,39,3180,#d66011,Technical Designers
+2010,516,516,3542,#d66011,Buyers
+2010,11,11,7604,#9edae5,Cobbler Supervisors
+2010,9,9,8411,#ffc41c,Grains Processing Workers
+2010,8,8,8625,#ffc41c,Refrigeration Workers
+2010,1,1,8622,#ffc41c,Water Utility Workers
+2010,4,4,3743,#d66011,Projectionists
+2010,127,127,7213,#9edae5,Metal Polishers
+2010,81,81,5101,#17bcef,Hospitality Supervisors
+2010,13,13,2618,#cc0000,Photographers
+2010,110,110,7411,#9edae5,Precision Instrument Assemblers
+2010,8,8,7605,#9edae5,Manufactured Fabrics Supervisors
+2010,1,1,9912,#581f05,Amusement Park Maintenance Workers
+2010,117,117,9191,#581f05,Lubricators
+2010,104,109,6201,#105B10,Agricultural Supervisors
+2010,27,27,7201,#9edae5,Metal Machining Supervisors
+2010,2,2,6301,#105B10,Forestry and Aquaculture Supervisors
+2010,11,11,3250,#d66011,Horticulture Technicians
+2010,1622,1625,4122,#b7834b,Secretaries
+2010,1,1,7113,#9edae5,Liquid and Gas Extraction Workers
+2010,3,3,2111,#cc0000,Mathematicians
+2010,924,924,9913,#581f05,Vehicle Bodywork Mechanics
+2010,2,2,3183,#d66011,Utility Designers
+2010,13,13,6210,#105B10,General Agricultural Workers
+2010,110,110,7245,#9edae5,Metal Forming Machine Operators
+2010,14,14,7642,#9edae5,Footwear Assemblers
+2010,12,12,2544,#cc0000,State and Municipal Tax Collectors
+2010,11,11,7613,#9edae5,Loom Operators
+2010,126,126,4222,#b7834b,Telephone Operators
+2010,1,1,3522,#d66011,Health and Environmental Workers
+2010,132,132,3117,#d66011,Colorists
+2010,113,113,7252,#9edae5,Industrial Machine Assemblers

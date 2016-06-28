@@ -1,0 +1,487 @@
+year,num_emp,num_jobs,cbo_id,color,name
+2009,1,1,7231,#9edae5,Metal Heat Treatment Workers
+2009,1,1,1144,#752277,Non-Profit Organization Directors
+2009,2,2,7162,#9edae5,Roofers
+2009,59,59,3513,#d66011,Administrative Technicians
+2009,9,9,3425,#d66011,Air Transport Technicians
+2009,2,2,2543,#cc0000,Labor Inspectors
+2009,9,9,8202,#ffc41c,Building Material Supervisors
+2009,2,2,4212,#b7834b,Gambling Collectors
+2009,15,15,7121,#9edae5,Ore Workers
+2009,140,140,7662,#9edae5,Printers
+2009,155,155,8481,#ffc41c,Craft Food Preservation Workers
+2009,15,15,3764,#d66011,Models
+2009,18,18,9543,#581f05,Office Equipment Technicians
+2009,184,184,7633,#9edae5,Embroidery Machine Operators
+2009,5,5,8301,#ffc41c,Paper Manufacturing Supervisors
+2009,19,19,8332,#ffc41c,Handmade Paper Product Workers
+2009,137,137,7311,#9edae5,Electrical Equipment Assemblers
+2009,10,10,7601,#9edae5,Textile Supervisors
+2009,201,201,5112,#17bcef,Public Transit Attendants
+2009,11,11,3011,#d66011,Industrial Lab Technicians
+2009,2,2,7523,#9edae5,Potters
+2009,191,193,5141,#17bcef,Building Management
+2009,60,60,3547,#d66011,Independent Salesmen
+2009,120,120,9112,#581f05,HVAC Maintenance Workers
+2009,1,1,3772,#d66011,Sports Referees
+2009,16,16,3762,#d66011,Circus Artists
+2009,101,101,3133,#d66011,Telecom Technicians
+2009,87,87,9131,#581f05,Heavy Machinery Mechanics
+2009,33,33,1233,#752277,Sales and Marketing Directors
+2009,1656,1657,4221,#b7834b,Receptionists
+2009,140,140,3515,#d66011,Secretarial Technicians
+2009,23,23,2149,#cc0000,Production Engineers
+2009,51,51,1427,#752277,Project Managers
+2009,4,4,2631,#cc0000,Religious Professionals
+2009,16,16,4231,#b7834b,Customs Brokers
+2009,15,15,8213,#ffc41c,Laminating Operators
+2009,16309,16324,4110,#b7834b,Administrative Assistants
+2009,19,19,7312,#9edae5,Telecom Equipment Assemblers
+2009,16,16,8321,#ffc41c,Paper and Cardboard Manufacturing Workers
+2009,1,1,2422,#cc0000,Public Ministry
+2009,4,4,2033,#cc0000,Health Science Researchers
+2009,66,66,2611,#cc0000,Journalists
+2009,15,15,8111,#ffc41c,Grinding and Mixing Machine Operators
+2009,1,1,6120,#105B10,Other Farmers
+2009,24,24,5192,#17bcef,Recycling Collectors
+2009,2453,2458,5143,#17bcef,Other Building Maintenance Workers
+2009,12,12,3252,#d66011,Food Production Technicians
+2009,142,142,7212,#9edae5,Machine Operators
+2009,31,31,2512,#cc0000,Economists
+2009,235,235,5193,#17bcef,Veternary Service Workers
+2009,2047,2049,5191,#17bcef,Couriers
+2009,115,115,3222,#d66011,Nursing Assistants
+2009,5,5,2111,#cc0000,Mathematicians
+2009,23,23,4152,#b7834b,Postal Workers
+2009,21,21,7683,#9edae5,Leather and Fur Footwear Workers
+2009,122,122,2525,#cc0000,Financial Analysts
+2009,19,19,7682,#9edae5,Tissue Makers
+2009,169,169,7242,#9edae5,Steel Structural Erection Workers
+2009,115,115,8401,#ffc41c,Food Manufacturing Supervisors
+2009,23,23,9542,#581f05,Home Appliance Technicians
+2009,208,208,3251,#d66011,Pharmacy Technicians
+2009,181,181,5161,#17bcef,Beauty Workers
+2009,155,155,3532,#d66011,Bank Technicians
+2009,183,183,7711,#9edae5,Cabinetmakers
+2009,1322,1322,3132,#d66011,Electronics Technicians
+2009,161,162,7122,#9edae5,Ornamental Stone Workers
+2009,139,139,3144,#d66011,Machinery Technicians
+2009,2167,2171,7832,#9edae5,Movers
+2009,9,9,3241,#d66011,Radiologists
+2009,2,2,9912,#581f05,Amusement Park Maintenance Workers
+2009,20,20,2613,#cc0000,Archivists
+2009,25,25,6224,#105B10,Flower Culivators
+2009,25,25,3523,#d66011,Tax Agents
+2009,16,16,3123,#d66011,Geographic Technicians
+2009,11,11,1236,#752277,Computer Service Officers
+2009,212,212,6220,#105B10,Other Agricultural Support Workers
+2009,24,24,2144,#cc0000,Mechanical Engineers
+2009,4,4,2148,#cc0000,Cartographers and Surveyers
+2009,2,2,3721,#d66011,Cinematography Technicians
+2009,1624,1624,7825,#9edae5,General Cargo Drivers
+2009,269,270,8414,#ffc41c,Food Preservation Workers
+2009,21,21,7824,#9edae5,Public Transit Driver
+2009,9,9,2236,#cc0000,Physiotherapists
+2009,143,143,9511,#581f05,Electrical Maintenance Workers
+2009,14,14,1111,#752277,Legislators
+2009,46,46,2231,#cc0000,Doctors
+2009,10,10,8103,#ffc41c,Pharmacuetical Production Supervisors
+2009,1,1,2146,#cc0000,Material Science Engineers
+2009,22,22,3311,#d66011,Early Childhood Teachers
+2009,34,34,6326,#105B10,Coal Workers
+2009,3,3,3114,#d66011,Plastic and Rubber Technicians
+2009,214,214,7152,#9edae5,Masonry Workers
+2009,82,82,9102,#581f05,Vehicle Maintenance Supervisors
+2009,24,24,7828,#9edae5,Animal-Drawn Vehicle Conductors
+2009,3,3,9154,#581f05,Camera Repairmen
+2009,27,27,7751,#9edae5,Wood Finishers
+2009,24,24,7253,#9edae5,Heavy Machinery Assemblers
+2009,19,19,7701,#9edae5,Carpentry Supervisors
+2009,76,76,2410,#cc0000,Lawyers
+2009,13,13,3185,#d66011,Construction Design Planners
+2009,179,179,3423,#d66011,Road Transport Technicians
+2009,198,198,7244,#9edae5,Boiler Workers
+2009,6,6,7606,#9edae5,Graphic Production Supervisors
+2009,193,193,8418,#ffc41c,Pastry Manufacturing Workers
+2009,29,29,2533,#cc0000,Stockbrokers
+2009,4,4,2312,#cc0000,General Primary School Teachers
+2009,14,14,7735,#9edae5,CNC Wood Machinists
+2009,214,214,4121,#b7834b,Data Entry Specialists
+2009,23,23,2617,#cc0000,Announcers
+2009,2,2,1313,#752277,Education Directors
+2009,95,95,9101,#581f05,Industrial Machinery Maintenance Supervisors
+2009,5,5,2132,#cc0000,Chemists
+2009,214,214,7156,#9edae5,Electrical Workers
+2009,2631,2634,8485,#ffc41c,Butchers
+2009,21,21,7112,#9edae5,Mineral Extraction Machinery Operators
+2009,17,17,5171,#17bcef,Firefighters and Lifeguards
+2009,174,174,9192,#581f05,Landscapers
+2009,2,2,2623,#cc0000,Scenographers
+2009,3,3,2331,#cc0000,Vocational Teachers
+2009,270,270,7631,#9edae5,Clothing Preparation Workers
+2009,7,7,2221,#cc0000,Agricultural Engineers
+2009,144,144,9111,#581f05,Pump and Motor Mechanics
+2009,1,1,2511,#cc0000,Anthropologists
+2009,25,25,9143,#581f05,Subway Mechanics
+2009,1180,1180,4101,#b7834b,Administrative Supervisors
+2009,1,1,1238,#752277,Maintenance Officers
+2009,25,25,7510,#9edae5,Jewelers
+2009,15,15,2151,#cc0000,Maritime Officials
+2009,187,187,7822,#9edae5,Cargo Equipment Operators
+2009,160,160,7151,#9edae5,Excavators
+2009,3,3,8624,#ffc41c,Gas Utility Workers
+2009,32,32,3224,#d66011,Dental Technicians
+2009,2,2,1221,#752277,Agricultural COOs
+2009,2,2,2615,#cc0000,Writers
+2009,3,3,6223,#105B10,Horticulture Farm Workers
+2009,17,17,3732,#d66011,Camera Operators
+2009,25,25,7733,#9edae5,Other Wood Machining Operators
+2009,20,20,7214,#9edae5,CNC Machinists
+2009,175,175,3511,#d66011,Accounting Technicians
+2009,134,134,3171,#d66011,System Administrators
+2009,3,3,7502,#9edae5,Glass and Ceramic Supervisors
+2009,23,23,8232,#ffc41c,Glass Manufacturing Operators
+2009,3,3,3183,#d66011,Utility Designers
+2009,31,31,2142,#cc0000,Civil Engineers
+2009,16,16,7524,#9edae5,Glassware and Ceramic Workers
+2009,31,31,7153,#9edae5,Reinforced Concrete Assemblers
+2009,189,189,1415,#752277,Hospitality Managers
+2009,38,38,5133,#17bcef,Housekeepers
+2009,120,128,2524,#cc0000,Human Resources Professionals
+2009,65,67,1210,#752277,CEOs
+2009,3,3,5131,#17bcef,Butlers and Maids
+2009,37,37,3514,#d66011,Judicial Clerks
+2009,829,846,2234,#cc0000,Pharmacists
+2009,3,3,3763,#d66011,Presenters
+2009,230,230,7250,#9edae5,Other Mechanical Fitters
+2009,2606,2608,7823,#9edae5,Passenger Vehicle Drivers
+2009,32,32,8331,#ffc41c,Paper Machinery Operators
+2009,2,2,2626,#cc0000,Musicians
+2009,1,1,8102,#ffc41c,Plastics and Rubber Production Supervisors
+2009,109,111,1416,#752277,Transportation Managers
+2009,245,245,4213,#b7834b,Billing Collectors
+2009,9,9,1312,#752277,Health Service Directors
+2009,18,18,7801,#9edae5,Packing and Labeling Supervisors
+2009,35,35,7664,#9edae5,Photo Lab Technicians
+2009,5,5,7618,#9edae5,Textile Inspectors
+2009,2,2,3135,#d66011,Photonics Technicians
+2009,8,8,2145,#cc0000,Chemical Engineers
+2009,3588,3601,8483,#ffc41c,Bakers
+2009,15,15,9153,#581f05,Biomedical Equipment Repairmen
+2009,35,35,7653,#9edae5,Leather Machine Operators
+2009,31,31,3741,#d66011,Audio Technicians
+2009,242,242,9531,#581f05,Vehicle Maintenance Electricians
+2009,385,385,7842,#9edae5,Production Line Feeders
+2009,4,4,7623,#9edae5,Leather Finishers
+2009,250,250,7243,#9edae5,Metal Welders
+2009,26,26,3184,#d66011,Technical Product Designers
+2009,5,5,6322,#105B10,Gums and Resins Extraction Workers
+2009,230,230,3912,#d66011,Production Control Technicians
+2009,36,36,7651,#9edae5,Leather Upholstery Workers
+2009,4,4,7221,#9edae5,Metal Forging Workers
+2009,4478,4484,5134,#17bcef,Restaurant Workers
+2009,12,12,2235,#cc0000,Nurses
+2009,16,16,9502,#581f05,Vehicle Electronics Maintenance Supervisors
+2009,4,4,7654,#9edae5,Leather Product Finishers
+2009,79,79,2532,#cc0000,Marketing Consutants
+2009,4,4,6420,#105B10,Forest Mechanization Workers
+2009,4,4,3711,#d66011,Library Technicians
+2009,1,1,3714,#d66011,Recruiters
+2009,18,18,8601,#ffc41c,Utility Supervisors
+2009,4,4,3951,#d66011,Technical Support in Research and Development
+2009,40,40,7222,#9edae5,Metal Smelting Workers
+2009,5,5,6231,#105B10,Large Animal Livestock Workers
+2009,1,1,1114,#752277,Public Service Leaders
+2009,408,408,9921,#581f05,Basic Vehicle Mechanics
+2009,3,3,3426,#d66011,Seaport Operations Technicians
+2009,10,10,1413,#752277,Construction Managers
+2009,2826,2830,9144,#581f05,Car Mechanics
+2009,1,1,1222,#752277,Mining and Quarrying COOs
+2009,1538,1546,5201,#17bcef,Sales Supervisors
+2009,414,414,5243,#17bcef,Street Vendors
+2009,152,155,1422,#752277,Human Resource Managers
+2009,1,1,7256,#9edae5,Aircraft Assemblers
+2009,38,38,8131,#ffc41c,Chemical Processing Workers
+2009,8,8,7111,#9edae5,Solid Mineral Extraction Workers
+2009,2,2,3322,#d66011,Vocational Teachers
+2009,446,446,5242,#17bcef,Kiosk and Stall Vendors
+2009,256,258,3172,#d66011,Computer Technicians
+2009,22,22,3242,#d66011,Clinical Pathology Technicians
+2009,22,22,8411,#ffc41c,Grains Processing Workers
+2009,286,286,2523,#cc0000,Executives
+2009,293,293,9113,#581f05,Industrial Machine Maintenance Workers
+2009,29,29,5103,#17bcef,Security Supervisors
+2009,7,7,7681,#9edae5,Weavers and Knitters
+2009,5,5,7827,#9edae5,Waterway Workers
+2009,90,90,1425,#752277,IT Managers
+2009,2079,2081,3541,#d66011,Sales Specialist
+2009,3,3,1226,#752277,Storage and Transport COOs
+2009,5,5,7640,#9edae5,Other Footwear Manufacturing Workers
+2009,1,1,2211,#cc0000,Biologists
+2009,19,19,2515,#cc0000,Psychologists
+2009,2,2,3182,#d66011,Mechanical Designers
+2009,7,8,3411,#d66011,Commercial Pilots
+2009,40,40,7161,#9edae5,Concrete Coaters
+2009,388,388,7630,#9edae5,Other Clothing Manufacturing Workers
+2009,461,462,7632,#9edae5,Stitching Machine Operators
+2009,5,5,2346,#cc0000,Language Professors
+2009,4,4,1225,#752277,Hospitality COOs
+2009,5,5,9142,#581f05,Marine Equipment Maintenance 
+2009,26,26,2629,#cc0000,Interior Designer
+2009,3,3,2035,#cc0000,Social Sciences Researchers
+2009,337,337,7233,#9edae5,Metal Equipment Painters
+2009,2,2,2627,#cc0000,Musicians
+2009,41,41,7603,#9edae5,Clothing Manufacturing Supervisors
+2009,4,4,6232,#105B10,Midsize Animal Livestock Workers
+2009,416,416,7163,#9edae5,Glaziers
+2009,43,43,7165,#9edae5,Floor Finishers
+2009,30,30,9141,#581f05,Aircraft Mechanics
+2009,4,4,3181,#d66011,Construction Designers
+2009,619,619,5121,#17bcef,Domestic Service Workers
+2009,2,2,2239,#cc0000,Physical Therapists
+2009,34,34,3134,#d66011,Instrumentation Technicians
+2009,564,564,7170,#9edae5,Civil Engineering Assistants
+2009,19,19,9501,#581f05,Industrial Electrical Maintenance Supervisors
+2009,2,2,3113,#d66011,Glass Technicians
+2009,539,540,5152,#17bcef,Medical Lab Assistants
+2009,26,26,5151,#17bcef,Health Services Workers
+2009,3,3,1237,#752277,R&amp;D Directors
+2009,44,44,7831,#9edae5,Train Workers
+2009,3,3,2122,#cc0000,Computer Engineers
+2009,319,319,3911,#d66011,Industrial Planning Technicians
+2009,6,6,3146,#d66011,Metallurgy Technicians
+2009,5,5,7401,#9edae5,Instrument Assembly Supervisors
+2009,19,19,2332,#cc0000,Vocational Instructors
+2009,260,260,3131,#d66011,Electricians and Electrical Engineers
+2009,50,50,3722,#d66011,Teleprocessing Technicians
+2009,54,54,7211,#9edae5,Toolmakers
+2009,7,7,1311,#752277,Social Services Directors
+2009,26,26,7301,#9edae5,Electrical Manufacturing Supervisors
+2009,5,5,7605,#9edae5,Manufactured Fabrics Supervisors
+2009,24,25,2233,#cc0000,Veterinarians
+2009,5,5,5136,#17bcef,Specialty Chefs
+2009,4,4,3122,#d66011,Infrastructure Technicians
+2009,1,1,3112,#d66011,Gas Technicians
+2009,5,5,3191,#d66011,Clothing Technicians
+2009,16,16,7101,#9edae5,Mineral Extraction Supervisors
+2009,4,4,3253,#d66011,Biotechnical Technicians
+2009,2,2,2614,#cc0000,Linguists
+2009,4,4,8101,#ffc41c,Chemical Production Supervisors
+2009,131,138,1231,#752277,Administrative and Financial Officers
+2009,44,44,7255,#9edae5,Car Assembly Line Workers
+2009,6,6,7612,#9edae5,Textile Wiring Workers
+2009,10,10,7641,#9edae5,Footwear Preparation Workers
+2009,131,134,2521,#cc0000,Administrators
+2009,24,24,2237,#cc0000,Nutritionists
+2009,9,9,2153,#cc0000,Pilots
+2009,52,52,5111,#17bcef,Transportation Security
+2009,26,26,2238,#cc0000,Audiologists
+2009,69,69,5135,#17bcef,Other Food Service Workers
+2009,3,3,1234,#752277,Other Directors
+2009,4,4,5102,#17bcef,Laundry Supervisors
+2009,4,4,3731,#d66011,Radio Station Technicians
+2009,196,196,1424,#752277,Supply Managers
+2009,4,4,8211,#ffc41c,Sinter Operators
+2009,7,7,8231,#ffc41c,Glass Preparation Operators
+2009,25,25,3121,#d66011,Building Construction Technicians
+2009,47,47,7652,#9edae5,Leather Manufacturing Workers
+2009,74,74,2143,#cc0000,Electrical Engineers
+2009,32,32,7254,#9edae5,Engine Fitters
+2009,19,19,3001,#d66011,Mechatronic Technicians
+2009,50,50,7643,#9edae5,Footwear Finishers
+2009,396,397,4201,#b7834b,Public Service Supervisors
+2009,46,46,7257,#9edae5,Refrigeration Installers
+2009,5849,5859,4141,#b7834b,Stockmen
+2009,1,1,1113,#752277,Magistrates
+2009,2533,2543,1421,#752277,Financial Managers
+2009,3,3,2621,#cc0000,Producers
+2009,2,2,3743,#d66011,Projectionists
+2009,26,26,3187,#d66011,Electronical Design Planners
+2009,568,568,5231,#17bcef,Product Installers
+2009,7,7,6230,#105B10,Animal Trainers
+2009,73,73,6321,#105B10,Lumberjacks
+2009,45,45,7157,#9edae5,Insulation Workers
+2009,1,1,2412,#cc0000,Attorneys
+2009,3,3,9152,#581f05,Musical Instrument Restoration Workers
+2009,44,44,3751,#d66011,Interior Designers
+2009,299,299,1412,#752277,Mining Production Managers
+2009,26,26,3143,#d66011,Car Mechanics
+2009,65,65,9513,#581f05,Security System Technicians
+2009,53,53,3223,#d66011,Optometrists
+2009,58,58,7313,#9edae5,Telecom Equipment Repairmen
+2009,7,7,3422,#d66011,Customs Brokes
+2009,716,716,5173,#17bcef,Security Guards
+2009,8,8,2544,#cc0000,State and Municipal Tax Collectors
+2009,53568,53713,5211,#17bcef,Vendors
+2009,4,4,7246,#9edae5,Wire Rope Workers
+2009,74,74,7731,#9edae5,Wood Cutting Machine Operators
+2009,8,8,7734,#9edae5,Wood Series Machinery Operators
+2009,1,1,5153,#17bcef,High Risk Care Workers
+2009,270,271,2531,#cc0000,Public Relations
+2009,5,5,5165,#17bcef,Funeral Service Workers
+2009,341,341,3141,#d66011,Mechanical Technicians
+2009,48,48,3003,#d66011,Electromechanical Technicians
+2009,18,18,2232,#cc0000,Dentists
+2009,9,9,5162,#17bcef,Caregivers
+2009,1,1,5167,#17bcef,Astrologists
+2009,391,391,5241,#17bcef,Door-to-Door Salesmen
+2009,1,1,7611,#9edae5,Wool and Fiber Workers
+2009,29,29,1417,#752277,Financial Institution Managers
+2009,691,691,4132,#b7834b,Bank Assistants
+2009,66,66,7241,#9edae5,Plumbers
+2009,1,1,3225,#d66011,Orthopedic Prostheses Technicians
+2009,8,8,2618,#cc0000,Photographers
+2009,5,5,2628,#cc0000,Other Dancers
+2009,6,6,7613,#9edae5,Loom Operators
+2009,57,57,xxxx,#C7C7C7,Unreported
+2009,1,1,2347,#cc0000,Humanities Professors
+2009,1,1,6301,#105B10,Forestry and Aquaculture Supervisors
+2009,1,1,6314,#105B10,Fishing Support Workers
+2009,86,86,9193,#581f05,Sports Equipment Repairmen
+2009,1,1,7826,#9edae5,Train Operators
+2009,67,67,7663,#9edae5,Print Finishers
+2009,1,1,8421,#ffc41c,Other Tobacco Workers
+2009,1,1,8622,#ffc41c,Water Utility Workers
+2009,6,6,6210,#105B10,General Agricultural Workers
+2009,8,8,1112,#752277,Heads of Government
+2009,2,2,1223,#752277,Construction COOs
+2009,6,6,3212,#d66011,Foresters
+2009,3160,3185,1414,#752277,Trade Managers
+2009,1,1,8114,#ffc41c,Distilling Equipment Operators
+2009,79,79,7661,#9edae5,Prepress Graphics Workers
+2009,229,234,2522,#cc0000,Accountants
+2009,38,38,9541,#581f05,Elevator Technicians
+2009,16,16,7202,#9edae5,Metal Processing Supervisors
+2009,7,7,3250,#d66011,Horticulture Technicians
+2009,60,60,3744,#d66011,Video and Film Editors
+2009,6,6,7732,#9edae5,Wood Plate Pressing Operators
+2009,1,1,6121,#105B10,Grass Farmers
+2009,5,5,3713,#d66011,Graphic Designers
+2009,4,4,7622,#9edae5,Leather Tanners
+2009,8,8,7610,#9edae5,General Textile Workers
+2009,1,1,3312,#d66011,Middle School Teachers
+2009,6,6,3548,#d66011,Tourism and Event Organizers
+2009,75,75,7166,#9edae5,Interior Painters
+2009,1,1,8482,#ffc41c,Craft Dairy Pasteurization Workers
+2009,1,1,6325,#105B10,Medicinal Species Cultivation
+2009,1,1,8221,#ffc41c,Metal Reheating Operators
+2009,1,1,2311,#cc0000,Elementary School Teachers
+2009,75,75,7155,#9edae5,Construction Workers
+2009,8,8,7686,#9edae5,Typographers
+2009,61,61,2624,#cc0000,Visual Artists
+2009,1,1,7224,#9edae5,Metal Straightening Workers
+2009,10,10,7223,#9edae5,Metal Molding Workers
+2009,730,730,4142,#b7834b,Production Trainers
+2009,3,3,2112,#cc0000,Statisticians
+2009,14,14,1426,#752277,R&amp;D Managers
+2009,35,35,3421,#d66011,Transport Logistics Technicians
+2009,599,599,7741,#9edae5,Furniture Assemblers
+2009,1,1,6124,#105B10,Flower Farmers
+2009,775,775,4223,#b7834b,Telemarketers
+2009,10,10,7687,#9edae5,Bookbinders
+2009,50,50,3111,#d66011,Chemical Technicians
+2009,7,7,8484,#ffc41c,Food Tasters
+2009,1,1,5166,#17bcef,Other Funeral Workers
+2009,946,952,9922,#581f05,Road Maintenance Workers
+2009,9,9,9911,#581f05,Railway Maintenance Workers
+2009,10,10,7721,#9edae5,Wood Preparation Workers
+2009,33,33,3180,#d66011,Technical Designers
+2009,3448,3454,1423,#752277,Marketing Managers
+2009,5,5,9503,#581f05,Electromechanical Maintenance Supervisors
+2009,113,113,8181,#ffc41c,Industrial Lab Operators
+2009,7,7,6410,#105B10,Mechanical Agricultural Workers
+2009,3,3,2616,#cc0000,Editors
+2009,1,1,3213,#d66011,Aquafarmers
+2009,1,1,2032,#cc0000,Engineering Researchers
+2009,8,8,6430,#105B10,Irrigation and Drainage Workers
+2009,956,957,5174,#17bcef,Doormen
+2009,11,11,7764,#9edae5,Carpenters
+2009,2,2,7421,#9edae5,Musical Instrument Assemblers
+2009,1,1,3771,#d66011,Professional Athletes
+2009,21,21,7201,#9edae5,Metal Machining Supervisors
+2009,9,9,1224,#752277,Trade COOs
+2009,11,11,8113,#ffc41c,Filtration Workers
+2009,3,3,7501,#9edae5,Jewelry Supervisors
+2009,1122,1122,5199,#17bcef,Other Service Workers
+2009,1298,1300,7841,#9edae5,Packing and Labeling Workers
+2009,1153,1156,5132,#17bcef,Cooks
+2009,428,428,3542,#d66011,Buyers
+2009,12,12,8415,#ffc41c,Dairy Pastuerization Workers
+2009,1335,1336,5142,#17bcef,Garbagemen
+2009,101,101,7511,#9edae5,Precious Stone Artisans
+2009,1,1,7811,#9edae5,Robotic Operators
+2009,33,33,2612,#cc0000,Librarians
+2009,369,369,2124,#cc0000,Information Analysts
+2009,14,14,2241,#cc0000,Gym Teachers
+2009,1,1,3424,#d66011,Public Transporation Technicians
+2009,103,103,7164,#9edae5,Plasterers
+2009,10,10,7604,#9edae5,Cobbler Supervisors
+2009,12,12,5164,#17bcef,Launderers
+2009,12,12,4241,#b7834b,Interviewers and Census Takers
+2009,110,110,7213,#9edae5,Metal Polishers
+2009,8,8,7232,#9edae5,Thermochemical Metal Workers
+2009,1,1,6131,#105B10,Larger Livestock Breeders
+2009,5,7,3186,#d66011,Mechanical Design Planners
+2009,5,5,3211,#d66011,Agricultural Technicians
+2009,51,51,7102,#9edae5,Construction Supervisors
+2009,15,15,8233,#ffc41c,Construction Equipment Operators
+2009,1,1,2321,#cc0000,High School Teachers
+2009,51,51,3331,#d66011,Free Course Instructors
+2009,13,13,7614,#9edae5,Textile Dyers
+2009,1,1,2622,#cc0000,Directors
+2009,45,45,2123,#cc0000,IT Managers
+2009,74,74,3188,#d66011,Product Design Planners
+2009,11,11,1411,#752277,Agricultural Production Managers
+2009,1,1,7621,#9edae5,Leather Preparation Workers
+2009,128,128,5163,#17bcef,Dry Cleaners
+2009,104,104,7411,#9edae5,Precision Instrument Assemblers
+2009,99,99,6201,#105B10,Agricultural Supervisors
+2009,32,32,3543,#d66011,Foreign Trade Analysts
+2009,1,1,6125,#105B10,Fruit Farmers
+2009,14,14,8212,#ffc41c,Furnace Operators
+2009,106,106,7245,#9edae5,Metal Forming Machine Operators
+2009,8,8,8625,#ffc41c,Refrigeration Workers
+2009,25,25,2141,#cc0000,Architects and Planners
+2009,117,117,7321,#9edae5,Communication Line Repairmen
+2009,586,589,4102,#b7834b,Financial Supervisors
+2009,11,11,7521,#9edae5,Glassblowers
+2009,69,69,3221,#d66011,Alternative Therapy Technicians
+2009,10,10,7821,#9edae5,Crane Operators
+2009,113,113,4222,#b7834b,Telephone Operators
+2009,1,1,2011,#cc0000,Biotechnologist
+2009,5,5,3341,#d66011,School Inspectors
+2009,902,903,4131,#b7834b,Accounting Assistants
+2009,91,91,7251,#9edae5,Assembly Line Equipment Assemblers
+2009,863,863,9913,#581f05,Vehicle Bodywork Mechanics
+2009,1,1,2516,#cc0000,Social Workers
+2009,14050,14078,4211,#b7834b,Non-Bank Tellers
+2009,1,1,7113,#9edae5,Liquid and Gas Extraction Workers
+2009,85,85,5101,#17bcef,Hospitality Supervisors
+2009,9,9,3115,#d66011,Water Treatment Technicians
+2009,113,113,7252,#9edae5,Industrial Machine Assemblers
+2009,113,113,9191,#581f05,Lubricators
+2009,14,14,8117,#ffc41c,Rubber and Plastics Machine Operators
+2009,131,131,8621,#ffc41c,Steam Utility Workers
+2009,122,122,3117,#d66011,Colorists
+2009,14,14,7642,#9edae5,Footwear Assemblers
+2009,11,11,8417,#ffc41c,Beverage Manufacturing Workers
+2009,4,4,3163,#d66011,Mining Technicians
+2009,13,15,8118,#ffc41c,Pharmacuetical Machinery Operators
+2009,6,6,7154,#9edae5,Concrete Machine Operators
+2009,10,10,9151,#581f05,Measuring Instrument Repairmen
+2009,117,117,7522,#9edae5,Glass Processing Workers
+2009,1710,1714,4122,#b7834b,Secretaries
+2009,37,37,3544,#d66011,Auctioneers
+2009,67,67,3517,#d66011,Insurance Technicians
+2009,8,8,3142,#d66011,Tool Technicians
+2009,1,1,8121,#ffc41c,Ammunition Manufacturing Workers
+2009,3,3,2147,#cc0000,Mining Engineers
+2009,106,106,8214,#ffc41c,Metal Finishing Operators
+2009,1,1,8416,#ffc41c,Coffee and Tea Workers
+2009,2,2,6123,#105B10,Horticulture Farmers
+2009,68,68,3516,#d66011,Work Safety Technicians
+2009,45,45,2394,#cc0000,Other Educators
+2009,2,2,8611,#ffc41c,Other Power Distribution Workers
+2009,2,2,3524,#d66011,Copyright Specialists
+2009,168,168,4151,#b7834b,Scribes
+2009,2,2,3413,#d66011,Maritime Technicians

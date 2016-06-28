@@ -1,0 +1,454 @@
+year,num_emp,num_jobs,cbo_id,color,name
+2004,11,11,3743,#d66011,Projectionists
+2004,199,199,7156,#9edae5,Electrical Workers
+2004,13,13,7701,#9edae5,Carpentry Supervisors
+2004,131,131,3912,#d66011,Production Control Technicians
+2004,28,28,2142,#cc0000,Civil Engineers
+2004,13,13,1114,#752277,Public Service Leaders
+2004,205,205,3251,#d66011,Pharmacy Technicians
+2004,1,1,9109,#581f05,Other Maintenance Supervisors
+2004,22,22,7524,#9edae5,Glassware and Ceramic Workers
+2004,1,1,6301,#105B10,Forestry and Aquaculture Supervisors
+2004,2,2,7224,#9edae5,Metal Straightening Workers
+2004,3,3,8311,#ffc41c,Paper Pulp Manufacturing Workers
+2004,2986,2988,5134,#17bcef,Restaurant Workers
+2004,2,2,2621,#cc0000,Producers
+2004,1,1,8121,#ffc41c,Ammunition Manufacturing Workers
+2004,24,24,7653,#9edae5,Leather Machine Operators
+2004,29,29,5164,#17bcef,Launderers
+2004,3,3,8417,#ffc41c,Beverage Manufacturing Workers
+2004,2,2,6430,#105B10,Irrigation and Drainage Workers
+2004,1,1,3146,#d66011,Metallurgy Technicians
+2004,8,8,9501,#581f05,Industrial Electrical Maintenance Supervisors
+2004,2,2,3182,#d66011,Mechanical Designers
+2004,29,29,3224,#d66011,Dental Technicians
+2004,3,3,8482,#ffc41c,Craft Dairy Pasteurization Workers
+2004,14,14,7214,#9edae5,CNC Machinists
+2004,19,19,2618,#cc0000,Photographers
+2004,1914,1915,7823,#9edae5,Passenger Vehicle Drivers
+2004,7,7,3543,#d66011,Foreign Trade Analysts
+2004,2,2,1234,#752277,Other Directors
+2004,3,3,7687,#9edae5,Bookbinders
+2004,120,120,3133,#d66011,Telecom Technicians
+2004,4,4,7640,#9edae5,Other Footwear Manufacturing Workers
+2004,19,19,3011,#d66011,Industrial Lab Technicians
+2004,28,28,7751,#9edae5,Wood Finishers
+2004,3,3,8110,#ffc41c,Generic Chemical Equipment Operators
+2004,2,2,1113,#752277,Magistrates
+2004,27,27,7222,#9edae5,Metal Smelting Workers
+2004,23,23,7254,#9edae5,Engine Fitters
+2004,1,1,3250,#d66011,Horticulture Technicians
+2004,6,6,2221,#cc0000,Agricultural Engineers
+2004,6,6,1224,#752277,Trade COOs
+2004,29,29,3741,#d66011,Audio Technicians
+2004,1,1,2627,#cc0000,Musicians
+2004,3,3,6130,#105B10,Other Livestock Breeders
+2004,30,30,7221,#9edae5,Metal Forging Workers
+2004,22,22,3180,#d66011,Technical Designers
+2004,18,18,7733,#9edae5,Other Wood Machining Operators
+2004,16,16,7821,#9edae5,Crane Operators
+2004,23,23,9143,#581f05,Subway Mechanics
+2004,317,318,5112,#17bcef,Public Transit Attendants
+2004,729,748,2234,#cc0000,Pharmacists
+2004,845,846,5201,#17bcef,Sales Supervisors
+2004,8,8,3544,#d66011,Auctioneers
+2004,3,3,8233,#ffc41c,Construction Equipment Operators
+2004,3,4,3411,#d66011,Commercial Pilots
+2004,93,95,1422,#752277,Human Resource Managers
+2004,3,3,8211,#ffc41c,Sinter Operators
+2004,22,22,3771,#d66011,Professional Athletes
+2004,30,30,7682,#9edae5,Tissue Makers
+2004,18,18,9141,#581f05,Aircraft Mechanics
+2004,225,225,4213,#b7834b,Billing Collectors
+2004,34,34,6224,#105B10,Flower Culivators
+2004,67,67,2521,#cc0000,Administrators
+2004,3,3,5131,#17bcef,Butlers and Maids
+2004,3,3,6125,#105B10,Fruit Farmers
+2004,114,114,3171,#d66011,System Administrators
+2004,26,26,8117,#ffc41c,Rubber and Plastics Machine Operators
+2004,32,32,4152,#b7834b,Postal Workers
+2004,16,16,7301,#9edae5,Electrical Manufacturing Supervisors
+2004,19,19,9502,#581f05,Vehicle Electronics Maintenance Supervisors
+2004,266,266,7163,#9edae5,Glaziers
+2004,1,1,2112,#cc0000,Statisticians
+2004,2,2,3001,#d66011,Mechatronic Technicians
+2004,4,4,7622,#9edae5,Leather Tanners
+2004,5,5,3186,#d66011,Mechanical Design Planners
+2004,1,1,3181,#d66011,Construction Designers
+2004,3908,3921,5142,#17bcef,Garbagemen
+2004,5,5,6230,#105B10,Animal Trainers
+2004,31,31,7651,#9edae5,Leather Upholstery Workers
+2004,1,1,2614,#cc0000,Linguists
+2004,31,31,9542,#581f05,Home Appliance Technicians
+2004,2356,2357,9144,#581f05,Car Mechanics
+2004,4,4,8231,#ffc41c,Glass Preparation Operators
+2004,15,15,2237,#cc0000,Nutritionists
+2004,18,18,9541,#581f05,Elevator Technicians
+2004,1,1,3424,#d66011,Public Transporation Technicians
+2004,1,1,1312,#752277,Health Service Directors
+2004,3,3,1236,#752277,Computer Service Officers
+2004,55,55,1210,#752277,CEOs
+2004,27,27,3517,#d66011,Insurance Technicians
+2004,4,4,6210,#105B10,General Agricultural Workers
+2004,24,24,3331,#d66011,Free Course Instructors
+2004,1710,1716,3541,#d66011,Sales Specialist
+2004,2,2,2313,#cc0000,Specialized Elementary School Teachers
+2004,5,5,8624,#ffc41c,Gas Utility Workers
+2004,295,295,7630,#9edae5,Other Clothing Manufacturing Workers
+2004,25,25,5103,#17bcef,Security Supervisors
+2004,3,3,3114,#d66011,Plastic and Rubber Technicians
+2004,30,31,3422,#d66011,Customs Brokes
+2004,133,134,3511,#d66011,Accounting Technicians
+2004,3315,3320,4141,#b7834b,Stockmen
+2004,377,377,7741,#9edae5,Furniture Assemblers
+2004,299,299,4121,#b7834b,Data Entry Specialists
+2004,230,230,5241,#17bcef,Door-to-Door Salesmen
+2004,32,32,7824,#9edae5,Public Transit Driver
+2004,1,1,1238,#752277,Maintenance Officers
+2004,49,49,8321,#ffc41c,Paper and Cardboard Manufacturing Workers
+2004,228,228,9131,#581f05,Heavy Machinery Mechanics
+2004,225,225,3131,#d66011,Electricians and Electrical Engineers
+2004,259,260,3515,#d66011,Secretarial Technicians
+2004,58,58,2143,#cc0000,Electrical Engineers
+2004,381,381,9921,#581f05,Basic Vehicle Mechanics
+2004,6,6,2132,#cc0000,Chemists
+2004,12,12,2141,#cc0000,Architects and Planners
+2004,140,140,2531,#cc0000,Public Relations
+2004,40,40,7731,#9edae5,Wood Cutting Machine Operators
+2004,7,7,8201,#ffc41c,Steel Production Supervisors
+2004,2,2,9503,#581f05,Electromechanical Maintenance Supervisors
+2004,4,4,7312,#9edae5,Telecom Equipment Assemblers
+2004,43,43,1233,#752277,Sales and Marketing Directors
+2004,11,11,2612,#cc0000,Librarians
+2004,50,52,4212,#b7834b,Gambling Collectors
+2004,115,115,1424,#752277,Supply Managers
+2004,5,5,6232,#105B10,Midsize Animal Livestock Workers
+2004,263,263,5243,#17bcef,Street Vendors
+2004,40,40,7313,#9edae5,Telecom Equipment Repairmen
+2004,141,141,1412,#752277,Mining Production Managers
+2004,17,17,2515,#cc0000,Psychologists
+2004,304,304,7243,#9edae5,Metal Welders
+2004,13,13,8601,#ffc41c,Utility Supervisors
+2004,39,39,3744,#d66011,Video and Film Editors
+2004,3,3,5102,#17bcef,Laundry Supervisors
+2004,124,124,1416,#752277,Transportation Managers
+2004,418,419,5231,#17bcef,Product Installers
+2004,457,457,9922,#581f05,Road Maintenance Workers
+2004,260,260,4201,#b7834b,Public Service Supervisors
+2004,38,38,7241,#9edae5,Plumbers
+2004,11,11,7202,#9edae5,Metal Processing Supervisors
+2004,3,3,3523,#d66011,Tax Agents
+2004,299,299,9531,#581f05,Vehicle Maintenance Electricians
+2004,547,554,5121,#17bcef,Domestic Service Workers
+2004,45,45,8331,#ffc41c,Paper Machinery Operators
+2004,23,23,7201,#9edae5,Metal Machining Supervisors
+2004,40,40,7161,#9edae5,Concrete Coaters
+2004,17,17,7257,#9edae5,Refrigeration Installers
+2004,10,10,1311,#752277,Social Services Directors
+2004,2,2,1223,#752277,Construction COOs
+2004,1767,1774,1421,#752277,Financial Managers
+2004,48,48,9513,#581f05,Security System Technicians
+2004,18,18,2233,#cc0000,Veterinarians
+2004,6,6,7623,#9edae5,Leather Finishers
+2004,445,446,7170,#9edae5,Civil Engineering Assistants
+2004,5,5,3341,#d66011,School Inspectors
+2004,40,40,7211,#9edae5,Toolmakers
+2004,280,280,2523,#cc0000,Executives
+2004,2,2,3212,#d66011,Foresters
+2004,13,13,2232,#cc0000,Dentists
+2004,35,35,1226,#752277,Storage and Transport COOs
+2004,30,30,7102,#9edae5,Construction Supervisors
+2004,4,4,1227,#752277,Financial COOs
+2004,1,1,2331,#cc0000,Vocational Teachers
+2004,28,28,7603,#9edae5,Clothing Manufacturing Supervisors
+2004,4,4,3426,#d66011,Seaport Operations Technicians
+2004,39491,39619,5211,#17bcef,Vendors
+2004,56,56,5192,#17bcef,Recycling Collectors
+2004,50,50,7510,#9edae5,Jewelers
+2004,4,4,3714,#d66011,Recruiters
+2004,6,6,2617,#cc0000,Announcers
+2004,379,379,7233,#9edae5,Metal Equipment Painters
+2004,27,27,2525,#cc0000,Financial Analysts
+2004,7,7,8332,#ffc41c,Handmade Paper Product Workers
+2004,6,6,7153,#9edae5,Reinforced Concrete Assemblers
+2004,3,3,3545,#d66011,Insurance Agents
+2004,543,545,5152,#17bcef,Medical Lab Assistants
+2004,5,5,5165,#17bcef,Funeral Service Workers
+2004,5,5,7162,#9edae5,Roofers
+2004,46,46,7831,#9edae5,Train Workers
+2004,5,5,8113,#ffc41c,Filtration Workers
+2004,360,360,9113,#581f05,Industrial Machine Maintenance Workers
+2004,22,22,3732,#d66011,Camera Operators
+2004,42,42,7112,#9edae5,Mineral Extraction Machinery Operators
+2004,3,3,3123,#d66011,Geographic Technicians
+2004,51,51,7164,#9edae5,Plasterers
+2004,22,22,7661,#9edae5,Prepress Graphics Workers
+2004,46,46,7643,#9edae5,Footwear Finishers
+2004,15,15,3121,#d66011,Building Construction Technicians
+2004,5,5,9152,#581f05,Musical Instrument Restoration Workers
+2004,1,1,2147,#cc0000,Mining Engineers
+2004,12,12,2394,#cc0000,Other Educators
+2004,62,62,8418,#ffc41c,Pastry Manufacturing Workers
+2004,4,4,7650,#9edae5,Other Leather Product Workers
+2004,4,4,7605,#9edae5,Manufactured Fabrics Supervisors
+2004,10,10,3713,#d66011,Graphic Designers
+2004,3,3,2235,#cc0000,Nurses
+2004,8,8,2544,#cc0000,State and Municipal Tax Collectors
+2004,7,7,3764,#d66011,Models
+2004,34,34,8401,#ffc41c,Food Manufacturing Supervisors
+2004,37,37,2624,#cc0000,Visual Artists
+2004,298,298,3141,#d66011,Mechanical Technicians
+2004,4,4,2145,#cc0000,Chemical Engineers
+2004,134,135,2522,#cc0000,Accountants
+2004,8,8,2149,#cc0000,Production Engineers
+2004,49,50,7151,#9edae5,Excavators
+2004,61,61,3117,#d66011,Colorists
+2004,43,43,3532,#d66011,Bank Technicians
+2004,5,5,7246,#9edae5,Wire Rope Workers
+2004,3,3,3163,#d66011,Mining Technicians
+2004,48,48,3134,#d66011,Instrumentation Technicians
+2004,4,4,1237,#752277,R&amp;D Directors
+2004,113,123,1231,#752277,Administrative and Financial Officers
+2004,22,22,2123,#cc0000,IT Managers
+2004,12,12,2532,#cc0000,Marketing Consutants
+2004,1,1,2625,#cc0000,Actors
+2004,62,62,7165,#9edae5,Floor Finishers
+2004,53,53,3514,#d66011,Judicial Clerks
+2004,8,8,3711,#d66011,Library Technicians
+2004,6,6,3183,#d66011,Utility Designers
+2004,65,65,7166,#9edae5,Interior Painters
+2004,6,6,7154,#9edae5,Concrete Machine Operators
+2004,5,5,6410,#105B10,Mechanical Agricultural Workers
+2004,70,70,8181,#ffc41c,Industrial Lab Operators
+2004,611,611,7632,#9edae5,Stitching Machine Operators
+2004,44,44,8131,#ffc41c,Chemical Processing Workers
+2004,6,6,3211,#d66011,Agricultural Technicians
+2004,1,1,7621,#9edae5,Leather Preparation Workers
+2004,64,64,5111,#17bcef,Transportation Security
+2004,3478,3501,1414,#752277,Trade Managers
+2004,9,9,7121,#9edae5,Ore Workers
+2004,5,5,7523,#9edae5,Potters
+2004,3,3,3241,#d66011,Radiologists
+2004,941,942,7841,#9edae5,Packing and Labeling Workers
+2004,786,786,5199,#17bcef,Other Service Workers
+2004,4,4,6323,#105B10,Fiber and Wax and Oil Extraction Workers
+2004,12,12,7114,#9edae5,Salt Workers
+2004,91,91,8414,#ffc41c,Food Preservation Workers
+2004,9,9,5133,#17bcef,Housekeepers
+2004,7,7,3115,#d66011,Water Treatment Technicians
+2004,53,53,7652,#9edae5,Leather Manufacturing Workers
+2004,64,64,7245,#9edae5,Metal Forming Machine Operators
+2004,76,77,5163,#17bcef,Dry Cleaners
+2004,7,7,5151,#17bcef,Health Services Workers
+2004,867,867,5132,#17bcef,Cooks
+2004,2380,2399,1423,#752277,Marketing Managers
+2004,1,1,6231,#105B10,Large Animal Livestock Workers
+2004,7,7,2613,#cc0000,Archivists
+2004,210,210,2124,#cc0000,Information Analysts
+2004,5,5,1112,#752277,Heads of Government
+2004,17,17,2611,#cc0000,Journalists
+2004,71,71,7251,#9edae5,Assembly Line Equipment Assemblers
+2004,21,21,1417,#752277,Financial Institution Managers
+2004,4,4,2615,#cc0000,Writers
+2004,322,323,3542,#d66011,Buyers
+2004,423,423,3172,#d66011,Computer Technicians
+2004,75,75,7155,#9edae5,Construction Workers
+2004,78,78,9193,#581f05,Sports Equipment Repairmen
+2004,1,1,6128,#105B10,Spice Farmers
+2004,36,36,3143,#d66011,Car Mechanics
+2004,73,73,7411,#9edae5,Precision Instrument Assemblers
+2004,58,58,7252,#9edae5,Industrial Machine Assemblers
+2004,53,53,5101,#17bcef,Hospitality Supervisors
+2004,1,1,2241,#cc0000,Gym Teachers
+2004,83,83,7242,#9edae5,Steel Structural Erection Workers
+2004,1,1,1221,#752277,Agricultural COOs
+2004,63,65,7255,#9edae5,Car Assembly Line Workers
+2004,715,717,4142,#b7834b,Production Trainers
+2004,48,48,3516,#d66011,Work Safety Technicians
+2004,1,1,6225,#105B10,Fruit Farm Workers
+2004,10,10,7654,#9edae5,Leather Product Finishers
+2004,50,50,3223,#d66011,Optometrists
+2004,3,3,8102,#ffc41c,Plastics and Rubber Production Supervisors
+2004,6,6,3185,#d66011,Construction Design Planners
+2004,6,6,3142,#d66011,Tool Technicians
+2004,670,670,9913,#581f05,Vehicle Bodywork Mechanics
+2004,15,15,6131,#105B10,Larger Livestock Breeders
+2004,719,721,4223,#b7834b,Telemarketers
+2004,52,52,3111,#d66011,Chemical Technicians
+2004,455,455,7842,#9edae5,Production Line Feeders
+2004,1,1,6124,#105B10,Flower Farmers
+2004,64,64,7111,#9edae5,Solid Mineral Extraction Workers
+2004,1,1,8623,#ffc41c,Sewage Workers
+2004,8,8,7828,#9edae5,Animal-Drawn Vehicle Conductors
+2004,96,96,7213,#9edae5,Metal Polishers
+2004,99,100,5141,#17bcef,Building Management
+2004,1,1,2516,#cc0000,Social Workers
+2004,448,448,4102,#b7834b,Financial Supervisors
+2004,9577,9613,4211,#b7834b,Non-Bank Tellers
+2004,52,52,3421,#d66011,Transport Logistics Technicians
+2004,686,687,5173,#17bcef,Security Guards
+2004,110,110,5193,#17bcef,Veternary Service Workers
+2004,10,10,7686,#9edae5,Typographers
+2004,6,6,8101,#ffc41c,Chemical Production Supervisors
+2004,12,12,7764,#9edae5,Carpenters
+2004,1,1,7113,#9edae5,Liquid and Gas Extraction Workers
+2004,94,94,7522,#9edae5,Glass Processing Workers
+2004,104,104,5161,#17bcef,Beauty Workers
+2004,1,1,6126,#105B10,Fertilizer Farmers
+2004,8,8,7613,#9edae5,Loom Operators
+2004,7,7,1411,#752277,Agricultural Production Managers
+2004,12,12,2346,#cc0000,Language Professors
+2004,2,2,2631,#cc0000,Religious Professionals
+2004,942,943,5174,#17bcef,Doormen
+2004,74,74,3222,#d66011,Nursing Assistants
+2004,1,1,3518,#d66011,Investigative Technicians
+2004,7,7,9153,#581f05,Biomedical Equipment Repairmen
+2004,7,7,8232,#ffc41c,Glass Manufacturing Operators
+2004,10,10,3951,#d66011,Technical Support in Research and Development
+2004,6,6,1413,#752277,Construction Managers
+2004,42,42,3513,#d66011,Administrative Technicians
+2004,866,869,4132,#b7834b,Bank Assistants
+2004,32,32,3547,#d66011,Independent Salesmen
+2004,74,74,3144,#d66011,Machinery Technicians
+2004,77,77,xxxx,#C7C7C7,Unreported
+2004,1,1,1232,#752277,Human Resource Directors
+2004,1,1,3191,#d66011,Clothing Technicians
+2004,1,2,2412,#cc0000,Attorneys
+2004,101,102,8621,#ffc41c,Steam Utility Workers
+2004,836,839,4131,#b7834b,Accounting Assistants
+2004,10,10,3548,#d66011,Tourism and Event Organizers
+2004,1,1,7401,#9edae5,Instrument Assembly Supervisors
+2004,8,8,7101,#9edae5,Mineral Extraction Supervisors
+2004,2,2,2122,#cc0000,Computer Engineers
+2004,1,1,9142,#581f05,Marine Equipment Maintenance 
+2004,1,1,7231,#9edae5,Metal Heat Treatment Workers
+2004,1,1,3425,#d66011,Air Transport Technicians
+2004,4,4,7606,#9edae5,Graphic Production Supervisors
+2004,85,85,7822,#9edae5,Cargo Equipment Operators
+2004,9,9,7232,#9edae5,Thermochemical Metal Workers
+2004,12,12,8213,#ffc41c,Laminating Operators
+2004,5,5,8301,#ffc41c,Paper Manufacturing Supervisors
+2004,13,13,7641,#9edae5,Footwear Preparation Workers
+2004,9,9,8111,#ffc41c,Grinding and Mixing Machine Operators
+2004,7,7,2311,#cc0000,Elementary School Teachers
+2004,1465,1470,9914,#581f05,Building Maintenance Workers
+2004,796,797,3132,#d66011,Electronics Technicians
+2004,138,138,7511,#9edae5,Precious Stone Artisans
+2004,10,10,7642,#9edae5,Footwear Assemblers
+2004,14,14,7618,#9edae5,Textile Inspectors
+2004,107,108,7662,#9edae5,Printers
+2004,10,10,3184,#d66011,Technical Product Designers
+2004,40,40,2231,#cc0000,Doctors
+2004,21,21,2512,#cc0000,Economists
+2004,1,1,3213,#d66011,Aquafarmers
+2004,86,86,9112,#581f05,HVAC Maintenance Workers
+2004,1317,1318,7832,#9edae5,Movers
+2004,66,66,9101,#581f05,Industrial Machinery Maintenance Supervisors
+2004,11,11,9543,#581f05,Office Equipment Technicians
+2004,5,5,2616,#cc0000,Editors
+2004,19,19,3221,#d66011,Alternative Therapy Technicians
+2004,13,13,7521,#9edae5,Glassblowers
+2004,11,11,7681,#9edae5,Weavers and Knitters
+2004,13,13,7253,#9edae5,Heavy Machinery Assemblers
+2004,13,13,3311,#d66011,Early Childhood Teachers
+2004,84,84,3423,#d66011,Road Transport Technicians
+2004,8,8,8202,#ffc41c,Building Material Supervisors
+2004,1,1,8422,#ffc41c,Cigar Workers
+2004,9,9,3242,#d66011,Clinical Pathology Technicians
+2004,10,10,8611,#ffc41c,Other Power Distribution Workers
+2004,31,31,2410,#cc0000,Lawyers
+2004,115,115,9191,#581f05,Lubricators
+2004,8,8,8625,#ffc41c,Refrigeration Workers
+2004,165,165,4151,#b7834b,Scribes
+2004,107,107,7610,#9edae5,General Textile Workers
+2004,4,4,7502,#9edae5,Glass and Ceramic Supervisors
+2004,4,4,1426,#752277,R&amp;D Managers
+2004,14,14,9151,#581f05,Measuring Instrument Repairmen
+2004,127,127,7152,#9edae5,Masonry Workers
+2004,125,125,5242,#17bcef,Kiosk and Stall Vendors
+2004,42,45,1427,#752277,Project Managers
+2004,2,2,1111,#752277,Legislators
+2004,1339,1341,4221,#b7834b,Receptionists
+2004,2,2,2153,#cc0000,Pilots
+2004,96,96,7321,#9edae5,Communication Line Repairmen
+2004,168,168,6220,#105B10,Other Agricultural Support Workers
+2004,36,36,2524,#cc0000,Human Resources Professionals
+2004,1924,1928,4122,#b7834b,Secretaries
+2004,12827,12854,4110,#b7834b,Administrative Assistants
+2004,123,123,8214,#ffc41c,Metal Finishing Operators
+2004,2,2,6223,#105B10,Horticulture Farm Workers
+2004,8,8,2238,#cc0000,Audiologists
+2004,15,15,3762,#d66011,Circus Artists
+2004,5,5,7501,#9edae5,Jewelry Supervisors
+2004,11,11,7601,#9edae5,Textile Supervisors
+2004,153,153,8481,#ffc41c,Craft Food Preservation Workers
+2004,12,12,2629,#cc0000,Interior Designer
+2004,6,6,2236,#cc0000,Physiotherapists
+2004,7,7,3252,#d66011,Food Production Technicians
+2004,121,121,3751,#d66011,Interior Designers
+2004,15,15,2321,#cc0000,High School Teachers
+2004,137,137,1415,#752277,Hospitality Managers
+2004,2,2,1142,#752277,Social Economic Workers
+2004,2,2,3192,#d66011,Furniture Technicians
+2004,21,21,7734,#9edae5,Wood Series Machinery Operators
+2004,94,94,9511,#581f05,Electrical Maintenance Workers
+2004,2,2,3225,#d66011,Orthopedic Prostheses Technicians
+2004,21,21,7223,#9edae5,Metal Molding Workers
+2004,157,158,4222,#b7834b,Telephone Operators
+2004,16,16,7826,#9edae5,Train Operators
+2004,2,2,8415,#ffc41c,Dairy Pastuerization Workers
+2004,20,20,6321,#105B10,Lumberjacks
+2004,22,22,6326,#105B10,Coal Workers
+2004,17,17,2312,#cc0000,General Primary School Teachers
+2004,154,154,7311,#9edae5,Electrical Equipment Assemblers
+2004,127,127,9192,#581f05,Landscapers
+2004,19,19,8212,#ffc41c,Furnace Operators
+2004,114,114,9111,#581f05,Pump and Motor Mechanics
+2004,1772,1776,8485,#ffc41c,Butchers
+2004,1308,1311,7825,#9edae5,General Cargo Drivers
+2004,2,2,3413,#d66011,Maritime Technicians
+2004,2,2,3113,#d66011,Glass Technicians
+2004,1977,1980,8483,#ffc41c,Bakers
+2004,13,13,7614,#9edae5,Textile Dyers
+2004,1777,1779,5191,#17bcef,Couriers
+2004,13,13,5171,#17bcef,Firefighters and Lifeguards
+2004,35,36,1425,#752277,IT Managers
+2004,2,2,2543,#cc0000,Labor Inspectors
+2004,26,26,7683,#9edae5,Leather and Fur Footwear Workers
+2004,18,18,3147,#d66011,Steel Technicians
+2004,56,56,9102,#581f05,Vehicle Maintenance Supervisors
+2004,11,11,4241,#b7834b,Interviewers and Census Takers
+2004,15,15,3722,#d66011,Teleprocessing Technicians
+2004,23,23,2144,#cc0000,Mechanical Engineers
+2004,17,17,4231,#b7834b,Customs Brokers
+2004,205,205,6201,#105B10,Agricultural Supervisors
+2004,167,167,7250,#9edae5,Other Mechanical Fitters
+2004,20,20,7157,#9edae5,Insulation Workers
+2004,6,6,9911,#581f05,Railway Maintenance Workers
+2004,93,94,3188,#d66011,Product Design Planners
+2004,132,132,3911,#d66011,Industrial Planning Technicians
+2004,148,148,7664,#9edae5,Photo Lab Technicians
+2004,6,6,2332,#cc0000,Vocational Instructors
+2004,22,22,8118,#ffc41c,Pharmacuetical Machinery Operators
+2004,21,21,7663,#9edae5,Print Finishers
+2004,2,2,3731,#d66011,Radio Station Technicians
+2004,179,179,7122,#9edae5,Ornamental Stone Workers
+2004,187,187,7711,#9edae5,Cabinetmakers
+2004,15,15,7801,#9edae5,Packing and Labeling Supervisors
+2004,11,11,3122,#d66011,Infrastructure Technicians
+2004,147,148,7212,#9edae5,Machine Operators
+2004,1,1,8221,#ffc41c,Metal Reheating Operators
+2004,874,874,4101,#b7834b,Administrative Supervisors
+2004,23,23,7721,#9edae5,Wood Preparation Workers
+2004,3,3,5162,#17bcef,Caregivers
+2004,3,3,7612,#9edae5,Textile Wiring Workers
+2004,250,252,7633,#9edae5,Embroidery Machine Operators
+2004,22,22,3003,#d66011,Electromechanical Technicians
+2004,19,19,8411,#ffc41c,Grains Processing Workers
+2004,172,172,7244,#9edae5,Boiler Workers
+2004,8,8,8103,#ffc41c,Pharmacuetical Production Supervisors
+2004,174,174,7631,#9edae5,Clothing Preparation Workers
+2004,1,1,3522,#d66011,Health and Environmental Workers
+2004,12,12,2151,#cc0000,Maritime Officials
+2004,23,23,2533,#cc0000,Stockbrokers
+

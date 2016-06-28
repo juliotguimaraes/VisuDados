@@ -1,0 +1,472 @@
+year,num_emp,num_jobs,cbo_id,color,name
+2007,1,1,1234,#752277,Other Directors
+2007,1,1,1232,#752277,Human Resource Directors
+2007,15607,15635,4110,#b7834b,Administrative Assistants
+2007,1,1,3212,#d66011,Foresters
+2007,148,148,7662,#9edae5,Printers
+2007,25,25,2532,#cc0000,Marketing Consutants
+2007,164,166,5161,#17bcef,Beauty Workers
+2007,2,2,1142,#752277,Social Economic Workers
+2007,1361,1361,7825,#9edae5,General Cargo Drivers
+2007,21,21,8118,#ffc41c,Pharmacuetical Machinery Operators
+2007,13,13,7214,#9edae5,CNC Machinists
+2007,97,97,9101,#581f05,Industrial Machinery Maintenance Supervisors
+2007,2,2,7224,#9edae5,Metal Straightening Workers
+2007,1950,1953,5191,#17bcef,Couriers
+2007,20,20,4152,#b7834b,Postal Workers
+2007,205,205,5112,#17bcef,Public Transit Attendants
+2007,2,2,2623,#cc0000,Scenographers
+2007,2,2,7421,#9edae5,Musical Instrument Assemblers
+2007,15,15,5103,#17bcef,Security Supervisors
+2007,1,1,3122,#d66011,Infrastructure Technicians
+2007,14,14,8202,#ffc41c,Building Material Supervisors
+2007,199,199,4222,#b7834b,Telephone Operators
+2007,161,161,7311,#9edae5,Electrical Equipment Assemblers
+2007,121,121,7822,#9edae5,Cargo Equipment Operators
+2007,11,11,3341,#d66011,School Inspectors
+2007,22,22,6224,#105B10,Flower Culivators
+2007,175,175,7152,#9edae5,Masonry Workers
+2007,5,5,2145,#cc0000,Chemical Engineers
+2007,176,176,7156,#9edae5,Electrical Workers
+2007,3,3,6230,#105B10,Animal Trainers
+2007,54,54,2231,#cc0000,Doctors
+2007,24,24,7683,#9edae5,Leather and Fur Footwear Workers
+2007,2,2,6125,#105B10,Fruit Farmers
+2007,140,140,3515,#d66011,Secretarial Technicians
+2007,23,23,7614,#9edae5,Textile Dyers
+2007,2,2,7162,#9edae5,Roofers
+2007,176,176,7711,#9edae5,Cabinetmakers
+2007,58,58,1425,#752277,IT Managers
+2007,13,13,3242,#d66011,Clinical Pathology Technicians
+2007,14,14,8411,#ffc41c,Grains Processing Workers
+2007,10,10,1411,#752277,Agricultural Production Managers
+2007,21,21,6210,#105B10,General Agricultural Workers
+2007,137,137,9111,#581f05,Pump and Motor Mechanics
+2007,3,3,6233,#105B10,Poultry Workers
+2007,170,170,3423,#d66011,Road Transport Technicians
+2007,185,185,7244,#9edae5,Boiler Workers
+2007,3,3,7623,#9edae5,Leather Finishers
+2007,151,151,3912,#d66011,Production Control Technicians
+2007,23,23,3762,#d66011,Circus Artists
+2007,25,25,7682,#9edae5,Tissue Makers
+2007,2,2,8623,#ffc41c,Sewage Workers
+2007,96,101,3133,#d66011,Telecom Technicians
+2007,80,81,2524,#cc0000,Human Resources Professionals
+2007,1,1,3250,#d66011,Horticulture Technicians
+2007,2,2,9142,#581f05,Marine Equipment Maintenance 
+2007,102,102,9131,#581f05,Heavy Machinery Mechanics
+2007,13,13,9153,#581f05,Biomedical Equipment Repairmen
+2007,22,22,9543,#581f05,Office Equipment Technicians
+2007,20,20,7824,#9edae5,Public Transit Driver
+2007,2,2,9152,#581f05,Musical Instrument Restoration Workers
+2007,28,28,7521,#9edae5,Glassblowers
+2007,2,2,7523,#9edae5,Potters
+2007,964,969,4101,#b7834b,Administrative Supervisors
+2007,2508,2511,8485,#ffc41c,Butchers
+2007,10,10,3732,#d66011,Camera Operators
+2007,1,1,2424,#cc0000,Public Defenders
+2007,208,208,4213,#b7834b,Billing Collectors
+2007,3,3,6130,#105B10,Other Livestock Breeders
+2007,22,22,7828,#9edae5,Animal-Drawn Vehicle Conductors
+2007,33,33,2142,#cc0000,Civil Engineers
+2007,12,12,8601,#ffc41c,Utility Supervisors
+2007,233,234,3251,#d66011,Pharmacy Technicians
+2007,17,18,5171,#17bcef,Firefighters and Lifeguards
+2007,63,63,2410,#cc0000,Lawyers
+2007,6,6,2241,#cc0000,Gym Teachers
+2007,25,25,9542,#581f05,Home Appliance Technicians
+2007,2,2,3731,#d66011,Radio Station Technicians
+2007,12,12,2238,#cc0000,Audiologists
+2007,3,3,3146,#d66011,Metallurgy Technicians
+2007,4,4,8113,#ffc41c,Filtration Workers
+2007,27,27,9143,#581f05,Subway Mechanics
+2007,89,89,9102,#581f05,Vehicle Maintenance Supervisors
+2007,34,35,1233,#752277,Sales and Marketing Directors
+2007,14,14,3252,#d66011,Food Production Technicians
+2007,1,1,1238,#752277,Maintenance Officers
+2007,2247,2249,7823,#9edae5,Passenger Vehicle Drivers
+2007,7,7,7606,#9edae5,Graphic Production Supervisors
+2007,21,21,7733,#9edae5,Other Wood Machining Operators
+2007,30,30,7751,#9edae5,Wood Finishers
+2007,206,206,7250,#9edae5,Other Mechanical Fitters
+2007,31,31,8131,#ffc41c,Chemical Processing Workers
+2007,29,29,7651,#9edae5,Leather Upholstery Workers
+2007,22,22,8111,#ffc41c,Grinding and Mixing Machine Operators
+2007,14,14,8103,#ffc41c,Pharmacuetical Production Supervisors
+2007,181,181,1415,#752277,Hospitality Managers
+2007,11,11,2616,#cc0000,Editors
+2007,36,36,7641,#9edae5,Footwear Preparation Workers
+2007,1,1,2132,#cc0000,Chemists
+2007,176,176,9192,#581f05,Landscapers
+2007,2,2,8416,#ffc41c,Coffee and Tea Workers
+2007,1,1,2614,#cc0000,Linguists
+2007,21,21,9141,#581f05,Aircraft Mechanics
+2007,3789,3792,5134,#17bcef,Restaurant Workers
+2007,3,3,3191,#d66011,Clothing Technicians
+2007,20,20,2629,#cc0000,Interior Designer
+2007,814,830,2234,#cc0000,Pharmacists
+2007,385,385,5121,#17bcef,Domestic Service Workers
+2007,3444,3448,8483,#ffc41c,Bakers
+2007,26,26,7253,#9edae5,Heavy Machinery Assemblers
+2007,36,36,7510,#9edae5,Jewelers
+2007,342,342,7842,#9edae5,Production Line Feeders
+2007,3,3,7612,#9edae5,Textile Wiring Workers
+2007,98,100,1416,#752277,Transportation Managers
+2007,4,4,6322,#105B10,Gums and Resins Extraction Workers
+2007,18,18,2332,#cc0000,Vocational Instructors
+2007,20,20,9502,#581f05,Vehicle Electronics Maintenance Supervisors
+2007,20,20,3184,#d66011,Technical Product Designers
+2007,171,171,7151,#9edae5,Excavators
+2007,35,35,3224,#d66011,Dental Technicians
+2007,4,4,5162,#17bcef,Caregivers
+2007,352,352,6201,#105B10,Agricultural Supervisors
+2007,3,3,3213,#d66011,Aquafarmers
+2007,29,29,7663,#9edae5,Print Finishers
+2007,1,1,7256,#9edae5,Aircraft Assemblers
+2007,17,17,7801,#9edae5,Packing and Labeling Supervisors
+2007,2,2,2131,#cc0000,Physicists
+2007,33,33,7165,#9edae5,Floor Finishers
+2007,4377,4392,5142,#17bcef,Garbagemen
+2007,102,102,2521,#cc0000,Administrators
+2007,36,36,3514,#d66011,Judicial Clerks
+2007,3,3,8321,#ffc41c,Paper and Cardboard Manufacturing Workers
+2007,8,8,2631,#cc0000,Religious Professionals
+2007,31,31,2533,#cc0000,Stockbrokers
+2007,2,2,3522,#d66011,Health and Environmental Workers
+2007,324,324,7163,#9edae5,Glaziers
+2007,3,3,3771,#d66011,Professional Athletes
+2007,19,19,3121,#d66011,Building Construction Technicians
+2007,3,3,5102,#17bcef,Laundry Supervisors
+2007,414,414,7170,#9edae5,Civil Engineering Assistants
+2007,245,245,4121,#b7834b,Data Entry Specialists
+2007,12,12,2236,#cc0000,Physiotherapists
+2007,30,30,7257,#9edae5,Refrigeration Installers
+2007,4,4,3313,#d66011,Vocational Middle School Teachers
+2007,5,5,2392,#cc0000,Special Education Teachers
+2007,34,34,7831,#9edae5,Train Workers
+2007,4,4,8624,#ffc41c,Gas Utility Workers
+2007,3,3,5131,#17bcef,Butlers and Maids
+2007,44,44,5192,#17bcef,Recycling Collectors
+2007,249,249,9531,#581f05,Vehicle Maintenance Electricians
+2007,1233,1236,5201,#17bcef,Sales Supervisors
+2007,5,5,7764,#9edae5,Carpenters
+2007,148,148,3171,#d66011,System Administrators
+2007,33,33,7161,#9edae5,Concrete Coaters
+2007,4,4,5165,#17bcef,Funeral Service Workers
+2007,3,3,2626,#cc0000,Musicians
+2007,2800,2802,9144,#581f05,Car Mechanics
+2007,34,34,2613,#cc0000,Archivists
+2007,12,12,8415,#ffc41c,Dairy Pastuerization Workers
+2007,34,34,3011,#d66011,Industrial Lab Technicians
+2007,192,193,9511,#581f05,Electrical Maintenance Workers
+2007,237,238,3511,#d66011,Accounting Technicians
+2007,68,68,1210,#752277,CEOs
+2007,252,252,7243,#9edae5,Metal Welders
+2007,265,265,2523,#cc0000,Executives
+2007,391,393,9921,#581f05,Basic Vehicle Mechanics
+2007,298,298,9113,#581f05,Industrial Machine Maintenance Workers
+2007,4,4,6231,#105B10,Large Animal Livestock Workers
+2007,5,5,7654,#9edae5,Leather Product Finishers
+2007,33,33,3741,#d66011,Audio Technicians
+2007,14,14,9501,#581f05,Industrial Electrical Maintenance Supervisors
+2007,30,30,7524,#9edae5,Glassware and Ceramic Workers
+2007,2,2,2112,#cc0000,Statisticians
+2007,447,447,7632,#9edae5,Stitching Machine Operators
+2007,348,348,7630,#9edae5,Other Clothing Manufacturing Workers
+2007,19,19,5151,#17bcef,Health Services Workers
+2007,12,12,1312,#752277,Health Service Directors
+2007,30,30,7603,#9edae5,Clothing Manufacturing Supervisors
+2007,2027,2034,3541,#d66011,Sales Specialist
+2007,2,2,2153,#cc0000,Pilots
+2007,4,4,1313,#752277,Education Directors
+2007,39,39,7157,#9edae5,Insulation Workers
+2007,26,26,3743,#d66011,Projectionists
+2007,3,3,2615,#cc0000,Writers
+2007,4,4,2346,#cc0000,Language Professors
+2007,1,1,1222,#752277,Mining and Quarrying COOs
+2007,2,2,2211,#cc0000,Biologists
+2007,38,38,3331,#d66011,Free Course Instructors
+2007,1,1,1227,#752277,Financial COOs
+2007,149,150,1422,#752277,Human Resource Managers
+2007,4,4,8231,#ffc41c,Glass Preparation Operators
+2007,32,32,4241,#b7834b,Interviewers and Census Takers
+2007,3,3,6124,#105B10,Flower Farmers
+2007,4,4,3951,#d66011,Technical Support in Research and Development
+2007,4,4,2032,#cc0000,Engineering Researchers
+2007,3,3,3425,#d66011,Air Transport Technicians
+2007,18,18,2515,#cc0000,Psychologists
+2007,25,25,2237,#cc0000,Nutritionists
+2007,4,4,3253,#d66011,Biotechnical Technicians
+2007,3,3,8211,#ffc41c,Sinter Operators
+2007,27,27,7201,#9edae5,Metal Machining Supervisors
+2007,5,5,7827,#9edae5,Waterway Workers
+2007,5,5,8117,#ffc41c,Rubber and Plastics Machine Operators
+2007,333,334,7233,#9edae5,Metal Equipment Painters
+2007,288,288,3911,#d66011,Industrial Planning Technicians
+2007,47,47,7652,#9edae5,Leather Manufacturing Workers
+2007,264,264,3131,#d66011,Electricians and Electrical Engineers
+2007,34,34,3134,#d66011,Instrumentation Technicians
+2007,24,26,2233,#cc0000,Veterinarians
+2007,6,6,6232,#105B10,Midsize Animal Livestock Workers
+2007,49,49,9513,#581f05,Security System Technicians
+2007,30,30,7254,#9edae5,Engine Fitters
+2007,186,186,1424,#752277,Supply Managers
+2007,4913,4930,4141,#b7834b,Stockmen
+2007,37,37,5111,#17bcef,Transportation Security
+2007,239,240,5241,#17bcef,Door-to-Door Salesmen
+2007,59,62,2143,#cc0000,Electrical Engineers
+2007,523,524,5152,#17bcef,Medical Lab Assistants
+2007,55,55,8331,#ffc41c,Paper Machinery Operators
+2007,12,12,7202,#9edae5,Metal Processing Supervisors
+2007,2167,2177,1421,#752277,Financial Managers
+2007,6,6,7618,#9edae5,Textile Inspectors
+2007,3,3,1225,#752277,Hospitality COOs
+2007,37,37,7112,#9edae5,Mineral Extraction Machinery Operators
+2007,583,584,9922,#581f05,Road Maintenance Workers
+2007,422,422,5243,#17bcef,Street Vendors
+2007,19,19,2612,#cc0000,Librarians
+2007,1,1,1236,#752277,Computer Service Officers
+2007,5,5,7502,#9edae5,Glass and Ceramic Supervisors
+2007,53,53,7643,#9edae5,Footwear Finishers
+2007,4,4,6410,#105B10,Mechanical Agricultural Workers
+2007,7,7,7640,#9edae5,Other Footwear Manufacturing Workers
+2007,61,61,7213,#9edae5,Metal Polishers
+2007,2,2,3322,#d66011,Vocational Teachers
+2007,31,34,3751,#d66011,Interior Designers
+2007,214,221,1412,#752277,Mining Production Managers
+2007,41,41,2624,#cc0000,Visual Artists
+2007,4,4,6301,#105B10,Forestry and Aquaculture Supervisors
+2007,2,2,3182,#d66011,Mechanical Designers
+2007,2,2,2331,#cc0000,Vocational Teachers
+2007,3,3,3163,#d66011,Mining Technicians
+2007,519,520,5231,#17bcef,Product Installers
+2007,381,381,4201,#b7834b,Public Service Supervisors
+2007,60,60,7211,#9edae5,Toolmakers
+2007,3,3,1237,#752277,R&amp;D Directors
+2007,20,20,3421,#d66011,Transport Logistics Technicians
+2007,1,1,8301,#ffc41c,Paper Manufacturing Supervisors
+2007,349,350,3172,#d66011,Computer Technicians
+2007,10,10,8484,#ffc41c,Food Tasters
+2007,619,619,5173,#17bcef,Security Guards
+2007,8,8,7604,#9edae5,Cobbler Supervisors
+2007,33,33,7301,#9edae5,Electrical Manufacturing Supervisors
+2007,6,6,1226,#752277,Storage and Transport COOs
+2007,22,22,7111,#9edae5,Solid Mineral Extraction Workers
+2007,5,5,7826,#9edae5,Train Operators
+2007,56,56,7241,#9edae5,Plumbers
+2007,48478,48647,5211,#17bcef,Vendors
+2007,4,4,8101,#ffc41c,Chemical Production Supervisors
+2007,200,202,2531,#cc0000,Public Relations
+2007,6,7,3411,#d66011,Commercial Pilots
+2007,21,21,2141,#cc0000,Architects and Planners
+2007,40,40,3003,#d66011,Electromechanical Technicians
+2007,41,41,9541,#581f05,Elevator Technicians
+2007,4,4,7246,#9edae5,Wire Rope Workers
+2007,7,7,3183,#d66011,Utility Designers
+2007,51,51,7245,#9edae5,Metal Forming Machine Operators
+2007,64,64,7313,#9edae5,Telecom Equipment Repairmen
+2007,17,17,2232,#cc0000,Dentists
+2007,17,17,1311,#752277,Social Services Directors
+2007,8,8,3422,#d66011,Customs Brokes
+2007,20,20,3543,#d66011,Foreign Trade Analysts
+2007,1,1,2511,#cc0000,Anthropologists
+2007,7,7,4231,#b7834b,Customs Brokers
+2007,89,89,8414,#ffc41c,Food Preservation Workers
+2007,1,1,6313,#105B10,Fish Breeders
+2007,1,1,6225,#105B10,Fruit Farm Workers
+2007,1,1,7622,#9edae5,Leather Tanners
+2007,197,199,2522,#cc0000,Accountants
+2007,70,71,7166,#9edae5,Interior Painters
+2007,35,35,3111,#d66011,Chemical Technicians
+2007,4,4,8221,#ffc41c,Metal Reheating Operators
+2007,7,7,7686,#9edae5,Typographers
+2007,6,6,2628,#cc0000,Other Dancers
+2007,700,701,4132,#b7834b,Bank Assistants
+2007,1,1,8622,#ffc41c,Water Utility Workers
+2007,56,56,5101,#17bcef,Hospitality Supervisors
+2007,119,129,1231,#752277,Administrative and Financial Officers
+2007,72,72,7731,#9edae5,Wood Cutting Machine Operators
+2007,524,524,7741,#9edae5,Furniture Assemblers
+2007,29,29,1427,#752277,Project Managers
+2007,1,1,3116,#d66011,Textile Technicians
+2007,1,1,6221,#105B10,Landscapers
+2007,63,63,7251,#9edae5,Assembly Line Equipment Assemblers
+2007,51,51,3223,#d66011,Optometrists
+2007,7,7,9911,#581f05,Railway Maintenance Workers
+2007,55,56,7255,#9edae5,Car Assembly Line Workers
+2007,1,1,6325,#105B10,Medicinal Species Cultivation
+2007,67,67,3722,#d66011,Teleprocessing Technicians
+2007,1,1,7650,#9edae5,Other Leather Product Workers
+2007,91,91,8417,#ffc41c,Beverage Manufacturing Workers
+2007,1,1,3192,#d66011,Furniture Technicians
+2007,3828,3850,1414,#752277,Trade Managers
+2007,1,1,6223,#105B10,Horticulture Farm Workers
+2007,379,379,3141,#d66011,Mechanical Technicians
+2007,10,10,2544,#cc0000,State and Municipal Tax Collectors
+2007,1,1,3225,#d66011,Orthopedic Prostheses Technicians
+2007,693,693,4142,#b7834b,Production Trainers
+2007,80,80,6321,#105B10,Lumberjacks
+2007,91,91,5163,#17bcef,Dry Cleaners
+2007,3,3,2111,#cc0000,Mathematicians
+2007,74,74,7164,#9edae5,Plasterers
+2007,9,9,2617,#cc0000,Announcers
+2007,5,5,6323,#105B10,Fiber and Wax and Oil Extraction Workers
+2007,1,1,8486,#ffc41c,Craft Tobacoo Workers
+2007,1,1,2543,#cc0000,Labor Inspectors
+2007,8,8,8232,#ffc41c,Glass Manufacturing Operators
+2007,77,77,7155,#9edae5,Construction Workers
+2007,10,10,2144,#cc0000,Mechanical Engineers
+2007,1,1,7613,#9edae5,Loom Operators
+2007,6,6,2035,#cc0000,Social Sciences Researchers
+2007,10,10,4212,#b7834b,Gambling Collectors
+2007,70,70,7321,#9edae5,Communication Line Repairmen
+2007,46,46,3221,#d66011,Alternative Therapy Technicians
+2007,1,1,1221,#752277,Agricultural COOs
+2007,7,7,7681,#9edae5,Weavers and Knitters
+2007,96,96,9193,#581f05,Sports Equipment Repairmen
+2007,3031,3043,1423,#752277,Marketing Managers
+2007,1132,1132,7841,#9edae5,Packing and Labeling Workers
+2007,1,1,5133,#17bcef,Housekeepers
+2007,49,49,7102,#9edae5,Construction Supervisors
+2007,1,1,2621,#cc0000,Producers
+2007,66,66,3744,#d66011,Video and Film Editors
+2007,1,1,7114,#9edae5,Salt Workers
+2007,63,63,xxxx,#C7C7C7,Unreported
+2007,55,55,3188,#d66011,Product Design Planners
+2007,8,8,7153,#9edae5,Reinforced Concrete Assemblers
+2007,1,1,3114,#d66011,Plastic and Rubber Technicians
+2007,11,11,3523,#d66011,Tax Agents
+2007,1,1,3147,#d66011,Steel Technicians
+2007,1013,1014,5199,#17bcef,Other Service Workers
+2007,3,3,3241,#d66011,Radiologists
+2007,40,40,3513,#d66011,Administrative Technicians
+2007,12,12,5164,#17bcef,Launderers
+2007,7,7,1224,#752277,Trade COOs
+2007,1,1,7113,#9edae5,Liquid and Gas Extraction Workers
+2007,1,1,3112,#d66011,Gas Technicians
+2007,10,10,3714,#d66011,Recruiters
+2007,1,1,8482,#ffc41c,Craft Dairy Pasteurization Workers
+2007,2,2,1144,#752277,Non-Profit Organization Directors
+2007,269,269,2124,#cc0000,Information Analysts
+2007,1110,1112,5132,#17bcef,Cooks
+2007,1,1,7621,#9edae5,Leather Preparation Workers
+2007,6,6,7735,#9edae5,CNC Wood Machinists
+2007,42,42,2525,#cc0000,Financial Analysts
+2007,91,91,3117,#d66011,Colorists
+2007,5,5,1112,#752277,Heads of Government
+2007,399,400,3542,#d66011,Buyers
+2007,84,84,7661,#9edae5,Prepress Graphics Workers
+2007,100,100,7411,#9edae5,Precision Instrument Assemblers
+2007,4,4,2122,#cc0000,Computer Engineers
+2007,11,11,7221,#9edae5,Metal Forging Workers
+2007,1,1,6134,#105B10,Insect Breeders
+2007,93,93,7664,#9edae5,Photo Lab Technicians
+2007,6,6,3713,#d66011,Graphic Designers
+2007,1,1,3424,#d66011,Public Transporation Technicians
+2007,97,97,7511,#9edae5,Precious Stone Artisans
+2007,6,6,7605,#9edae5,Manufactured Fabrics Supervisors
+2007,755,759,9913,#581f05,Vehicle Bodywork Mechanics
+2007,13,13,7642,#9edae5,Footwear Assemblers
+2007,9,9,3764,#d66011,Models
+2007,120,120,8181,#ffc41c,Industrial Lab Operators
+2007,106,106,7522,#9edae5,Glass Processing Workers
+2007,10,10,7232,#9edae5,Thermochemical Metal Workers
+2007,26,26,1417,#752277,Financial Institution Managers
+2007,1,1,1114,#752277,Public Service Leaders
+2007,37,37,2123,#cc0000,IT Managers
+2007,8,8,7732,#9edae5,Wood Plate Pressing Operators
+2007,1,1,2622,#cc0000,Directors
+2007,13,13,7687,#9edae5,Bookbinders
+2007,14,14,8332,#ffc41c,Handmade Paper Product Workers
+2007,1391,1394,9914,#581f05,Building Maintenance Workers
+2007,1,1,6131,#105B10,Larger Livestock Breeders
+2007,1,1,6126,#105B10,Fertilizer Farmers
+2007,990,991,4223,#b7834b,Telemarketers
+2007,1093,1098,5174,#17bcef,Doormen
+2007,31,31,2394,#cc0000,Other Educators
+2007,614,617,4102,#b7834b,Financial Supervisors
+2007,140,140,8418,#ffc41c,Pastry Manufacturing Workers
+2007,8,8,3185,#d66011,Construction Design Planners
+2007,9,9,6430,#105B10,Irrigation and Drainage Workers
+2007,1,1,3772,#d66011,Sports Referees
+2007,90,91,8214,#ffc41c,Metal Finishing Operators
+2007,1,1,2321,#cc0000,High School Teachers
+2007,59,59,3517,#d66011,Insurance Technicians
+2007,54,54,3516,#d66011,Work Safety Technicians
+2007,3,3,8102,#ffc41c,Plastics and Rubber Production Supervisors
+2007,110,110,7252,#9edae5,Industrial Machine Assemblers
+2007,13011,13065,4211,#b7834b,Non-Bank Tellers
+2007,7,7,7154,#9edae5,Concrete Machine Operators
+2007,6,6,8110,#ffc41c,Generic Chemical Equipment Operators
+2007,1,1,3201,#d66011,Biological Technicians
+2007,10,10,3548,#d66011,Tourism and Event Organizers
+2007,15,15,7653,#9edae5,Leather Machine Operators
+2007,900,900,4131,#b7834b,Accounting Assistants
+2007,32,32,3544,#d66011,Auctioneers
+2007,12,12,7101,#9edae5,Mineral Extraction Supervisors
+2007,120,120,8621,#ffc41c,Steam Utility Workers
+2007,86,86,3144,#d66011,Machinery Technicians
+2007,24,24,2512,#cc0000,Economists
+2007,137,137,5141,#17bcef,Building Management
+2007,13,13,7223,#9edae5,Metal Molding Workers
+2007,134,135,7242,#9edae5,Steel Structural Erection Workers
+2007,114,114,9191,#581f05,Lubricators
+2007,5,5,7501,#9edae5,Jewelry Supervisors
+2007,13,13,7721,#9edae5,Wood Preparation Workers
+2007,6,6,3187,#d66011,Electronical Design Planners
+2007,122,122,7631,#9edae5,Clothing Preparation Workers
+2007,109,109,3532,#d66011,Bank Technicians
+2007,159,159,6220,#105B10,Other Agricultural Support Workers
+2007,18,18,6326,#105B10,Coal Workers
+2007,7,7,3142,#d66011,Tool Technicians
+2007,15,15,7222,#9edae5,Metal Smelting Workers
+2007,42,42,9151,#581f05,Measuring Instrument Repairmen
+2007,1,1,3135,#d66011,Photonics Technicians
+2007,13,13,2618,#cc0000,Photographers
+2007,3,3,7401,#9edae5,Instrument Assembly Supervisors
+2007,1810,1812,4122,#b7834b,Secretaries
+2007,12,12,3311,#d66011,Early Childhood Teachers
+2007,11,11,3711,#d66011,Library Technicians
+2007,9,9,1426,#752277,R&amp;D Managers
+2007,9,9,2151,#cc0000,Maritime Officials
+2007,11,11,3001,#d66011,Mechatronic Technicians
+2007,13,13,8213,#ffc41c,Laminating Operators
+2007,159,159,4151,#b7834b,Scribes
+2007,5,5,3186,#d66011,Mechanical Design Planners
+2007,171,171,7633,#9edae5,Embroidery Machine Operators
+2007,2,2,8421,#ffc41c,Other Tobacco Workers
+2007,103,103,3222,#d66011,Nursing Assistants
+2007,10,10,8625,#ffc41c,Refrigeration Workers
+2007,7,8,2235,#cc0000,Nurses
+2007,114,114,7212,#9edae5,Machine Operators
+2007,54,54,3547,#d66011,Independent Salesmen
+2007,6,6,9503,#581f05,Electromechanical Maintenance Supervisors
+2007,15,15,3181,#d66011,Construction Designers
+2007,187,189,5193,#17bcef,Veternary Service Workers
+2007,68,68,3143,#d66011,Car Mechanics
+2007,135,135,7122,#9edae5,Ornamental Stone Workers
+2007,91,91,8401,#ffc41c,Food Manufacturing Supervisors
+2007,17,17,7312,#9edae5,Telecom Equipment Assemblers
+2007,6,6,3211,#d66011,Agricultural Technicians
+2007,25,25,2149,#cc0000,Production Engineers
+2007,15,15,8212,#ffc41c,Furnace Operators
+2007,1533,1537,4221,#b7834b,Receptionists
+2007,28,28,2611,#cc0000,Journalists
+2007,20,20,7734,#9edae5,Wood Series Machinery Operators
+2007,11,11,7821,#9edae5,Crane Operators
+2007,4,4,2221,#cc0000,Agricultural Engineers
+2007,18,18,8233,#ffc41c,Construction Equipment Operators
+2007,14,14,7121,#9edae5,Ore Workers
+2007,10,10,7701,#9edae5,Carpentry Supervisors
+2007,4,4,3115,#d66011,Water Treatment Technicians
+2007,2,2,2412,#cc0000,Attorneys
+2007,163,163,8481,#ffc41c,Craft Food Preservation Workers
+2007,109,109,9112,#581f05,HVAC Maintenance Workers
+2007,5,5,1413,#752277,Construction Managers
+2007,1150,1153,3132,#d66011,Electronics Technicians
+2007,13,13,3180,#d66011,Technical Designers
+2007,151,151,5242,#17bcef,Kiosk and Stall Vendors
+2007,16,16,7601,#9edae5,Textile Supervisors
+2007,1848,1848,7832,#9edae5,Movers
+2007,2,2,6420,#105B10,Forest Mechanization Workers
+2007,2,2,3413,#d66011,Maritime Technicians

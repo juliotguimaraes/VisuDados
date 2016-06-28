@@ -1,0 +1,366 @@
+year,num_emp,num_jobs,cbo_id,color,name
+2002,20,20,7664,#9edae5,Photo Lab Technicians
+2002,3,3,8213,#ffc41c,Laminating Operators
+2002,27,27,9542,#581f05,Home Appliance Technicians
+2002,102,102,3513,#d66011,Administrative Technicians
+2002,3,3,5133,#17bcef,Housekeepers
+2002,12,12,3544,#d66011,Auctioneers
+2002,231,231,7156,#9edae5,Electrical Workers
+2002,16,16,3242,#d66011,Clinical Pathology Technicians
+2002,11,12,3423,#d66011,Road Transport Technicians
+2002,40,40,4212,#b7834b,Gambling Collectors
+2002,1049,1055,1421,#752277,Financial Managers
+2002,2,2,3147,#d66011,Steel Technicians
+2002,34,34,5151,#17bcef,Health Services Workers
+2002,8,8,2332,#cc0000,Vocational Instructors
+2002,3,3,8212,#ffc41c,Furnace Operators
+2002,32,32,3183,#d66011,Utility Designers
+2002,3,3,8231,#ffc41c,Glass Preparation Operators
+2002,37,37,5164,#17bcef,Launderers
+2002,1,1,2035,#cc0000,Social Sciences Researchers
+2002,4,4,2241,#cc0000,Gym Teachers
+2002,198,198,4132,#b7834b,Bank Assistants
+2002,22,22,7245,#9edae5,Metal Forming Machine Operators
+2002,787,790,1210,#752277,CEOs
+2002,2714,2721,3912,#d66011,Production Control Technicians
+2002,1,1,2134,#cc0000,Geologists
+2002,2251,2261,9144,#581f05,Car Mechanics
+2002,20,20,3412,#d66011,Fishermen
+2002,25043,25149,5211,#17bcef,Vendors
+2002,3,3,7162,#9edae5,Roofers
+2002,24,24,7652,#9edae5,Leather Manufacturing Workers
+2002,2,4,3411,#d66011,Commercial Pilots
+2002,35,35,6201,#105B10,Agricultural Supervisors
+2002,16,16,2030,#cc0000,Biology Researchers
+2002,25,25,2618,#cc0000,Photographers
+2002,17,17,7254,#9edae5,Engine Fitters
+2002,1,1,3163,#d66011,Mining Technicians
+2002,241,241,7212,#9edae5,Machine Operators
+2002,278,278,3188,#d66011,Product Design Planners
+2002,37,37,5152,#17bcef,Medical Lab Assistants
+2002,35,35,8233,#ffc41c,Construction Equipment Operators
+2002,41,41,6210,#105B10,General Agricultural Workers
+2002,16,16,3135,#d66011,Photonics Technicians
+2002,42,42,5141,#17bcef,Building Management
+2002,2,2,7686,#9edae5,Typographers
+2002,4,4,2533,#cc0000,Stockbrokers
+2002,2,2,3422,#d66011,Customs Brokes
+2002,3,3,6231,#105B10,Large Animal Livestock Workers
+2002,1,1,2516,#cc0000,Social Workers
+2002,3,3,7161,#9edae5,Concrete Coaters
+2002,4,4,5121,#17bcef,Domestic Service Workers
+2002,261,261,9531,#581f05,Vehicle Maintenance Electricians
+2002,33,33,7166,#9edae5,Interior Painters
+2002,3438,3443,4141,#b7834b,Stockmen
+2002,252,252,2133,#cc0000,Astronomists
+2002,95,95,2124,#cc0000,Information Analysts
+2002,2,2,3181,#d66011,Construction Designers
+2002,345,345,7601,#9edae5,Textile Supervisors
+2002,403,403,7832,#9edae5,Movers
+2002,4,4,8321,#ffc41c,Paper and Cardboard Manufacturing Workers
+2002,268,269,7244,#9edae5,Boiler Workers
+2002,5,5,7524,#9edae5,Glassware and Ceramic Workers
+2002,4,4,2311,#cc0000,Elementary School Teachers
+2002,52,52,6224,#105B10,Flower Culivators
+2002,2,2,8484,#ffc41c,Food Tasters
+2002,264,264,3743,#d66011,Projectionists
+2002,5,5,3732,#d66011,Camera Operators
+2002,4,4,7257,#9edae5,Refrigeration Installers
+2002,19,19,3143,#d66011,Car Mechanics
+2002,3,3,1113,#752277,Magistrates
+2002,5,5,7651,#9edae5,Leather Upholstery Workers
+2002,213,214,3133,#d66011,Telecom Technicians
+2002,4,4,6410,#105B10,Mechanical Agricultural Workers
+2002,4,4,2617,#cc0000,Announcers
+2002,2,2,2544,#cc0000,State and Municipal Tax Collectors
+2002,30,30,3123,#d66011,Geographic Technicians
+2002,3,3,7202,#9edae5,Metal Processing Supervisors
+2002,46,46,7242,#9edae5,Steel Structural Erection Workers
+2002,36,36,7511,#9edae5,Precious Stone Artisans
+2002,36,36,5241,#17bcef,Door-to-Door Salesmen
+2002,307,308,3172,#d66011,Computer Technicians
+2002,177,178,4102,#b7834b,Financial Supervisors
+2002,31,31,8621,#ffc41c,Steam Utility Workers
+2002,475,475,5132,#17bcef,Cooks
+2002,39,39,7661,#9edae5,Prepress Graphics Workers
+2002,3,3,2131,#cc0000,Physicists
+2002,308,309,3515,#d66011,Secretarial Technicians
+2002,5,5,8482,#ffc41c,Craft Dairy Pasteurization Workers
+2002,40,40,4142,#b7834b,Production Trainers
+2002,6,6,8415,#ffc41c,Dairy Pastuerization Workers
+2002,3,3,3731,#d66011,Radio Station Technicians
+2002,4,4,7114,#9edae5,Salt Workers
+2002,3,3,7112,#9edae5,Mineral Extraction Machinery Operators
+2002,27,27,7251,#9edae5,Assembly Line Equipment Assemblers
+2002,597,597,7842,#9edae5,Production Line Feeders
+2002,196,198,4101,#b7834b,Administrative Supervisors
+2002,45,45,7232,#9edae5,Thermochemical Metal Workers
+2002,569,569,2237,#cc0000,Nutritionists
+2002,515,518,5199,#17bcef,Other Service Workers
+2002,365,368,4223,#b7834b,Telemarketers
+2002,6,6,7732,#9edae5,Wood Plate Pressing Operators
+2002,16,16,2233,#cc0000,Veterinarians
+2002,1,1,2032,#cc0000,Engineering Researchers
+2002,6,6,7523,#9edae5,Potters
+2002,43,43,7201,#9edae5,Metal Machining Supervisors
+2002,86,86,2143,#cc0000,Electrical Engineers
+2002,5,5,7223,#9edae5,Metal Molding Workers
+2002,3,3,1426,#752277,R&amp;D Managers
+2002,20,20,2515,#cc0000,Psychologists
+2002,16,16,2132,#cc0000,Chemists
+2002,16,16,9101,#581f05,Industrial Machinery Maintenance Supervisors
+2002,45,45,7522,#9edae5,Glass Processing Workers
+2002,494,494,5103,#17bcef,Security Supervisors
+2002,50,50,7155,#9edae5,Construction Workers
+2002,8,8,2145,#cc0000,Chemical Engineers
+2002,1883,1894,1423,#752277,Marketing Managers
+2002,5263,5283,4131,#b7834b,Accounting Assistants
+2002,544,544,7632,#9edae5,Stitching Machine Operators
+2002,2,2,2239,#cc0000,Physical Therapists
+2002,56,56,7211,#9edae5,Toolmakers
+2002,7,7,7643,#9edae5,Footwear Finishers
+2002,6,6,7733,#9edae5,Other Wood Machining Operators
+2002,34,34,9131,#581f05,Heavy Machinery Mechanics
+2002,1,1,6321,#105B10,Lumberjacks
+2002,222,222,3542,#d66011,Buyers
+2002,17,17,3543,#d66011,Foreign Trade Analysts
+2002,15,15,2232,#cc0000,Dentists
+2002,455,455,7221,#9edae5,Metal Forging Workers
+2002,30,30,3516,#d66011,Work Safety Technicians
+2002,1,1,8421,#ffc41c,Other Tobacco Workers
+2002,1,1,2123,#cc0000,IT Managers
+2002,52,52,7662,#9edae5,Printers
+2002,13,13,2394,#cc0000,Other Educators
+2002,46,46,9112,#581f05,HVAC Maintenance Workers
+2002,535,537,5173,#17bcef,Security Guards
+2002,841,847,5143,#17bcef,Other Building Maintenance Workers
+2002,40,40,3426,#d66011,Seaport Operations Technicians
+2002,11,11,2512,#cc0000,Economists
+2002,68,68,8181,#ffc41c,Industrial Lab Operators
+2002,7,7,2321,#cc0000,High School Teachers
+2002,225,226,1114,#752277,Public Service Leaders
+2002,495,495,7233,#9edae5,Metal Equipment Painters
+2002,859,860,4122,#b7834b,Secretaries
+2002,5,5,5193,#17bcef,Veternary Service Workers
+2002,2,2,3241,#d66011,Radiologists
+2002,63,63,7164,#9edae5,Plasterers
+2002,3,3,2614,#cc0000,Linguists
+2002,2,2,1413,#752277,Construction Managers
+2002,2,2,7510,#9edae5,Jewelers
+2002,4,4,2627,#cc0000,Musicians
+2002,3,3,8625,#ffc41c,Refrigeration Workers
+2002,60,60,3011,#d66011,Industrial Lab Technicians
+2002,26,26,9141,#581f05,Aircraft Mechanics
+2002,7,7,8413,#ffc41c,Sugar Processing Workers
+2002,69,69,7252,#9edae5,Industrial Machine Assemblers
+2002,1,1,6234,#105B10,Insect Workers
+2002,66,66,7122,#9edae5,Ornamental Stone Workers
+2002,45,45,3111,#d66011,Chemical Technicians
+2002,1,1,2111,#cc0000,Mathematicians
+2002,2,2,2616,#cc0000,Editors
+2002,5,5,9111,#581f05,Pump and Motor Mechanics
+2002,81,81,8481,#ffc41c,Craft Food Preservation Workers
+2002,12,12,2149,#cc0000,Production Engineers
+2002,5,5,3518,#d66011,Investigative Technicians
+2002,527,528,4231,#b7834b,Customs Brokers
+2002,1,1,8211,#ffc41c,Sinter Operators
+2002,46,46,7630,#9edae5,Other Clothing Manufacturing Workers
+2002,84,84,6220,#105B10,Other Agricultural Support Workers
+2002,3,3,2147,#cc0000,Mining Engineers
+2002,1,1,7224,#9edae5,Metal Straightening Workers
+2002,3,3,3211,#d66011,Agricultural Technicians
+2002,85,85,5112,#17bcef,Public Transit Attendants
+2002,76,78,5161,#17bcef,Beauty Workers
+2002,87,87,3252,#d66011,Food Production Technicians
+2002,1,1,2146,#cc0000,Material Science Engineers
+2002,253,253,3511,#d66011,Accounting Technicians
+2002,76,76,5231,#17bcef,Product Installers
+2002,7,7,6232,#105B10,Midsize Animal Livestock Workers
+2002,43,43,3131,#d66011,Electricians and Electrical Engineers
+2002,29,29,3180,#d66011,Technical Designers
+2002,60,60,4213,#b7834b,Billing Collectors
+2002,47,47,2141,#cc0000,Architects and Planners
+2002,1,1,7734,#9edae5,Wood Series Machinery Operators
+2002,7073,7088,4110,#b7834b,Administrative Assistants
+2002,689,692,5243,#17bcef,Street Vendors
+2002,60,60,7631,#9edae5,Clothing Preparation Workers
+2002,1,1,5111,#17bcef,Transportation Security
+2002,59,59,7822,#9edae5,Cargo Equipment Operators
+2002,1,1,2392,#cc0000,Special Education Teachers
+2002,757,757,1415,#752277,Hospitality Managers
+2002,4,4,7301,#9edae5,Electrical Manufacturing Supervisors
+2002,77,77,7151,#9edae5,Excavators
+2002,8,8,7633,#9edae5,Embroidery Machine Operators
+2002,98,98,7641,#9edae5,Footwear Preparation Workers
+2002,1,1,3522,#d66011,Health and Environmental Workers
+2002,3,3,2153,#cc0000,Pilots
+2002,1,1,2621,#cc0000,Producers
+2002,1,1,7121,#9edae5,Ore Workers
+2002,9,9,9143,#581f05,Subway Mechanics
+2002,10,10,7751,#9edae5,Wood Finishers
+2002,108,114,7170,#9edae5,Civil Engineering Assistants
+2002,7,7,7521,#9edae5,Glassblowers
+2002,127,127,4152,#b7834b,Postal Workers
+2002,470,472,2522,#cc0000,Accountants
+2002,526,527,3132,#d66011,Electronics Technicians
+2002,8,8,8401,#ffc41c,Food Manufacturing Supervisors
+2002,71,72,7411,#9edae5,Precision Instrument Assemblers
+2002,92,93,3251,#d66011,Pharmacy Technicians
+2002,7,7,3517,#d66011,Insurance Technicians
+2002,10,10,6124,#105B10,Flower Farmers
+2002,9,9,7101,#9edae5,Mineral Extraction Supervisors
+2002,859,862,5174,#17bcef,Doormen
+2002,711,711,7825,#9edae5,General Cargo Drivers
+2002,1,1,6225,#105B10,Fruit Farm Workers
+2002,34,34,1424,#752277,Supply Managers
+2002,1,1,7604,#9edae5,Cobbler Supervisors
+2002,8,8,6326,#105B10,Coal Workers
+2002,102,102,3114,#d66011,Plastic and Rubber Technicians
+2002,83,83,3751,#d66011,Interior Designers
+2002,9,9,2312,#cc0000,General Primary School Teachers
+2002,1,1,3225,#d66011,Orthopedic Prostheses Technicians
+2002,100,100,2613,#cc0000,Archivists
+2002,8,8,5101,#17bcef,Hospitality Supervisors
+2002,66,66,9913,#581f05,Vehicle Bodywork Mechanics
+2002,102,106,3722,#d66011,Teleprocessing Technicians
+2002,7,7,3223,#d66011,Optometrists
+2002,1,1,3713,#d66011,Graphic Designers
+2002,964,968,1417,#752277,Financial Institution Managers
+2002,6,6,3134,#d66011,Instrumentation Technicians
+2002,29,29,1412,#752277,Mining Production Managers
+2002,1,1,8301,#ffc41c,Paper Manufacturing Supervisors
+2002,1,1,2615,#cc0000,Writers
+2002,9,9,7663,#9edae5,Print Finishers
+2002,24,24,2410,#cc0000,Lawyers
+2002,111,111,7165,#9edae5,Floor Finishers
+2002,8,8,8214,#ffc41c,Metal Finishing Operators
+2002,790,792,3514,#d66011,Judicial Clerks
+2002,7,7,8411,#ffc41c,Grains Processing Workers
+2002,143,143,6123,#105B10,Horticulture Farmers
+2002,2,2,6230,#105B10,Animal Trainers
+2002,9,10,8111,#ffc41c,Grinding and Mixing Machine Operators
+2002,8,8,3184,#d66011,Technical Product Designers
+2002,14,14,7683,#9edae5,Leather and Fur Footwear Workers
+2002,9,9,3911,#d66011,Industrial Planning Technicians
+2002,54,55,1422,#752277,Human Resource Managers
+2002,1,1,1111,#752277,Legislators
+2002,32,32,2231,#cc0000,Doctors
+2002,145,145,7841,#9edae5,Packing and Labeling Workers
+2002,14,14,8414,#ffc41c,Food Preservation Workers
+2002,129,129,9921,#581f05,Basic Vehicle Mechanics
+2002,1,1,3425,#d66011,Air Transport Technicians
+2002,1200,1207,4221,#b7834b,Receptionists
+2002,15,15,3424,#d66011,Public Transporation Technicians
+2002,473,477,3541,#d66011,Sales Specialist
+2002,35,35,1425,#752277,IT Managers
+2002,1287,1289,8485,#ffc41c,Butchers
+2002,1789,1794,5134,#17bcef,Restaurant Workers
+2002,120,121,4222,#b7834b,Telephone Operators
+2002,1233,1236,5191,#17bcef,Couriers
+2002,1,1,7621,#9edae5,Leather Preparation Workers
+2002,111,112,7152,#9edae5,Masonry Workers
+2002,133,133,4151,#b7834b,Scribes
+2002,82,82,6223,#105B10,Horticulture Farm Workers
+2002,1658,1665,5142,#17bcef,Garbagemen
+2002,67,67,3003,#d66011,Electromechanical Technicians
+2002,1503,1503,8483,#ffc41c,Bakers
+2002,1,1,3523,#d66011,Tax Agents
+2002,11,11,5171,#17bcef,Firefighters and Lifeguards
+2002,6,6,2236,#cc0000,Physiotherapists
+2002,2,2,5165,#17bcef,Funeral Service Workers
+2002,7,7,9541,#581f05,Elevator Technicians
+2002,16,16,7153,#9edae5,Reinforced Concrete Assemblers
+2002,111,112,7711,#9edae5,Cabinetmakers
+2002,11,11,8117,#ffc41c,Rubber and Plastics Machine Operators
+2002,7,7,9501,#581f05,Industrial Electrical Maintenance Supervisors
+2002,589,596,2521,#cc0000,Administrators
+2002,8,8,7157,#9edae5,Insulation Workers
+2002,1,1,7681,#9edae5,Weavers and Knitters
+2002,16,16,7653,#9edae5,Leather Machine Operators
+2002,18,18,7613,#9edae5,Loom Operators
+2002,16,18,7614,#9edae5,Textile Dyers
+2002,109,111,9511,#581f05,Electrical Maintenance Workers
+2002,110,110,4121,#b7834b,Data Entry Specialists
+2002,14,14,3222,#d66011,Nursing Assistants
+2002,104,104,2531,#cc0000,Public Relations
+2002,15,15,6310,#105B10,Other Fisherman
+2002,6,6,3146,#d66011,Metallurgy Technicians
+2002,146,147,2235,#cc0000,Nurses
+2002,120,120,9113,#581f05,Industrial Machine Maintenance Workers
+2002,125,125,7250,#9edae5,Other Mechanical Fitters
+2002,2,2,6301,#105B10,Forestry and Aquaculture Supervisors
+2002,1711,1716,xxxx,#C7C7C7,Unreported
+2002,12,12,3532,#d66011,Bank Technicians
+2002,38,38,2524,#cc0000,Human Resources Professionals
+2002,13,13,8232,#ffc41c,Glass Manufacturing Operators
+2002,1,1,3711,#d66011,Library Technicians
+2002,2,2,1222,#752277,Mining and Quarrying COOs
+2002,3,3,6131,#105B10,Larger Livestock Breeders
+2002,22,22,2142,#cc0000,Civil Engineers
+2002,19,19,7721,#9edae5,Wood Preparation Workers
+2002,25,25,9193,#581f05,Sports Equipment Repairmen
+2002,152,153,7311,#9edae5,Electrical Equipment Assemblers
+2002,11,11,7618,#9edae5,Textile Inspectors
+2002,174,174,7111,#9edae5,Solid Mineral Extraction Workers
+2002,167,171,4201,#b7834b,Public Service Supervisors
+2002,13,13,2331,#cc0000,Vocational Teachers
+2002,14,14,7214,#9edae5,CNC Machinists
+2002,2,2,8623,#ffc41c,Sewage Workers
+2002,180,180,3764,#d66011,Models
+2002,210,211,3548,#d66011,Tourism and Event Organizers
+2002,15,15,7321,#9edae5,Communication Line Repairmen
+2002,2,2,8101,#ffc41c,Chemical Production Supervisors
+2002,62,62,2221,#cc0000,Agricultural Engineers
+2002,22,22,7642,#9edae5,Footwear Assemblers
+2002,22,22,8416,#ffc41c,Coffee and Tea Workers
+2002,1764,1767,3117,#d66011,Colorists
+2002,39,39,3547,#d66011,Independent Salesmen
+2002,27,27,2144,#cc0000,Mechanical Engineers
+2002,2043,2043,4211,#b7834b,Non-Bank Tellers
+2002,230,230,7213,#9edae5,Metal Polishers
+2002,149,149,7243,#9edae5,Metal Welders
+2002,17,17,7313,#9edae5,Telecom Equipment Repairmen
+2002,183,184,7102,#9edae5,Construction Supervisors
+2002,3,3,3182,#d66011,Mechanical Designers
+2002,131,131,9191,#581f05,Lubricators
+2002,2230,2231,1416,#752277,Transportation Managers
+2002,24,24,3221,#d66011,Alternative Therapy Technicians
+2002,1,1,2631,#cc0000,Religious Professionals
+2002,195,195,5192,#17bcef,Recycling Collectors
+2002,2,2,3721,#d66011,Cinematography Technicians
+2002,3,3,7113,#9edae5,Liquid and Gas Extraction Workers
+2002,14,14,7821,#9edae5,Crane Operators
+2002,1,1,8331,#ffc41c,Paper Machinery Operators
+2002,3,3,7828,#9edae5,Animal-Drawn Vehicle Conductors
+2002,6,6,1411,#752277,Agricultural Production Managers
+2002,30,30,3116,#d66011,Textile Technicians
+2002,2,2,8116,#ffc41c,Coke Equipment Operators
+2002,2006,2007,3421,#d66011,Transport Logistics Technicians
+2002,21,21,7222,#9edae5,Metal Smelting Workers
+2002,165,165,3744,#d66011,Video and Film Editors
+2002,1,1,7253,#9edae5,Heavy Machinery Assemblers
+2002,108,108,3141,#d66011,Mechanical Technicians
+2002,133,134,2523,#cc0000,Executives
+2002,98,98,3171,#d66011,System Administrators
+2002,579,607,5201,#17bcef,Sales Supervisors
+2002,11,11,2238,#cc0000,Audiologists
+2002,184,184,2624,#cc0000,Visual Artists
+2002,2,2,9543,#581f05,Office Equipment Technicians
+2002,21,21,7241,#9edae5,Plumbers
+2002,234,234,7163,#9edae5,Glaziers
+2002,1,1,2611,#cc0000,Journalists
+2002,717,730,2234,#cc0000,Pharmacists
+2002,1963,1968,7823,#9edae5,Passenger Vehicle Drivers
+2002,3,3,7682,#9edae5,Tissue Makers
+2002,23,23,3121,#d66011,Building Construction Technicians
+2002,29,29,5242,#17bcef,Kiosk and Stall Vendors
+2002,18,19,7831,#9edae5,Train Workers
+2002,21246,21290,1414,#752277,Trade Managers
+2002,1,1,7701,#9edae5,Carpentry Supervisors
+2002,3,3,8113,#ffc41c,Filtration Workers
+2002,31,31,8418,#ffc41c,Pastry Manufacturing Workers
+2002,28,28,5163,#17bcef,Dry Cleaners
+2002,24,24,7731,#9edae5,Wood Cutting Machine Operators
+2002,19,23,7824,#9edae5,Public Transit Driver
+2002,1,1,3113,#d66011,Glass Technicians
+
